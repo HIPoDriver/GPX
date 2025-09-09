@@ -1,0 +1,2362 @@
+<?xml version="1.0"?>
+<gpx version="1.0" creator="Marlin Track Mapper" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+  <bounds minlat="36.5519151667" minlon="-79.2099550000" maxlat="36.5596906667" maxlon="-79.2043368333"/>               
+  <trk>
+    <name>Marlin Track Map</name>
+    <cmt>marklatdegs="36.5540145000" marklondegs="-79.2067035000" markcourse="329.4400000000" numpoints="392"</cmt>         
+    <trkseg>
+      <trkpt lat="36.5540145000" lon="-79.2067035000">
+        <ele>143.100000</ele>
+        <time>2020-07-25T13:23:22.20Z</time>
+        <course>329.44</course>
+        <name>point 1</name>
+      </trkpt>
+      <trkpt lat="36.5540861667" lon="-79.2067558333">
+        <ele>142.900000</ele>
+        <time>2020-07-25T13:23:22.40Z</time>
+        <course>329.55</course>
+        <name>point 2</name>
+      </trkpt>
+      <trkpt lat="36.5541583333" lon="-79.2068083333">
+        <ele>142.800000</ele>
+        <time>2020-07-25T13:23:22.60Z</time>
+        <course>329.64</course>
+        <name>point 3</name>
+      </trkpt>
+      <trkpt lat="36.5542310000" lon="-79.2068615000">
+        <ele>142.700000</ele>
+        <time>2020-07-25T13:23:22.80Z</time>
+        <course>329.58</course>
+        <name>point 4</name>
+      </trkpt>
+      <trkpt lat="36.5543043333" lon="-79.2069153333">
+        <ele>142.500000</ele>
+        <time>2020-07-25T13:23:23.00Z</time>
+        <course>329.47</course>
+        <name>point 5</name>
+      </trkpt>
+      <trkpt lat="36.5543783333" lon="-79.2069696667">
+        <ele>142.400000</ele>
+        <time>2020-07-25T13:23:23.20Z</time>
+        <course>329.49</course>
+        <name>point 6</name>
+      </trkpt>
+      <trkpt lat="36.5544533333" lon="-79.2070246667">
+        <ele>142.200000</ele>
+        <time>2020-07-25T13:23:23.40Z</time>
+        <course>329.42</course>
+        <name>point 7</name>
+      </trkpt>
+      <trkpt lat="36.5545291667" lon="-79.2070806667">
+        <ele>142.000000</ele>
+        <time>2020-07-25T13:23:23.60Z</time>
+        <course>329.36</course>
+        <name>point 8</name>
+      </trkpt>
+      <trkpt lat="36.5546058333" lon="-79.2071373333">
+        <ele>141.700000</ele>
+        <time>2020-07-25T13:23:23.80Z</time>
+        <course>329.31</course>
+        <name>point 9</name>
+      </trkpt>
+      <trkpt lat="36.5546826667" lon="-79.2071941667">
+        <ele>141.400000</ele>
+        <time>2020-07-25T13:23:24.00Z</time>
+        <course>329.29</course>
+        <name>point 10</name>
+      </trkpt>
+      <trkpt lat="36.5547605000" lon="-79.2072515000">
+        <ele>141.100000</ele>
+        <time>2020-07-25T13:23:24.20Z</time>
+        <course>329.31</course>
+        <name>point 11</name>
+      </trkpt>
+      <trkpt lat="36.5548390000" lon="-79.2073093333">
+        <ele>140.800000</ele>
+        <time>2020-07-25T13:23:24.40Z</time>
+        <course>329.34</course>
+        <name>point 12</name>
+      </trkpt>
+      <trkpt lat="36.5549178333" lon="-79.2073673333">
+        <ele>140.500000</ele>
+        <time>2020-07-25T13:23:24.60Z</time>
+        <course>329.41</course>
+        <name>point 13</name>
+      </trkpt>
+      <trkpt lat="36.5549963333" lon="-79.2074251667">
+        <ele>140.300000</ele>
+        <time>2020-07-25T13:23:24.80Z</time>
+        <course>329.40</course>
+        <name>point 14</name>
+      </trkpt>
+      <trkpt lat="36.5550746667" lon="-79.2074823333">
+        <ele>140.100000</ele>
+        <time>2020-07-25T13:23:25.00Z</time>
+        <course>329.45</course>
+        <name>point 15</name>
+      </trkpt>
+      <trkpt lat="36.5551526667" lon="-79.2075388333">
+        <ele>140.100000</ele>
+        <time>2020-07-25T13:23:25.20Z</time>
+        <course>329.73</course>
+        <name>point 16</name>
+      </trkpt>
+      <trkpt lat="36.5552303333" lon="-79.2075943333">
+        <ele>140.200000</ele>
+        <time>2020-07-25T13:23:25.40Z</time>
+        <course>330.03</course>
+        <name>point 17</name>
+      </trkpt>
+      <trkpt lat="36.5553076667" lon="-79.2076486667">
+        <ele>140.500000</ele>
+        <time>2020-07-25T13:23:25.60Z</time>
+        <course>330.33</course>
+        <name>point 18</name>
+      </trkpt>
+      <trkpt lat="36.5553846667" lon="-79.2077023333">
+        <ele>140.800000</ele>
+        <time>2020-07-25T13:23:25.80Z</time>
+        <course>330.60</course>
+        <name>point 19</name>
+      </trkpt>
+      <trkpt lat="36.5554610000" lon="-79.2077546667">
+        <ele>141.100000</ele>
+        <time>2020-07-25T13:23:26.00Z</time>
+        <course>330.98</course>
+        <name>point 20</name>
+      </trkpt>
+      <trkpt lat="36.5555371667" lon="-79.2078060000">
+        <ele>141.600000</ele>
+        <time>2020-07-25T13:23:26.20Z</time>
+        <course>331.36</course>
+        <name>point 21</name>
+      </trkpt>
+      <trkpt lat="36.5556128333" lon="-79.2078566667">
+        <ele>142.000000</ele>
+        <time>2020-07-25T13:23:26.40Z</time>
+        <course>331.61</course>
+        <name>point 22</name>
+      </trkpt>
+      <trkpt lat="36.5556880000" lon="-79.2079065000">
+        <ele>142.400000</ele>
+        <time>2020-07-25T13:23:26.60Z</time>
+        <course>331.82</course>
+        <name>point 23</name>
+      </trkpt>
+      <trkpt lat="36.5557626667" lon="-79.2079555000">
+        <ele>142.800000</ele>
+        <time>2020-07-25T13:23:26.80Z</time>
+        <course>332.09</course>
+        <name>point 24</name>
+      </trkpt>
+      <trkpt lat="36.5558370000" lon="-79.2080036667">
+        <ele>143.100000</ele>
+        <time>2020-07-25T13:23:27.00Z</time>
+        <course>332.40</course>
+        <name>point 25</name>
+      </trkpt>
+      <trkpt lat="36.5559108333" lon="-79.2080511667">
+        <ele>143.500000</ele>
+        <time>2020-07-25T13:23:27.20Z</time>
+        <course>332.61</course>
+        <name>point 26</name>
+      </trkpt>
+      <trkpt lat="36.5559843333" lon="-79.2080981667">
+        <ele>143.900000</ele>
+        <time>2020-07-25T13:23:27.40Z</time>
+        <course>332.75</course>
+        <name>point 27</name>
+      </trkpt>
+      <trkpt lat="36.5560578333" lon="-79.2081446667">
+        <ele>144.200000</ele>
+        <time>2020-07-25T13:23:27.60Z</time>
+        <course>332.96</course>
+        <name>point 28</name>
+      </trkpt>
+      <trkpt lat="36.5561311667" lon="-79.2081908333">
+        <ele>144.500000</ele>
+        <time>2020-07-25T13:23:27.80Z</time>
+        <course>333.17</course>
+        <name>point 29</name>
+      </trkpt>
+      <trkpt lat="36.5562053333" lon="-79.2082370000">
+        <ele>144.700000</ele>
+        <time>2020-07-25T13:23:28.00Z</time>
+        <course>333.39</course>
+        <name>point 30</name>
+      </trkpt>
+      <trkpt lat="36.5562801667" lon="-79.2082831667">
+        <ele>145.000000</ele>
+        <time>2020-07-25T13:23:28.20Z</time>
+        <course>333.61</course>
+        <name>point 31</name>
+      </trkpt>
+      <trkpt lat="36.5563558333" lon="-79.2083295000">
+        <ele>145.100000</ele>
+        <time>2020-07-25T13:23:28.40Z</time>
+        <course>333.82</course>
+        <name>point 32</name>
+      </trkpt>
+      <trkpt lat="36.5564321667" lon="-79.2083760000">
+        <ele>145.300000</ele>
+        <time>2020-07-25T13:23:28.60Z</time>
+        <course>333.98</course>
+        <name>point 33</name>
+      </trkpt>
+      <trkpt lat="36.5565091667" lon="-79.2084225000">
+        <ele>145.400000</ele>
+        <time>2020-07-25T13:23:28.80Z</time>
+        <course>334.15</course>
+        <name>point 34</name>
+      </trkpt>
+      <trkpt lat="36.5565870000" lon="-79.2084691667">
+        <ele>145.500000</ele>
+        <time>2020-07-25T13:23:29.00Z</time>
+        <course>334.24</course>
+        <name>point 35</name>
+      </trkpt>
+      <trkpt lat="36.5566651667" lon="-79.2085161667">
+        <ele>145.700000</ele>
+        <time>2020-07-25T13:23:29.20Z</time>
+        <course>334.28</course>
+        <name>point 36</name>
+      </trkpt>
+      <trkpt lat="36.5567441667" lon="-79.2085633333">
+        <ele>145.800000</ele>
+        <time>2020-07-25T13:23:29.40Z</time>
+        <course>334.29</course>
+        <name>point 37</name>
+      </trkpt>
+      <trkpt lat="36.5568236667" lon="-79.2086110000">
+        <ele>146.000000</ele>
+        <time>2020-07-25T13:23:29.60Z</time>
+        <course>334.32</course>
+        <name>point 38</name>
+      </trkpt>
+      <trkpt lat="36.5569038333" lon="-79.2086588333">
+        <ele>146.200000</ele>
+        <time>2020-07-25T13:23:29.80Z</time>
+        <course>334.40</course>
+        <name>point 39</name>
+      </trkpt>
+      <trkpt lat="36.5569846667" lon="-79.2087065000">
+        <ele>146.500000</ele>
+        <time>2020-07-25T13:23:30.00Z</time>
+        <course>334.55</course>
+        <name>point 40</name>
+      </trkpt>
+      <trkpt lat="36.5570658333" lon="-79.2087541667">
+        <ele>146.800000</ele>
+        <time>2020-07-25T13:23:30.20Z</time>
+        <course>334.67</course>
+        <name>point 41</name>
+      </trkpt>
+      <trkpt lat="36.5571471667" lon="-79.2088015000">
+        <ele>147.200000</ele>
+        <time>2020-07-25T13:23:30.40Z</time>
+        <course>334.91</course>
+        <name>point 42</name>
+      </trkpt>
+      <trkpt lat="36.5572286667" lon="-79.2088483333">
+        <ele>147.600000</ele>
+        <time>2020-07-25T13:23:30.60Z</time>
+        <course>335.14</course>
+        <name>point 43</name>
+      </trkpt>
+      <trkpt lat="36.5573101667" lon="-79.2088950000">
+        <ele>148.000000</ele>
+        <time>2020-07-25T13:23:30.80Z</time>
+        <course>335.23</course>
+        <name>point 44</name>
+      </trkpt>
+      <trkpt lat="36.5573913333" lon="-79.2089413333">
+        <ele>148.300000</ele>
+        <time>2020-07-25T13:23:31.00Z</time>
+        <course>335.32</course>
+        <name>point 45</name>
+      </trkpt>
+      <trkpt lat="36.5574721667" lon="-79.2089873333">
+        <ele>148.600000</ele>
+        <time>2020-07-25T13:23:31.20Z</time>
+        <course>335.39</course>
+        <name>point 46</name>
+      </trkpt>
+      <trkpt lat="36.5575526667" lon="-79.2090330000">
+        <ele>149.000000</ele>
+        <time>2020-07-25T13:23:31.40Z</time>
+        <course>335.50</course>
+        <name>point 47</name>
+      </trkpt>
+      <trkpt lat="36.5576328333" lon="-79.2090781667">
+        <ele>149.400000</ele>
+        <time>2020-07-25T13:23:31.60Z</time>
+        <course>335.62</course>
+        <name>point 48</name>
+      </trkpt>
+      <trkpt lat="36.5577123333" lon="-79.2091228333">
+        <ele>149.800000</ele>
+        <time>2020-07-25T13:23:31.80Z</time>
+        <course>335.71</course>
+        <name>point 49</name>
+      </trkpt>
+      <trkpt lat="36.5577911667" lon="-79.2091670000">
+        <ele>150.200000</ele>
+        <time>2020-07-25T13:23:32.00Z</time>
+        <course>335.73</course>
+        <name>point 50</name>
+      </trkpt>
+      <trkpt lat="36.5578695000" lon="-79.2092108333">
+        <ele>150.600000</ele>
+        <time>2020-07-25T13:23:32.20Z</time>
+        <course>335.80</course>
+        <name>point 51</name>
+      </trkpt>
+      <trkpt lat="36.5579461667" lon="-79.2092535000">
+        <ele>151.000000</ele>
+        <time>2020-07-25T13:23:32.40Z</time>
+        <course>335.85</course>
+        <name>point 52</name>
+      </trkpt>
+      <trkpt lat="36.5580203333" lon="-79.2092946667">
+        <ele>151.500000</ele>
+        <time>2020-07-25T13:23:32.60Z</time>
+        <course>335.96</course>
+        <name>point 53</name>
+      </trkpt>
+      <trkpt lat="36.5580918333" lon="-79.2093343333">
+        <ele>151.900000</ele>
+        <time>2020-07-25T13:23:32.80Z</time>
+        <course>336.03</course>
+        <name>point 54</name>
+      </trkpt>
+      <trkpt lat="36.5581608333" lon="-79.2093725000">
+        <ele>152.200000</ele>
+        <time>2020-07-25T13:23:33.00Z</time>
+        <course>336.08</course>
+        <name>point 55</name>
+      </trkpt>
+      <trkpt lat="36.5582270000" lon="-79.2094091667">
+        <ele>152.500000</ele>
+        <time>2020-07-25T13:23:33.20Z</time>
+        <course>336.02</course>
+        <name>point 56</name>
+      </trkpt>
+      <trkpt lat="36.5582915000" lon="-79.2094450000">
+        <ele>152.700000</ele>
+        <time>2020-07-25T13:23:33.40Z</time>
+        <course>335.98</course>
+        <name>point 57</name>
+      </trkpt>
+      <trkpt lat="36.5583546667" lon="-79.2094805000">
+        <ele>153.000000</ele>
+        <time>2020-07-25T13:23:33.60Z</time>
+        <course>335.83</course>
+        <name>point 58</name>
+      </trkpt>
+      <trkpt lat="36.5584161667" lon="-79.2095151667">
+        <ele>153.100000</ele>
+        <time>2020-07-25T13:23:33.80Z</time>
+        <course>335.74</course>
+        <name>point 59</name>
+      </trkpt>
+      <trkpt lat="36.5584763333" lon="-79.2095490000">
+        <ele>153.300000</ele>
+        <time>2020-07-25T13:23:34.00Z</time>
+        <course>335.70</course>
+        <name>point 60</name>
+      </trkpt>
+      <trkpt lat="36.5585350000" lon="-79.2095821667">
+        <ele>153.400000</ele>
+        <time>2020-07-25T13:23:34.20Z</time>
+        <course>335.71</course>
+        <name>point 61</name>
+      </trkpt>
+      <trkpt lat="36.5585920000" lon="-79.2096143333">
+        <ele>153.500000</ele>
+        <time>2020-07-25T13:23:34.40Z</time>
+        <course>335.68</course>
+        <name>point 62</name>
+      </trkpt>
+      <trkpt lat="36.5586476667" lon="-79.2096455000">
+        <ele>153.500000</ele>
+        <time>2020-07-25T13:23:34.60Z</time>
+        <course>335.76</course>
+        <name>point 63</name>
+      </trkpt>
+      <trkpt lat="36.5587023333" lon="-79.2096763333">
+        <ele>153.500000</ele>
+        <time>2020-07-25T13:23:34.80Z</time>
+        <course>335.79</course>
+        <name>point 64</name>
+      </trkpt>
+      <trkpt lat="36.5587560000" lon="-79.2097063333">
+        <ele>153.400000</ele>
+        <time>2020-07-25T13:23:35.00Z</time>
+        <course>335.83</course>
+        <name>point 65</name>
+      </trkpt>
+      <trkpt lat="36.5588088333" lon="-79.2097358333">
+        <ele>153.400000</ele>
+        <time>2020-07-25T13:23:35.20Z</time>
+        <course>335.93</course>
+        <name>point 66</name>
+      </trkpt>
+      <trkpt lat="36.5588605000" lon="-79.2097643333">
+        <ele>153.300000</ele>
+        <time>2020-07-25T13:23:35.40Z</time>
+        <course>336.08</course>
+        <name>point 67</name>
+      </trkpt>
+      <trkpt lat="36.5589105000" lon="-79.2097918333">
+        <ele>153.200000</ele>
+        <time>2020-07-25T13:23:35.60Z</time>
+        <course>336.24</course>
+        <name>point 68</name>
+      </trkpt>
+      <trkpt lat="36.5589593333" lon="-79.2098181667">
+        <ele>153.100000</ele>
+        <time>2020-07-25T13:23:35.80Z</time>
+        <course>336.45</course>
+        <name>point 69</name>
+      </trkpt>
+      <trkpt lat="36.5590066667" lon="-79.2098433333">
+        <ele>153.000000</ele>
+        <time>2020-07-25T13:23:36.00Z</time>
+        <course>336.94</course>
+        <name>point 70</name>
+      </trkpt>
+      <trkpt lat="36.5590525000" lon="-79.2098670000">
+        <ele>152.800000</ele>
+        <time>2020-07-25T13:23:36.20Z</time>
+        <course>337.42</course>
+        <name>point 71</name>
+      </trkpt>
+      <trkpt lat="36.5590961667" lon="-79.2098886667">
+        <ele>152.700000</ele>
+        <time>2020-07-25T13:23:36.40Z</time>
+        <course>338.29</course>
+        <name>point 72</name>
+      </trkpt>
+      <trkpt lat="36.5591376667" lon="-79.2099078333">
+        <ele>152.600000</ele>
+        <time>2020-07-25T13:23:36.60Z</time>
+        <course>339.56</course>
+        <name>point 73</name>
+      </trkpt>
+      <trkpt lat="36.5591775000" lon="-79.2099243333">
+        <ele>152.500000</ele>
+        <time>2020-07-25T13:23:36.80Z</time>
+        <course>341.53</course>
+        <name>point 74</name>
+      </trkpt>
+      <trkpt lat="36.5592166667" lon="-79.2099376667">
+        <ele>152.400000</ele>
+        <time>2020-07-25T13:23:37.00Z</time>
+        <course>344.72</course>
+        <name>point 75</name>
+      </trkpt>
+      <trkpt lat="36.5592550000" lon="-79.2099473333">
+        <ele>152.300000</ele>
+        <time>2020-07-25T13:23:37.20Z</time>
+        <course>348.47</course>
+        <name>point 76</name>
+      </trkpt>
+      <trkpt lat="36.5592930000" lon="-79.2099533333">
+        <ele>152.200000</ele>
+        <time>2020-07-25T13:23:37.40Z</time>
+        <course>352.72</course>
+        <name>point 77</name>
+      </trkpt>
+      <trkpt lat="36.5593308333" lon="-79.2099550000">
+        <ele>152.100000</ele>
+        <time>2020-07-25T13:23:37.60Z</time>
+        <course>357.89</course>
+        <name>point 78</name>
+      </trkpt>
+      <trkpt lat="36.5593678333" lon="-79.2099520000">
+        <ele>151.900000</ele>
+        <time>2020-07-25T13:23:37.80Z</time>
+        <course>3.53</course>
+        <name>point 79</name>
+      </trkpt>
+      <trkpt lat="36.5594040000" lon="-79.2099451667">
+        <ele>151.700000</ele>
+        <time>2020-07-25T13:23:38.00Z</time>
+        <course>8.66</course>
+        <name>point 80</name>
+      </trkpt>
+      <trkpt lat="36.5594393333" lon="-79.2099343333">
+        <ele>151.500000</ele>
+        <time>2020-07-25T13:23:38.20Z</time>
+        <course>14.05</course>
+        <name>point 81</name>
+      </trkpt>
+      <trkpt lat="36.5594733333" lon="-79.2099188333">
+        <ele>151.200000</ele>
+        <time>2020-07-25T13:23:38.40Z</time>
+        <course>20.03</course>
+        <name>point 82</name>
+      </trkpt>
+      <trkpt lat="36.5595055000" lon="-79.2098990000">
+        <ele>151.000000</ele>
+        <time>2020-07-25T13:23:38.60Z</time>
+        <course>26.37</course>
+        <name>point 83</name>
+      </trkpt>
+      <trkpt lat="36.5595355000" lon="-79.2098750000">
+        <ele>150.800000</ele>
+        <time>2020-07-25T13:23:38.80Z</time>
+        <course>32.72</course>
+        <name>point 84</name>
+      </trkpt>
+      <trkpt lat="36.5595635000" lon="-79.2098471667">
+        <ele>150.600000</ele>
+        <time>2020-07-25T13:23:39.00Z</time>
+        <course>38.64</course>
+        <name>point 85</name>
+      </trkpt>
+      <trkpt lat="36.5595895000" lon="-79.2098158333">
+        <ele>150.500000</ele>
+        <time>2020-07-25T13:23:39.20Z</time>
+        <course>44.10</course>
+        <name>point 86</name>
+      </trkpt>
+      <trkpt lat="36.5596140000" lon="-79.2097808333">
+        <ele>150.300000</ele>
+        <time>2020-07-25T13:23:39.40Z</time>
+        <course>48.91</course>
+        <name>point 87</name>
+      </trkpt>
+      <trkpt lat="36.5596360000" lon="-79.2097430000">
+        <ele>150.000000</ele>
+        <time>2020-07-25T13:23:39.60Z</time>
+        <course>54.45</course>
+        <name>point 88</name>
+      </trkpt>
+      <trkpt lat="36.5596543333" lon="-79.2097028333">
+        <ele>149.800000</ele>
+        <time>2020-07-25T13:23:39.80Z</time>
+        <course>60.54</course>
+        <name>point 89</name>
+      </trkpt>
+      <trkpt lat="36.5596691667" lon="-79.2096611667">
+        <ele>149.500000</ele>
+        <time>2020-07-25T13:23:40.00Z</time>
+        <course>66.30</course>
+        <name>point 90</name>
+      </trkpt>
+      <trkpt lat="36.5596803333" lon="-79.2096178333">
+        <ele>149.300000</ele>
+        <time>2020-07-25T13:23:40.20Z</time>
+        <course>72.27</course>
+        <name>point 91</name>
+      </trkpt>
+      <trkpt lat="36.5596875000" lon="-79.2095736667">
+        <ele>149.100000</ele>
+        <time>2020-07-25T13:23:40.40Z</time>
+        <course>78.62</course>
+        <name>point 92</name>
+      </trkpt>
+      <trkpt lat="36.5596906667" lon="-79.2095291667">
+        <ele>148.900000</ele>
+        <time>2020-07-25T13:23:40.60Z</time>
+        <course>84.93</course>
+        <name>point 93</name>
+      </trkpt>
+      <trkpt lat="36.5596896667" lon="-79.2094846667">
+        <ele>148.600000</ele>
+        <time>2020-07-25T13:23:40.80Z</time>
+        <course>91.32</course>
+        <name>point 94</name>
+      </trkpt>
+      <trkpt lat="36.5596848333" lon="-79.2094401667">
+        <ele>148.400000</ele>
+        <time>2020-07-25T13:23:41.00Z</time>
+        <course>97.62</course>
+        <name>point 95</name>
+      </trkpt>
+      <trkpt lat="36.5596763333" lon="-79.2093958333">
+        <ele>148.200000</ele>
+        <time>2020-07-25T13:23:41.20Z</time>
+        <course>103.36</course>
+        <name>point 96</name>
+      </trkpt>
+      <trkpt lat="36.5596640000" lon="-79.2093520000">
+        <ele>148.000000</ele>
+        <time>2020-07-25T13:23:41.40Z</time>
+        <course>109.00</course>
+        <name>point 97</name>
+      </trkpt>
+      <trkpt lat="36.5596481667" lon="-79.2093091667">
+        <ele>147.900000</ele>
+        <time>2020-07-25T13:23:41.60Z</time>
+        <course>114.51</course>
+        <name>point 98</name>
+      </trkpt>
+      <trkpt lat="36.5596290000" lon="-79.2092680000">
+        <ele>147.700000</ele>
+        <time>2020-07-25T13:23:41.80Z</time>
+        <course>119.94</course>
+        <name>point 99</name>
+      </trkpt>
+      <trkpt lat="36.5596063333" lon="-79.2092285000">
+        <ele>147.600000</ele>
+        <time>2020-07-25T13:23:42.00Z</time>
+        <course>125.28</course>
+        <name>point 100</name>
+      </trkpt>
+      <trkpt lat="36.5595806667" lon="-79.2091905000">
+        <ele>147.600000</ele>
+        <time>2020-07-25T13:23:42.20Z</time>
+        <course>129.93</course>
+        <name>point 101</name>
+      </trkpt>
+      <trkpt lat="36.5595518333" lon="-79.2091540000">
+        <ele>147.500000</ele>
+        <time>2020-07-25T13:23:42.40Z</time>
+        <course>134.40</course>
+        <name>point 102</name>
+      </trkpt>
+      <trkpt lat="36.5595200000" lon="-79.2091198333">
+        <ele>147.500000</ele>
+        <time>2020-07-25T13:23:42.60Z</time>
+        <course>138.98</course>
+        <name>point 103</name>
+      </trkpt>
+      <trkpt lat="36.5594856667" lon="-79.2090876667">
+        <ele>147.500000</ele>
+        <time>2020-07-25T13:23:42.80Z</time>
+        <course>143.04</course>
+        <name>point 104</name>
+      </trkpt>
+      <trkpt lat="36.5594490000" lon="-79.2090573333">
+        <ele>147.500000</ele>
+        <time>2020-07-25T13:23:43.00Z</time>
+        <course>146.45</course>
+        <name>point 105</name>
+      </trkpt>
+      <trkpt lat="36.5594103333" lon="-79.2090288333">
+        <ele>147.600000</ele>
+        <time>2020-07-25T13:23:43.20Z</time>
+        <course>149.29</course>
+        <name>point 106</name>
+      </trkpt>
+      <trkpt lat="36.5593698333" lon="-79.2090015000">
+        <ele>147.700000</ele>
+        <time>2020-07-25T13:23:43.40Z</time>
+        <course>151.65</course>
+        <name>point 107</name>
+      </trkpt>
+      <trkpt lat="36.5593278333" lon="-79.2089753333">
+        <ele>147.800000</ele>
+        <time>2020-07-25T13:23:43.60Z</time>
+        <course>153.64</course>
+        <name>point 108</name>
+      </trkpt>
+      <trkpt lat="36.5592843333" lon="-79.2089501667">
+        <ele>147.900000</ele>
+        <time>2020-07-25T13:23:43.80Z</time>
+        <course>155.32</course>
+        <name>point 109</name>
+      </trkpt>
+      <trkpt lat="36.5592393333" lon="-79.2089258333">
+        <ele>147.900000</ele>
+        <time>2020-07-25T13:23:44.00Z</time>
+        <course>156.61</course>
+        <name>point 110</name>
+      </trkpt>
+      <trkpt lat="36.5591930000" lon="-79.2089021667">
+        <ele>148.000000</ele>
+        <time>2020-07-25T13:23:44.20Z</time>
+        <course>157.82</course>
+        <name>point 111</name>
+      </trkpt>
+      <trkpt lat="36.5591453333" lon="-79.2088791667">
+        <ele>148.100000</ele>
+        <time>2020-07-25T13:23:44.40Z</time>
+        <course>159.08</course>
+        <name>point 112</name>
+      </trkpt>
+      <trkpt lat="36.5590963333" lon="-79.2088570000">
+        <ele>148.300000</ele>
+        <time>2020-07-25T13:23:44.60Z</time>
+        <course>160.19</course>
+        <name>point 113</name>
+      </trkpt>
+      <trkpt lat="36.5590460000" lon="-79.2088358333">
+        <ele>148.400000</ele>
+        <time>2020-07-25T13:23:44.80Z</time>
+        <course>161.38</course>
+        <name>point 114</name>
+      </trkpt>
+      <trkpt lat="36.5589941667" lon="-79.2088155000">
+        <ele>148.500000</ele>
+        <time>2020-07-25T13:23:45.00Z</time>
+        <course>162.59</course>
+        <name>point 115</name>
+      </trkpt>
+      <trkpt lat="36.5589408333" lon="-79.2087960000">
+        <ele>148.600000</ele>
+        <time>2020-07-25T13:23:45.20Z</time>
+        <course>163.70</course>
+        <name>point 116</name>
+      </trkpt>
+      <trkpt lat="36.5588861667" lon="-79.2087770000">
+        <ele>148.700000</ele>
+        <time>2020-07-25T13:23:45.40Z</time>
+        <course>164.59</course>
+        <name>point 117</name>
+      </trkpt>
+      <trkpt lat="36.5588300000" lon="-79.2087586667">
+        <ele>148.700000</ele>
+        <time>2020-07-25T13:23:45.60Z</time>
+        <course>165.44</course>
+        <name>point 118</name>
+      </trkpt>
+      <trkpt lat="36.5587721667" lon="-79.2087408333">
+        <ele>148.600000</ele>
+        <time>2020-07-25T13:23:45.80Z</time>
+        <course>166.13</course>
+        <name>point 119</name>
+      </trkpt>
+      <trkpt lat="36.5587130000" lon="-79.2087233333">
+        <ele>148.600000</ele>
+        <time>2020-07-25T13:23:46.00Z</time>
+        <course>166.63</course>
+        <name>point 120</name>
+      </trkpt>
+      <trkpt lat="36.5586523333" lon="-79.2087061667">
+        <ele>148.400000</ele>
+        <time>2020-07-25T13:23:46.20Z</time>
+        <course>167.25</course>
+        <name>point 121</name>
+      </trkpt>
+      <trkpt lat="36.5585900000" lon="-79.2086890000">
+        <ele>148.300000</ele>
+        <time>2020-07-25T13:23:46.40Z</time>
+        <course>167.65</course>
+        <name>point 122</name>
+      </trkpt>
+      <trkpt lat="36.5585263333" lon="-79.2086716667">
+        <ele>148.200000</ele>
+        <time>2020-07-25T13:23:46.60Z</time>
+        <course>167.75</course>
+        <name>point 123</name>
+      </trkpt>
+      <trkpt lat="36.5584611667" lon="-79.2086538333">
+        <ele>148.000000</ele>
+        <time>2020-07-25T13:23:46.80Z</time>
+        <course>167.65</course>
+        <name>point 124</name>
+      </trkpt>
+      <trkpt lat="36.5583946667" lon="-79.2086353333">
+        <ele>147.800000</ele>
+        <time>2020-07-25T13:23:47.00Z</time>
+        <course>167.42</course>
+        <name>point 125</name>
+      </trkpt>
+      <trkpt lat="36.5583268333" lon="-79.2086156667">
+        <ele>147.500000</ele>
+        <time>2020-07-25T13:23:47.20Z</time>
+        <course>166.96</course>
+        <name>point 126</name>
+      </trkpt>
+      <trkpt lat="36.5582576667" lon="-79.2085948333">
+        <ele>147.200000</ele>
+        <time>2020-07-25T13:23:47.40Z</time>
+        <course>166.42</course>
+        <name>point 127</name>
+      </trkpt>
+      <trkpt lat="36.5581873333" lon="-79.2085725000">
+        <ele>146.800000</ele>
+        <time>2020-07-25T13:23:47.60Z</time>
+        <course>165.78</course>
+        <name>point 128</name>
+      </trkpt>
+      <trkpt lat="36.5581153333" lon="-79.2085483333">
+        <ele>146.500000</ele>
+        <time>2020-07-25T13:23:47.80Z</time>
+        <course>165.02</course>
+        <name>point 129</name>
+      </trkpt>
+      <trkpt lat="36.5580425000" lon="-79.2085225000">
+        <ele>146.100000</ele>
+        <time>2020-07-25T13:23:48.00Z</time>
+        <course>164.13</course>
+        <name>point 130</name>
+      </trkpt>
+      <trkpt lat="36.5579691667" lon="-79.2084948333">
+        <ele>145.600000</ele>
+        <time>2020-07-25T13:23:48.20Z</time>
+        <course>163.17</course>
+        <name>point 131</name>
+      </trkpt>
+      <trkpt lat="36.5578958333" lon="-79.2084651667">
+        <ele>145.200000</ele>
+        <time>2020-07-25T13:23:48.40Z</time>
+        <course>162.04</course>
+        <name>point 132</name>
+      </trkpt>
+      <trkpt lat="36.5578221667" lon="-79.2084335000">
+        <ele>144.900000</ele>
+        <time>2020-07-25T13:23:48.60Z</time>
+        <course>161.01</course>
+        <name>point 133</name>
+      </trkpt>
+      <trkpt lat="36.5577483333" lon="-79.2083996667">
+        <ele>144.600000</ele>
+        <time>2020-07-25T13:23:48.80Z</time>
+        <course>159.95</course>
+        <name>point 134</name>
+      </trkpt>
+      <trkpt lat="36.5576741667" lon="-79.2083638333">
+        <ele>144.300000</ele>
+        <time>2020-07-25T13:23:49.00Z</time>
+        <course>158.81</course>
+        <name>point 135</name>
+      </trkpt>
+      <trkpt lat="36.5576006667" lon="-79.2083258333">
+        <ele>144.000000</ele>
+        <time>2020-07-25T13:23:49.20Z</time>
+        <course>157.58</course>
+        <name>point 136</name>
+      </trkpt>
+      <trkpt lat="36.5575280000" lon="-79.2082861667">
+        <ele>143.700000</ele>
+        <time>2020-07-25T13:23:49.40Z</time>
+        <course>156.34</course>
+        <name>point 137</name>
+      </trkpt>
+      <trkpt lat="36.5574566667" lon="-79.2082446667">
+        <ele>143.500000</ele>
+        <time>2020-07-25T13:23:49.60Z</time>
+        <course>155.09</course>
+        <name>point 138</name>
+      </trkpt>
+      <trkpt lat="36.5573868333" lon="-79.2082030000">
+        <ele>143.200000</ele>
+        <time>2020-07-25T13:23:49.80Z</time>
+        <course>154.41</course>
+        <name>point 139</name>
+      </trkpt>
+      <trkpt lat="36.5573195000" lon="-79.2081621667">
+        <ele>142.900000</ele>
+        <time>2020-07-25T13:23:50.00Z</time>
+        <course>154.08</course>
+        <name>point 140</name>
+      </trkpt>
+      <trkpt lat="36.5572546667" lon="-79.2081221667">
+        <ele>142.600000</ele>
+        <time>2020-07-25T13:23:50.20Z</time>
+        <course>153.66</course>
+        <name>point 141</name>
+      </trkpt>
+      <trkpt lat="36.5571921667" lon="-79.2080830000">
+        <ele>142.300000</ele>
+        <time>2020-07-25T13:23:50.40Z</time>
+        <course>153.31</course>
+        <name>point 142</name>
+      </trkpt>
+      <trkpt lat="36.5571316667" lon="-79.2080446667">
+        <ele>142.100000</ele>
+        <time>2020-07-25T13:23:50.60Z</time>
+        <course>153.01</course>
+        <name>point 143</name>
+      </trkpt>
+      <trkpt lat="36.5570735000" lon="-79.2080070000">
+        <ele>142.200000</ele>
+        <time>2020-07-25T13:23:50.80Z</time>
+        <course>152.62</course>
+        <name>point 144</name>
+      </trkpt>
+      <trkpt lat="36.5570180000" lon="-79.2079703333">
+        <ele>142.500000</ele>
+        <time>2020-07-25T13:23:51.00Z</time>
+        <course>152.15</course>
+        <name>point 145</name>
+      </trkpt>
+      <trkpt lat="36.5569653333" lon="-79.2079350000">
+        <ele>142.800000</ele>
+        <time>2020-07-25T13:23:51.20Z</time>
+        <course>151.70</course>
+        <name>point 146</name>
+      </trkpt>
+      <trkpt lat="36.5569146667" lon="-79.2079005000">
+        <ele>143.100000</ele>
+        <time>2020-07-25T13:23:51.40Z</time>
+        <course>151.39</course>
+        <name>point 147</name>
+      </trkpt>
+      <trkpt lat="36.5568663333" lon="-79.2078676667">
+        <ele>143.500000</ele>
+        <time>2020-07-25T13:23:51.60Z</time>
+        <course>151.43</course>
+        <name>point 148</name>
+      </trkpt>
+      <trkpt lat="36.5568203333" lon="-79.2078365000">
+        <ele>143.800000</ele>
+        <time>2020-07-25T13:23:51.80Z</time>
+        <course>151.52</course>
+        <name>point 149</name>
+      </trkpt>
+      <trkpt lat="36.5567768333" lon="-79.2078070000">
+        <ele>143.900000</ele>
+        <time>2020-07-25T13:23:52.00Z</time>
+        <course>151.44</course>
+        <name>point 150</name>
+      </trkpt>
+      <trkpt lat="36.5567355000" lon="-79.2077781667">
+        <ele>144.100000</ele>
+        <time>2020-07-25T13:23:52.20Z</time>
+        <course>150.84</course>
+        <name>point 151</name>
+      </trkpt>
+      <trkpt lat="36.5566965000" lon="-79.2077493333">
+        <ele>144.100000</ele>
+        <time>2020-07-25T13:23:52.40Z</time>
+        <course>149.43</course>
+        <name>point 152</name>
+      </trkpt>
+      <trkpt lat="36.5566593333" lon="-79.2077195000">
+        <ele>144.100000</ele>
+        <time>2020-07-25T13:23:52.60Z</time>
+        <course>147.25</course>
+        <name>point 153</name>
+      </trkpt>
+      <trkpt lat="36.5566240000" lon="-79.2076878333">
+        <ele>144.100000</ele>
+        <time>2020-07-25T13:23:52.80Z</time>
+        <course>144.33</course>
+        <name>point 154</name>
+      </trkpt>
+      <trkpt lat="36.5565906667" lon="-79.2076538333">
+        <ele>144.000000</ele>
+        <time>2020-07-25T13:23:53.00Z</time>
+        <course>140.77</course>
+        <name>point 155</name>
+      </trkpt>
+      <trkpt lat="36.5565596667" lon="-79.2076176667">
+        <ele>143.800000</ele>
+        <time>2020-07-25T13:23:53.20Z</time>
+        <course>137.10</course>
+        <name>point 156</name>
+      </trkpt>
+      <trkpt lat="36.5565310000" lon="-79.2075791667">
+        <ele>143.600000</ele>
+        <time>2020-07-25T13:23:53.40Z</time>
+        <course>132.98</course>
+        <name>point 157</name>
+      </trkpt>
+      <trkpt lat="36.5565051667" lon="-79.2075381667">
+        <ele>143.400000</ele>
+        <time>2020-07-25T13:23:53.60Z</time>
+        <course>128.42</course>
+        <name>point 158</name>
+      </trkpt>
+      <trkpt lat="36.5564821667" lon="-79.2074946667">
+        <ele>143.100000</ele>
+        <time>2020-07-25T13:23:53.80Z</time>
+        <course>123.69</course>
+        <name>point 159</name>
+      </trkpt>
+      <trkpt lat="36.5564621667" lon="-79.2074488333">
+        <ele>142.700000</ele>
+        <time>2020-07-25T13:23:54.00Z</time>
+        <course>119.07</course>
+        <name>point 160</name>
+      </trkpt>
+      <trkpt lat="36.5564448333" lon="-79.2074008333">
+        <ele>142.200000</ele>
+        <time>2020-07-25T13:23:54.20Z</time>
+        <course>114.46</course>
+        <name>point 161</name>
+      </trkpt>
+      <trkpt lat="36.5564306667" lon="-79.2073508333">
+        <ele>141.800000</ele>
+        <time>2020-07-25T13:23:54.40Z</time>
+        <course>109.96</course>
+        <name>point 162</name>
+      </trkpt>
+      <trkpt lat="36.5564191667" lon="-79.2072990000">
+        <ele>141.300000</ele>
+        <time>2020-07-25T13:23:54.60Z</time>
+        <course>106.05</course>
+        <name>point 163</name>
+      </trkpt>
+      <trkpt lat="36.5564098333" lon="-79.2072453333">
+        <ele>140.700000</ele>
+        <time>2020-07-25T13:23:54.80Z</time>
+        <course>102.80</course>
+        <name>point 164</name>
+      </trkpt>
+      <trkpt lat="36.5564026667" lon="-79.2071900000">
+        <ele>140.100000</ele>
+        <time>2020-07-25T13:23:55.00Z</time>
+        <course>99.80</course>
+        <name>point 165</name>
+      </trkpt>
+      <trkpt lat="36.5563973333" lon="-79.2071340000">
+        <ele>139.400000</ele>
+        <time>2020-07-25T13:23:55.20Z</time>
+        <course>97.38</course>
+        <name>point 166</name>
+      </trkpt>
+      <trkpt lat="36.5563925000" lon="-79.2070776667">
+        <ele>138.700000</ele>
+        <time>2020-07-25T13:23:55.40Z</time>
+        <course>96.65</course>
+        <name>point 167</name>
+      </trkpt>
+      <trkpt lat="36.5563866667" lon="-79.2070213333">
+        <ele>138.000000</ele>
+        <time>2020-07-25T13:23:55.60Z</time>
+        <course>97.84</course>
+        <name>point 168</name>
+      </trkpt>
+      <trkpt lat="36.5563785000" lon="-79.2069651667">
+        <ele>137.200000</ele>
+        <time>2020-07-25T13:23:55.80Z</time>
+        <course>100.66</course>
+        <name>point 169</name>
+      </trkpt>
+      <trkpt lat="36.5563668333" lon="-79.2069100000">
+        <ele>136.500000</ele>
+        <time>2020-07-25T13:23:56.00Z</time>
+        <course>104.67</course>
+        <name>point 170</name>
+      </trkpt>
+      <trkpt lat="36.5563520000" lon="-79.2068561667">
+        <ele>135.900000</ele>
+        <time>2020-07-25T13:23:56.20Z</time>
+        <course>108.96</course>
+        <name>point 171</name>
+      </trkpt>
+      <trkpt lat="36.5563336667" lon="-79.2068036667">
+        <ele>135.300000</ele>
+        <time>2020-07-25T13:23:56.40Z</time>
+        <course>113.25</course>
+        <name>point 172</name>
+      </trkpt>
+      <trkpt lat="36.5563116667" lon="-79.2067526667">
+        <ele>134.800000</ele>
+        <time>2020-07-25T13:23:56.60Z</time>
+        <course>117.98</course>
+        <name>point 173</name>
+      </trkpt>
+      <trkpt lat="36.5562860000" lon="-79.2067045000">
+        <ele>134.400000</ele>
+        <time>2020-07-25T13:23:56.80Z</time>
+        <course>123.06</course>
+        <name>point 174</name>
+      </trkpt>
+      <trkpt lat="36.5562573333" lon="-79.2066591667">
+        <ele>134.200000</ele>
+        <time>2020-07-25T13:23:57.00Z</time>
+        <course>127.82</course>
+        <name>point 175</name>
+      </trkpt>
+      <trkpt lat="36.5562260000" lon="-79.2066168333">
+        <ele>134.200000</ele>
+        <time>2020-07-25T13:23:57.20Z</time>
+        <course>132.39</course>
+        <name>point 176</name>
+      </trkpt>
+      <trkpt lat="36.5561921667" lon="-79.2065783333">
+        <ele>134.200000</ele>
+        <time>2020-07-25T13:23:57.40Z</time>
+        <course>137.25</course>
+        <name>point 177</name>
+      </trkpt>
+      <trkpt lat="36.5561573333" lon="-79.2065426667">
+        <ele>134.300000</ele>
+        <time>2020-07-25T13:23:57.60Z</time>
+        <course>140.44</course>
+        <name>point 178</name>
+      </trkpt>
+      <trkpt lat="36.5561233333" lon="-79.2065085000">
+        <ele>134.500000</ele>
+        <time>2020-07-25T13:23:57.80Z</time>
+        <course>140.89</course>
+        <name>point 179</name>
+      </trkpt>
+      <trkpt lat="36.5560915000" lon="-79.2064745000">
+        <ele>134.600000</ele>
+        <time>2020-07-25T13:23:58.00Z</time>
+        <course>139.34</course>
+        <name>point 180</name>
+      </trkpt>
+      <trkpt lat="36.5560636667" lon="-79.2064401667">
+        <ele>134.800000</ele>
+        <time>2020-07-25T13:23:58.20Z</time>
+        <course>135.26</course>
+        <name>point 181</name>
+      </trkpt>
+      <trkpt lat="36.5560403333" lon="-79.2064050000">
+        <ele>134.900000</ele>
+        <time>2020-07-25T13:23:58.40Z</time>
+        <course>129.96</course>
+        <name>point 182</name>
+      </trkpt>
+      <trkpt lat="36.5560213333" lon="-79.2063690000">
+        <ele>135.000000</ele>
+        <time>2020-07-25T13:23:58.60Z</time>
+        <course>123.79</course>
+        <name>point 183</name>
+      </trkpt>
+      <trkpt lat="36.5560060000" lon="-79.2063313333">
+        <ele>135.200000</ele>
+        <time>2020-07-25T13:23:58.80Z</time>
+        <course>117.00</course>
+        <name>point 184</name>
+      </trkpt>
+      <trkpt lat="36.5559946667" lon="-79.2062926667">
+        <ele>135.300000</ele>
+        <time>2020-07-25T13:23:59.00Z</time>
+        <course>110.20</course>
+        <name>point 185</name>
+      </trkpt>
+      <trkpt lat="36.5559876667" lon="-79.2062531667">
+        <ele>135.400000</ele>
+        <time>2020-07-25T13:23:59.20Z</time>
+        <course>102.82</course>
+        <name>point 186</name>
+      </trkpt>
+      <trkpt lat="36.5559841667" lon="-79.2062121667">
+        <ele>135.500000</ele>
+        <time>2020-07-25T13:23:59.40Z</time>
+        <course>96.33</course>
+        <name>point 187</name>
+      </trkpt>
+      <trkpt lat="36.5559843333" lon="-79.2061700000">
+        <ele>135.600000</ele>
+        <time>2020-07-25T13:23:59.60Z</time>
+        <course>90.30</course>
+        <name>point 188</name>
+      </trkpt>
+      <trkpt lat="36.5559881667" lon="-79.2061273333">
+        <ele>135.700000</ele>
+        <time>2020-07-25T13:23:59.80Z</time>
+        <course>83.97</course>
+        <name>point 189</name>
+      </trkpt>
+      <trkpt lat="36.5559961667" lon="-79.2060850000">
+        <ele>135.800000</ele>
+        <time>2020-07-25T13:24:00.00Z</time>
+        <course>77.59</course>
+        <name>point 190</name>
+      </trkpt>
+      <trkpt lat="36.5560080000" lon="-79.2060435000">
+        <ele>135.800000</ele>
+        <time>2020-07-25T13:24:00.20Z</time>
+        <course>71.20</course>
+        <name>point 191</name>
+      </trkpt>
+      <trkpt lat="36.5560236667" lon="-79.2060033333">
+        <ele>135.800000</ele>
+        <time>2020-07-25T13:24:00.40Z</time>
+        <course>64.94</course>
+        <name>point 192</name>
+      </trkpt>
+      <trkpt lat="36.5560430000" lon="-79.2059655000">
+        <ele>135.800000</ele>
+        <time>2020-07-25T13:24:00.60Z</time>
+        <course>58.39</course>
+        <name>point 193</name>
+      </trkpt>
+      <trkpt lat="36.5560660000" lon="-79.2059296667">
+        <ele>135.900000</ele>
+        <time>2020-07-25T13:24:00.80Z</time>
+        <course>52.11</course>
+        <name>point 194</name>
+      </trkpt>
+      <trkpt lat="36.5560925000" lon="-79.2058965000">
+        <ele>135.900000</ele>
+        <time>2020-07-25T13:24:01.00Z</time>
+        <course>45.98</course>
+        <name>point 195</name>
+      </trkpt>
+      <trkpt lat="36.5561221667" lon="-79.2058661667">
+        <ele>135.800000</ele>
+        <time>2020-07-25T13:24:01.20Z</time>
+        <course>40.17</course>
+        <name>point 196</name>
+      </trkpt>
+      <trkpt lat="36.5561546667" lon="-79.2058386667">
+        <ele>135.800000</ele>
+        <time>2020-07-25T13:24:01.40Z</time>
+        <course>35.02</course>
+        <name>point 197</name>
+      </trkpt>
+      <trkpt lat="36.5561898333" lon="-79.2058141667">
+        <ele>135.700000</ele>
+        <time>2020-07-25T13:24:01.60Z</time>
+        <course>30.14</course>
+        <name>point 198</name>
+      </trkpt>
+      <trkpt lat="36.5562276667" lon="-79.2057928333">
+        <ele>135.600000</ele>
+        <time>2020-07-25T13:24:01.80Z</time>
+        <course>25.12</course>
+        <name>point 199</name>
+      </trkpt>
+      <trkpt lat="36.5562681667" lon="-79.2057740000">
+        <ele>135.400000</ele>
+        <time>2020-07-25T13:24:02.00Z</time>
+        <course>21.15</course>
+        <name>point 200</name>
+      </trkpt>
+      <trkpt lat="36.5563106667" lon="-79.2057573333">
+        <ele>135.200000</ele>
+        <time>2020-07-25T13:24:02.20Z</time>
+        <course>18.02</course>
+        <name>point 201</name>
+      </trkpt>
+      <trkpt lat="36.5563558333" lon="-79.2057430000">
+        <ele>135.000000</ele>
+        <time>2020-07-25T13:24:02.40Z</time>
+        <course>14.95</course>
+        <name>point 202</name>
+      </trkpt>
+      <trkpt lat="36.5564035000" lon="-79.2057308333">
+        <ele>134.700000</ele>
+        <time>2020-07-25T13:24:02.60Z</time>
+        <course>12.25</course>
+        <name>point 203</name>
+      </trkpt>
+      <trkpt lat="36.5564535000" lon="-79.2057203333">
+        <ele>134.400000</ele>
+        <time>2020-07-25T13:24:02.80Z</time>
+        <course>10.00</course>
+        <name>point 204</name>
+      </trkpt>
+      <trkpt lat="36.5565058333" lon="-79.2057113333">
+        <ele>134.000000</ele>
+        <time>2020-07-25T13:24:03.00Z</time>
+        <course>8.36</course>
+        <name>point 205</name>
+      </trkpt>
+      <trkpt lat="36.5565605000" lon="-79.2057035000">
+        <ele>133.700000</ele>
+        <time>2020-07-25T13:24:03.20Z</time>
+        <course>6.90</course>
+        <name>point 206</name>
+      </trkpt>
+      <trkpt lat="36.5566173333" lon="-79.2056966667">
+        <ele>133.400000</ele>
+        <time>2020-07-25T13:24:03.40Z</time>
+        <course>5.77</course>
+        <name>point 207</name>
+      </trkpt>
+      <trkpt lat="36.5566765000" lon="-79.2056906667">
+        <ele>133.100000</ele>
+        <time>2020-07-25T13:24:03.60Z</time>
+        <course>5.04</course>
+        <name>point 208</name>
+      </trkpt>
+      <trkpt lat="36.5567378333" lon="-79.2056851667">
+        <ele>132.800000</ele>
+        <time>2020-07-25T13:24:03.80Z</time>
+        <course>4.31</course>
+        <name>point 209</name>
+      </trkpt>
+      <trkpt lat="36.5568013333" lon="-79.2056810000">
+        <ele>132.500000</ele>
+        <time>2020-07-25T13:24:04.00Z</time>
+        <course>3.29</course>
+        <name>point 210</name>
+      </trkpt>
+      <trkpt lat="36.5568670000" lon="-79.2056780000">
+        <ele>132.200000</ele>
+        <time>2020-07-25T13:24:04.20Z</time>
+        <course>2.33</course>
+        <name>point 211</name>
+      </trkpt>
+      <trkpt lat="36.5569350000" lon="-79.2056763333">
+        <ele>131.900000</ele>
+        <time>2020-07-25T13:24:04.40Z</time>
+        <course>1.41</course>
+        <name>point 212</name>
+      </trkpt>
+      <trkpt lat="36.5570051667" lon="-79.2056753333">
+        <ele>131.600000</ele>
+        <time>2020-07-25T13:24:04.60Z</time>
+        <course>0.92</course>
+        <name>point 213</name>
+      </trkpt>
+      <trkpt lat="36.5570773333" lon="-79.2056736667">
+        <ele>131.400000</ele>
+        <time>2020-07-25T13:24:04.80Z</time>
+        <course>1.21</course>
+        <name>point 214</name>
+      </trkpt>
+      <trkpt lat="36.5571503333" lon="-79.2056713333">
+        <ele>131.200000</ele>
+        <time>2020-07-25T13:24:05.00Z</time>
+        <course>1.50</course>
+        <name>point 215</name>
+      </trkpt>
+      <trkpt lat="36.5572226667" lon="-79.2056690000">
+        <ele>131.000000</ele>
+        <time>2020-07-25T13:24:05.20Z</time>
+        <course>1.55</course>
+        <name>point 216</name>
+      </trkpt>
+      <trkpt lat="36.5572938333" lon="-79.2056663333">
+        <ele>130.900000</ele>
+        <time>2020-07-25T13:24:05.40Z</time>
+        <course>1.78</course>
+        <name>point 217</name>
+      </trkpt>
+      <trkpt lat="36.5573636667" lon="-79.2056638333">
+        <ele>130.700000</ele>
+        <time>2020-07-25T13:24:05.60Z</time>
+        <course>1.79</course>
+        <name>point 218</name>
+      </trkpt>
+      <trkpt lat="36.5574315000" lon="-79.2056611667">
+        <ele>130.600000</ele>
+        <time>2020-07-25T13:24:05.80Z</time>
+        <course>1.77</course>
+        <name>point 219</name>
+      </trkpt>
+      <trkpt lat="36.5574960000" lon="-79.2056588333">
+        <ele>130.500000</ele>
+        <time>2020-07-25T13:24:06.00Z</time>
+        <course>1.55</course>
+        <name>point 220</name>
+      </trkpt>
+      <trkpt lat="36.5575555000" lon="-79.2056568333">
+        <ele>130.500000</ele>
+        <time>2020-07-25T13:24:06.20Z</time>
+        <course>1.34</course>
+        <name>point 221</name>
+      </trkpt>
+      <trkpt lat="36.5576106667" lon="-79.2056548333">
+        <ele>130.600000</ele>
+        <time>2020-07-25T13:24:06.40Z</time>
+        <course>1.31</course>
+        <name>point 222</name>
+      </trkpt>
+      <trkpt lat="36.5576625000" lon="-79.2056533333">
+        <ele>130.800000</ele>
+        <time>2020-07-25T13:24:06.60Z</time>
+        <course>1.13</course>
+        <name>point 223</name>
+      </trkpt>
+      <trkpt lat="36.5577111667" lon="-79.2056518333">
+        <ele>131.000000</ele>
+        <time>2020-07-25T13:24:06.80Z</time>
+        <course>1.11</course>
+        <name>point 224</name>
+      </trkpt>
+      <trkpt lat="36.5577570000" lon="-79.2056501667">
+        <ele>131.200000</ele>
+        <time>2020-07-25T13:24:07.00Z</time>
+        <course>1.47</course>
+        <name>point 225</name>
+      </trkpt>
+      <trkpt lat="36.5578006667" lon="-79.2056476667">
+        <ele>131.300000</ele>
+        <time>2020-07-25T13:24:07.20Z</time>
+        <course>2.54</course>
+        <name>point 226</name>
+      </trkpt>
+      <trkpt lat="36.5578420000" lon="-79.2056431667">
+        <ele>131.500000</ele>
+        <time>2020-07-25T13:24:07.40Z</time>
+        <course>4.86</course>
+        <name>point 227</name>
+      </trkpt>
+      <trkpt lat="36.5578811667" lon="-79.2056361667">
+        <ele>131.600000</ele>
+        <time>2020-07-25T13:24:07.60Z</time>
+        <course>8.14</course>
+        <name>point 228</name>
+      </trkpt>
+      <trkpt lat="36.5579191667" lon="-79.2056265000">
+        <ele>131.700000</ele>
+        <time>2020-07-25T13:24:07.80Z</time>
+        <course>11.72</course>
+        <name>point 229</name>
+      </trkpt>
+      <trkpt lat="36.5579560000" lon="-79.2056136667">
+        <ele>131.700000</ele>
+        <time>2020-07-25T13:24:08.00Z</time>
+        <course>15.70</course>
+        <name>point 230</name>
+      </trkpt>
+      <trkpt lat="36.5579913333" lon="-79.2055975000">
+        <ele>131.800000</ele>
+        <time>2020-07-25T13:24:08.20Z</time>
+        <course>20.21</course>
+        <name>point 231</name>
+      </trkpt>
+      <trkpt lat="36.5580250000" lon="-79.2055780000">
+        <ele>131.700000</ele>
+        <time>2020-07-25T13:24:08.40Z</time>
+        <course>25.06</course>
+        <name>point 232</name>
+      </trkpt>
+      <trkpt lat="36.5580556667" lon="-79.2055545000">
+        <ele>131.700000</ele>
+        <time>2020-07-25T13:24:08.60Z</time>
+        <course>31.49</course>
+        <name>point 233</name>
+      </trkpt>
+      <trkpt lat="36.5580830000" lon="-79.2055280000">
+        <ele>131.700000</ele>
+        <time>2020-07-25T13:24:08.80Z</time>
+        <course>37.75</course>
+        <name>point 234</name>
+      </trkpt>
+      <trkpt lat="36.5581068333" lon="-79.2054985000">
+        <ele>131.600000</ele>
+        <time>2020-07-25T13:24:09.00Z</time>
+        <course>44.76</course>
+        <name>point 235</name>
+      </trkpt>
+      <trkpt lat="36.5581266667" lon="-79.2054660000">
+        <ele>131.500000</ele>
+        <time>2020-07-25T13:24:09.20Z</time>
+        <course>52.56</course>
+        <name>point 236</name>
+      </trkpt>
+      <trkpt lat="36.5581421667" lon="-79.2054316667">
+        <ele>131.400000</ele>
+        <time>2020-07-25T13:24:09.40Z</time>
+        <course>60.39</course>
+        <name>point 237</name>
+      </trkpt>
+      <trkpt lat="36.5581535000" lon="-79.2053956667">
+        <ele>131.300000</ele>
+        <time>2020-07-25T13:24:09.60Z</time>
+        <course>68.37</course>
+        <name>point 238</name>
+      </trkpt>
+      <trkpt lat="36.5581606667" lon="-79.2053580000">
+        <ele>131.200000</ele>
+        <time>2020-07-25T13:24:09.80Z</time>
+        <course>76.55</course>
+        <name>point 239</name>
+      </trkpt>
+      <trkpt lat="36.5581638333" lon="-79.2053190000">
+        <ele>131.100000</ele>
+        <time>2020-07-25T13:24:10.00Z</time>
+        <course>84.02</course>
+        <name>point 240</name>
+      </trkpt>
+      <trkpt lat="36.5581630000" lon="-79.2052791667">
+        <ele>130.900000</ele>
+        <time>2020-07-25T13:24:10.20Z</time>
+        <course>91.18</course>
+        <name>point 241</name>
+      </trkpt>
+      <trkpt lat="36.5581580000" lon="-79.2052393333">
+        <ele>130.700000</ele>
+        <time>2020-07-25T13:24:10.40Z</time>
+        <course>98.75</course>
+        <name>point 242</name>
+      </trkpt>
+      <trkpt lat="36.5581488333" lon="-79.2051995000">
+        <ele>130.400000</ele>
+        <time>2020-07-25T13:24:10.60Z</time>
+        <course>105.79</course>
+        <name>point 243</name>
+      </trkpt>
+      <trkpt lat="36.5581358333" lon="-79.2051598333">
+        <ele>130.200000</ele>
+        <time>2020-07-25T13:24:10.80Z</time>
+        <course>111.77</course>
+        <name>point 244</name>
+      </trkpt>
+      <trkpt lat="36.5581193333" lon="-79.2051208333">
+        <ele>129.900000</ele>
+        <time>2020-07-25T13:24:11.00Z</time>
+        <course>117.58</course>
+        <name>point 245</name>
+      </trkpt>
+      <trkpt lat="36.5580990000" lon="-79.2050828333">
+        <ele>129.700000</ele>
+        <time>2020-07-25T13:24:11.20Z</time>
+        <course>123.39</course>
+        <name>point 246</name>
+      </trkpt>
+      <trkpt lat="36.5580753333" lon="-79.2050455000">
+        <ele>129.400000</ele>
+        <time>2020-07-25T13:24:11.40Z</time>
+        <course>127.94</course>
+        <name>point 247</name>
+      </trkpt>
+      <trkpt lat="36.5580485000" lon="-79.2050088333">
+        <ele>129.200000</ele>
+        <time>2020-07-25T13:24:11.60Z</time>
+        <course>132.01</course>
+        <name>point 248</name>
+      </trkpt>
+      <trkpt lat="36.5580185000" lon="-79.2049733333">
+        <ele>128.900000</ele>
+        <time>2020-07-25T13:24:11.80Z</time>
+        <course>136.28</course>
+        <name>point 249</name>
+      </trkpt>
+      <trkpt lat="36.5579855000" lon="-79.2049390000">
+        <ele>128.700000</ele>
+        <time>2020-07-25T13:24:12.00Z</time>
+        <course>139.76</course>
+        <name>point 250</name>
+      </trkpt>
+      <trkpt lat="36.5579496667" lon="-79.2049056667">
+        <ele>128.500000</ele>
+        <time>2020-07-25T13:24:12.20Z</time>
+        <course>143.14</course>
+        <name>point 251</name>
+      </trkpt>
+      <trkpt lat="36.5579106667" lon="-79.2048733333">
+        <ele>128.400000</ele>
+        <time>2020-07-25T13:24:12.40Z</time>
+        <course>146.28</course>
+        <name>point 252</name>
+      </trkpt>
+      <trkpt lat="36.5578690000" lon="-79.2048423333">
+        <ele>128.600000</ele>
+        <time>2020-07-25T13:24:12.60Z</time>
+        <course>149.17</course>
+        <name>point 253</name>
+      </trkpt>
+      <trkpt lat="36.5578248333" lon="-79.2048123333">
+        <ele>128.800000</ele>
+        <time>2020-07-25T13:24:12.80Z</time>
+        <course>151.51</course>
+        <name>point 254</name>
+      </trkpt>
+      <trkpt lat="36.5577781667" lon="-79.2047838333">
+        <ele>129.000000</ele>
+        <time>2020-07-25T13:24:13.00Z</time>
+        <course>153.94</course>
+        <name>point 255</name>
+      </trkpt>
+      <trkpt lat="36.5577288333" lon="-79.2047571667">
+        <ele>129.300000</ele>
+        <time>2020-07-25T13:24:13.20Z</time>
+        <course>156.67</course>
+        <name>point 256</name>
+      </trkpt>
+      <trkpt lat="36.5576768333" lon="-79.2047330000">
+        <ele>129.600000</ele>
+        <time>2020-07-25T13:24:13.40Z</time>
+        <course>159.57</course>
+        <name>point 257</name>
+      </trkpt>
+      <trkpt lat="36.5576221667" lon="-79.2047116667">
+        <ele>129.900000</ele>
+        <time>2020-07-25T13:24:13.60Z</time>
+        <course>162.61</course>
+        <name>point 258</name>
+      </trkpt>
+      <trkpt lat="36.5575655000" lon="-79.2046918333">
+        <ele>130.200000</ele>
+        <time>2020-07-25T13:24:13.80Z</time>
+        <course>164.46</course>
+        <name>point 259</name>
+      </trkpt>
+      <trkpt lat="36.5575061667" lon="-79.2046736667">
+        <ele>130.600000</ele>
+        <time>2020-07-25T13:24:14.00Z</time>
+        <course>166.36</course>
+        <name>point 260</name>
+      </trkpt>
+      <trkpt lat="36.5574446667" lon="-79.2046583333">
+        <ele>131.000000</ele>
+        <time>2020-07-25T13:24:14.20Z</time>
+        <course>168.82</course>
+        <name>point 261</name>
+      </trkpt>
+      <trkpt lat="36.5573811667" lon="-79.2046463333">
+        <ele>131.400000</ele>
+        <time>2020-07-25T13:24:14.40Z</time>
+        <course>171.37</course>
+        <name>point 262</name>
+      </trkpt>
+      <trkpt lat="36.5573160000" lon="-79.2046375000">
+        <ele>131.800000</ele>
+        <time>2020-07-25T13:24:14.60Z</time>
+        <course>173.94</course>
+        <name>point 263</name>
+      </trkpt>
+      <trkpt lat="36.5572491667" lon="-79.2046323333">
+        <ele>132.300000</ele>
+        <time>2020-07-25T13:24:14.80Z</time>
+        <course>176.55</course>
+        <name>point 264</name>
+      </trkpt>
+      <trkpt lat="36.5571805000" lon="-79.2046303333">
+        <ele>132.700000</ele>
+        <time>2020-07-25T13:24:15.00Z</time>
+        <course>178.81</course>
+        <name>point 265</name>
+      </trkpt>
+      <trkpt lat="36.5571100000" lon="-79.2046315000">
+        <ele>133.200000</ele>
+        <time>2020-07-25T13:24:15.20Z</time>
+        <course>180.79</course>
+        <name>point 266</name>
+      </trkpt>
+      <trkpt lat="36.5570383333" lon="-79.2046356667">
+        <ele>133.600000</ele>
+        <time>2020-07-25T13:24:15.40Z</time>
+        <course>182.65</course>
+        <name>point 267</name>
+      </trkpt>
+      <trkpt lat="36.5569658333" lon="-79.2046428333">
+        <ele>134.000000</ele>
+        <time>2020-07-25T13:24:15.60Z</time>
+        <course>184.59</course>
+        <name>point 268</name>
+      </trkpt>
+      <trkpt lat="36.5568930000" lon="-79.2046531667">
+        <ele>134.400000</ele>
+        <time>2020-07-25T13:24:15.80Z</time>
+        <course>186.45</course>
+        <name>point 269</name>
+      </trkpt>
+      <trkpt lat="36.5568191667" lon="-79.2046665000">
+        <ele>134.800000</ele>
+        <time>2020-07-25T13:24:16.00Z</time>
+        <course>188.31</course>
+        <name>point 270</name>
+      </trkpt>
+      <trkpt lat="36.5567445000" lon="-79.2046828333">
+        <ele>135.300000</ele>
+        <time>2020-07-25T13:24:16.20Z</time>
+        <course>190.08</course>
+        <name>point 271</name>
+      </trkpt>
+      <trkpt lat="36.5566690000" lon="-79.2047026667">
+        <ele>135.800000</ele>
+        <time>2020-07-25T13:24:16.40Z</time>
+        <course>191.98</course>
+        <name>point 272</name>
+      </trkpt>
+      <trkpt lat="36.5565941667" lon="-79.2047260000">
+        <ele>136.300000</ele>
+        <time>2020-07-25T13:24:16.60Z</time>
+        <course>194.07</course>
+        <name>point 273</name>
+      </trkpt>
+      <trkpt lat="36.5565201667" lon="-79.2047526667">
+        <ele>136.800000</ele>
+        <time>2020-07-25T13:24:16.80Z</time>
+        <course>196.24</course>
+        <name>point 274</name>
+      </trkpt>
+      <trkpt lat="36.5564475000" lon="-79.2047820000">
+        <ele>137.400000</ele>
+        <time>2020-07-25T13:24:17.00Z</time>
+        <course>198.10</course>
+        <name>point 275</name>
+      </trkpt>
+      <trkpt lat="36.5563763333" lon="-79.2048131667">
+        <ele>138.000000</ele>
+        <time>2020-07-25T13:24:17.20Z</time>
+        <course>199.51</course>
+        <name>point 276</name>
+      </trkpt>
+      <trkpt lat="36.5563063333" lon="-79.2048451667">
+        <ele>138.500000</ele>
+        <time>2020-07-25T13:24:17.40Z</time>
+        <course>200.26</course>
+        <name>point 277</name>
+      </trkpt>
+      <trkpt lat="36.5562368333" lon="-79.2048780000">
+        <ele>138.900000</ele>
+        <time>2020-07-25T13:24:17.60Z</time>
+        <course>200.85</course>
+        <name>point 278</name>
+      </trkpt>
+      <trkpt lat="36.5561678333" lon="-79.2049116667">
+        <ele>139.300000</ele>
+        <time>2020-07-25T13:24:17.80Z</time>
+        <course>201.40</course>
+        <name>point 279</name>
+      </trkpt>
+      <trkpt lat="36.5560991667" lon="-79.2049460000">
+        <ele>139.500000</ele>
+        <time>2020-07-25T13:24:18.00Z</time>
+        <course>201.68</course>
+        <name>point 280</name>
+      </trkpt>
+      <trkpt lat="36.5560306667" lon="-79.2049808333">
+        <ele>139.600000</ele>
+        <time>2020-07-25T13:24:18.20Z</time>
+        <course>202.10</course>
+        <name>point 281</name>
+      </trkpt>
+      <trkpt lat="36.5559628333" lon="-79.2050165000">
+        <ele>139.700000</ele>
+        <time>2020-07-25T13:24:18.40Z</time>
+        <course>202.74</course>
+        <name>point 282</name>
+      </trkpt>
+      <trkpt lat="36.5558955000" lon="-79.2050516667">
+        <ele>139.800000</ele>
+        <time>2020-07-25T13:24:18.60Z</time>
+        <course>202.70</course>
+        <name>point 283</name>
+      </trkpt>
+      <trkpt lat="36.5558295000" lon="-79.2050855000">
+        <ele>139.900000</ele>
+        <time>2020-07-25T13:24:18.80Z</time>
+        <course>202.37</course>
+        <name>point 284</name>
+      </trkpt>
+      <trkpt lat="36.5557656667" lon="-79.2051178333">
+        <ele>140.000000</ele>
+        <time>2020-07-25T13:24:19.00Z</time>
+        <course>202.21</course>
+        <name>point 285</name>
+      </trkpt>
+      <trkpt lat="36.5557036667" lon="-79.2051490000">
+        <ele>140.100000</ele>
+        <time>2020-07-25T13:24:19.20Z</time>
+        <course>202.05</course>
+        <name>point 286</name>
+      </trkpt>
+      <trkpt lat="36.5556425000" lon="-79.2051785000">
+        <ele>140.300000</ele>
+        <time>2020-07-25T13:24:19.40Z</time>
+        <course>201.48</course>
+        <name>point 287</name>
+      </trkpt>
+      <trkpt lat="36.5555818333" lon="-79.2052060000">
+        <ele>140.500000</ele>
+        <time>2020-07-25T13:24:19.60Z</time>
+        <course>200.24</course>
+        <name>point 288</name>
+      </trkpt>
+      <trkpt lat="36.5555210000" lon="-79.2052311667">
+        <ele>140.700000</ele>
+        <time>2020-07-25T13:24:19.80Z</time>
+        <course>198.75</course>
+        <name>point 289</name>
+      </trkpt>
+      <trkpt lat="36.5554603333" lon="-79.2052538333">
+        <ele>141.000000</ele>
+        <time>2020-07-25T13:24:20.00Z</time>
+        <course>196.99</course>
+        <name>point 290</name>
+      </trkpt>
+      <trkpt lat="36.5553998333" lon="-79.2052735000">
+        <ele>141.200000</ele>
+        <time>2020-07-25T13:24:20.20Z</time>
+        <course>194.97</course>
+        <name>point 291</name>
+      </trkpt>
+      <trkpt lat="36.5553400000" lon="-79.2052900000">
+        <ele>141.400000</ele>
+        <time>2020-07-25T13:24:20.40Z</time>
+        <course>192.62</course>
+        <name>point 292</name>
+      </trkpt>
+      <trkpt lat="36.5552800000" lon="-79.2053025000">
+        <ele>141.600000</ele>
+        <time>2020-07-25T13:24:20.60Z</time>
+        <course>189.77</course>
+        <name>point 293</name>
+      </trkpt>
+      <trkpt lat="36.5552195000" lon="-79.2053116667">
+        <ele>141.700000</ele>
+        <time>2020-07-25T13:24:20.80Z</time>
+        <course>187.09</course>
+        <name>point 294</name>
+      </trkpt>
+      <trkpt lat="36.5551586667" lon="-79.2053171667">
+        <ele>141.900000</ele>
+        <time>2020-07-25T13:24:21.00Z</time>
+        <course>184.34</course>
+        <name>point 295</name>
+      </trkpt>
+      <trkpt lat="36.5550978333" lon="-79.2053185000">
+        <ele>142.100000</ele>
+        <time>2020-07-25T13:24:21.20Z</time>
+        <course>181.26</course>
+        <name>point 296</name>
+      </trkpt>
+      <trkpt lat="36.5550368333" lon="-79.2053153333">
+        <ele>142.300000</ele>
+        <time>2020-07-25T13:24:21.40Z</time>
+        <course>177.90</course>
+        <name>point 297</name>
+      </trkpt>
+      <trkpt lat="36.5549760000" lon="-79.2053080000">
+        <ele>142.500000</ele>
+        <time>2020-07-25T13:24:21.60Z</time>
+        <course>174.61</course>
+        <name>point 298</name>
+      </trkpt>
+      <trkpt lat="36.5549158333" lon="-79.2052966667">
+        <ele>142.800000</ele>
+        <time>2020-07-25T13:24:21.80Z</time>
+        <course>171.67</course>
+        <name>point 299</name>
+      </trkpt>
+      <trkpt lat="36.5548563333" lon="-79.2052820000">
+        <ele>143.000000</ele>
+        <time>2020-07-25T13:24:22.00Z</time>
+        <course>168.97</course>
+        <name>point 300</name>
+      </trkpt>
+      <trkpt lat="36.5547973333" lon="-79.2052641667">
+        <ele>143.200000</ele>
+        <time>2020-07-25T13:24:22.20Z</time>
+        <course>166.49</course>
+        <name>point 301</name>
+      </trkpt>
+      <trkpt lat="36.5547391667" lon="-79.2052436667">
+        <ele>143.300000</ele>
+        <time>2020-07-25T13:24:22.40Z</time>
+        <course>164.28</course>
+        <name>point 302</name>
+      </trkpt>
+      <trkpt lat="36.5546826667" lon="-79.2052196667">
+        <ele>143.400000</ele>
+        <time>2020-07-25T13:24:22.60Z</time>
+        <course>161.35</course>
+        <name>point 303</name>
+      </trkpt>
+      <trkpt lat="36.5546273333" lon="-79.2051920000">
+        <ele>143.500000</ele>
+        <time>2020-07-25T13:24:22.80Z</time>
+        <course>158.24</course>
+        <name>point 304</name>
+      </trkpt>
+      <trkpt lat="36.5545723333" lon="-79.2051616667">
+        <ele>143.500000</ele>
+        <time>2020-07-25T13:24:23.00Z</time>
+        <course>156.01</course>
+        <name>point 305</name>
+      </trkpt>
+      <trkpt lat="36.5545173333" lon="-79.2051295000">
+        <ele>143.500000</ele>
+        <time>2020-07-25T13:24:23.20Z</time>
+        <course>154.86</course>
+        <name>point 306</name>
+      </trkpt>
+      <trkpt lat="36.5544610000" lon="-79.2050958333">
+        <ele>143.400000</ele>
+        <time>2020-07-25T13:24:23.40Z</time>
+        <course>154.45</course>
+        <name>point 307</name>
+      </trkpt>
+      <trkpt lat="36.5544025000" lon="-79.2050611667">
+        <ele>143.300000</ele>
+        <time>2020-07-25T13:24:23.60Z</time>
+        <course>154.45</course>
+        <name>point 308</name>
+      </trkpt>
+      <trkpt lat="36.5543420000" lon="-79.2050253333">
+        <ele>143.100000</ele>
+        <time>2020-07-25T13:24:23.80Z</time>
+        <course>154.61</course>
+        <name>point 309</name>
+      </trkpt>
+      <trkpt lat="36.5542795000" lon="-79.2049890000">
+        <ele>142.800000</ele>
+        <time>2020-07-25T13:24:24.00Z</time>
+        <course>154.84</course>
+        <name>point 310</name>
+      </trkpt>
+      <trkpt lat="36.5542145000" lon="-79.2049523333">
+        <ele>142.400000</ele>
+        <time>2020-07-25T13:24:24.20Z</time>
+        <course>155.50</course>
+        <name>point 311</name>
+      </trkpt>
+      <trkpt lat="36.5541476667" lon="-79.2049151667">
+        <ele>141.900000</ele>
+        <time>2020-07-25T13:24:24.40Z</time>
+        <course>155.96</course>
+        <name>point 312</name>
+      </trkpt>
+      <trkpt lat="36.5540786667" lon="-79.2048771667">
+        <ele>141.400000</ele>
+        <time>2020-07-25T13:24:24.60Z</time>
+        <course>156.29</course>
+        <name>point 313</name>
+      </trkpt>
+      <trkpt lat="36.5540083333" lon="-79.2048391667">
+        <ele>140.800000</ele>
+        <time>2020-07-25T13:24:24.80Z</time>
+        <course>156.57</course>
+        <name>point 314</name>
+      </trkpt>
+      <trkpt lat="36.5539363333" lon="-79.2048005000">
+        <ele>140.300000</ele>
+        <time>2020-07-25T13:24:25.00Z</time>
+        <course>156.75</course>
+        <name>point 315</name>
+      </trkpt>
+      <trkpt lat="36.5538625000" lon="-79.2047620000">
+        <ele>139.800000</ele>
+        <time>2020-07-25T13:24:25.20Z</time>
+        <course>157.21</course>
+        <name>point 316</name>
+      </trkpt>
+      <trkpt lat="36.5537866667" lon="-79.2047241667">
+        <ele>139.400000</ele>
+        <time>2020-07-25T13:24:25.40Z</time>
+        <course>158.11</course>
+        <name>point 317</name>
+      </trkpt>
+      <trkpt lat="36.5537086667" lon="-79.2046875000">
+        <ele>139.100000</ele>
+        <time>2020-07-25T13:24:25.60Z</time>
+        <course>159.12</course>
+        <name>point 318</name>
+      </trkpt>
+      <trkpt lat="36.5536288333" lon="-79.2046520000">
+        <ele>139.100000</ele>
+        <time>2020-07-25T13:24:25.80Z</time>
+        <course>160.09</course>
+        <name>point 319</name>
+      </trkpt>
+      <trkpt lat="36.5535473333" lon="-79.2046181667">
+        <ele>139.200000</ele>
+        <time>2020-07-25T13:24:26.00Z</time>
+        <course>161.25</course>
+        <name>point 320</name>
+      </trkpt>
+      <trkpt lat="36.5534640000" lon="-79.2045856667">
+        <ele>139.500000</ele>
+        <time>2020-07-25T13:24:26.20Z</time>
+        <course>162.29</course>
+        <name>point 321</name>
+      </trkpt>
+      <trkpt lat="36.5533796667" lon="-79.2045543333">
+        <ele>140.000000</ele>
+        <time>2020-07-25T13:24:26.40Z</time>
+        <course>163.04</course>
+        <name>point 322</name>
+      </trkpt>
+      <trkpt lat="36.5532961667" lon="-79.2045250000">
+        <ele>140.800000</ele>
+        <time>2020-07-25T13:24:26.60Z</time>
+        <course>163.67</course>
+        <name>point 323</name>
+      </trkpt>
+      <trkpt lat="36.5532136667" lon="-79.2044973333">
+        <ele>141.600000</ele>
+        <time>2020-07-25T13:24:26.80Z</time>
+        <course>164.53</course>
+        <name>point 324</name>
+      </trkpt>
+      <trkpt lat="36.5531323333" lon="-79.2044716667">
+        <ele>142.400000</ele>
+        <time>2020-07-25T13:24:27.00Z</time>
+        <course>165.41</course>
+        <name>point 325</name>
+      </trkpt>
+      <trkpt lat="36.5530535000" lon="-79.2044478333">
+        <ele>143.100000</ele>
+        <time>2020-07-25T13:24:27.20Z</time>
+        <course>166.10</course>
+        <name>point 326</name>
+      </trkpt>
+      <trkpt lat="36.5529776667" lon="-79.2044260000">
+        <ele>143.700000</ele>
+        <time>2020-07-25T13:24:27.40Z</time>
+        <course>166.90</course>
+        <name>point 327</name>
+      </trkpt>
+      <trkpt lat="36.5529055000" lon="-79.2044065000">
+        <ele>144.200000</ele>
+        <time>2020-07-25T13:24:27.60Z</time>
+        <course>167.68</course>
+        <name>point 328</name>
+      </trkpt>
+      <trkpt lat="36.5528363333" lon="-79.2043891667">
+        <ele>144.700000</ele>
+        <time>2020-07-25T13:24:27.80Z</time>
+        <course>168.58</course>
+        <name>point 329</name>
+      </trkpt>
+      <trkpt lat="36.5527700000" lon="-79.2043735000">
+        <ele>145.200000</ele>
+        <time>2020-07-25T13:24:28.00Z</time>
+        <course>169.23</course>
+        <name>point 330</name>
+      </trkpt>
+      <trkpt lat="36.5527066667" lon="-79.2043595000">
+        <ele>145.700000</ele>
+        <time>2020-07-25T13:24:28.20Z</time>
+        <course>170.09</course>
+        <name>point 331</name>
+      </trkpt>
+      <trkpt lat="36.5526466667" lon="-79.2043483333">
+        <ele>146.200000</ele>
+        <time>2020-07-25T13:24:28.40Z</time>
+        <course>171.44</course>
+        <name>point 332</name>
+      </trkpt>
+      <trkpt lat="36.5525895000" lon="-79.2043406667">
+        <ele>146.600000</ele>
+        <time>2020-07-25T13:24:28.60Z</time>
+        <course>173.78</course>
+        <name>point 333</name>
+      </trkpt>
+      <trkpt lat="36.5525346667" lon="-79.2043368333">
+        <ele>147.100000</ele>
+        <time>2020-07-25T13:24:28.80Z</time>
+        <course>176.63</course>
+        <name>point 334</name>
+      </trkpt>
+      <trkpt lat="36.5524808333" lon="-79.2043375000">
+        <ele>147.500000</ele>
+        <time>2020-07-25T13:24:29.00Z</time>
+        <course>180.42</course>
+        <name>point 335</name>
+      </trkpt>
+      <trkpt lat="36.5524280000" lon="-79.2043431667">
+        <ele>147.900000</ele>
+        <time>2020-07-25T13:24:29.20Z</time>
+        <course>184.88</course>
+        <name>point 336</name>
+      </trkpt>
+      <trkpt lat="36.5523768333" lon="-79.2043540000">
+        <ele>148.300000</ele>
+        <time>2020-07-25T13:24:29.40Z</time>
+        <course>189.34</course>
+        <name>point 337</name>
+      </trkpt>
+      <trkpt lat="36.5523276667" lon="-79.2043700000">
+        <ele>148.700000</ele>
+        <time>2020-07-25T13:24:29.60Z</time>
+        <course>194.32</course>
+        <name>point 338</name>
+      </trkpt>
+      <trkpt lat="36.5522798333" lon="-79.2043905000">
+        <ele>149.000000</ele>
+        <time>2020-07-25T13:24:29.80Z</time>
+        <course>198.93</course>
+        <name>point 339</name>
+      </trkpt>
+      <trkpt lat="36.5522336667" lon="-79.2044156667">
+        <ele>149.400000</ele>
+        <time>2020-07-25T13:24:30.00Z</time>
+        <course>203.34</course>
+        <name>point 340</name>
+      </trkpt>
+      <trkpt lat="36.5521895000" lon="-79.2044450000">
+        <ele>149.600000</ele>
+        <time>2020-07-25T13:24:30.20Z</time>
+        <course>207.80</course>
+        <name>point 341</name>
+      </trkpt>
+      <trkpt lat="36.5521471667" lon="-79.2044785000">
+        <ele>149.800000</ele>
+        <time>2020-07-25T13:24:30.40Z</time>
+        <course>212.19</course>
+        <name>point 342</name>
+      </trkpt>
+      <trkpt lat="36.5521070000" lon="-79.2045156667">
+        <ele>150.000000</ele>
+        <time>2020-07-25T13:24:30.60Z</time>
+        <course>216.33</course>
+        <name>point 343</name>
+      </trkpt>
+      <trkpt lat="36.5520700000" lon="-79.2045563333">
+        <ele>150.100000</ele>
+        <time>2020-07-25T13:24:30.80Z</time>
+        <course>220.95</course>
+        <name>point 344</name>
+      </trkpt>
+      <trkpt lat="36.5520360000" lon="-79.2045996667">
+        <ele>150.200000</ele>
+        <time>2020-07-25T13:24:31.00Z</time>
+        <course>225.38</course>
+        <name>point 345</name>
+      </trkpt>
+      <trkpt lat="36.5520055000" lon="-79.2046450000">
+        <ele>150.400000</ele>
+        <time>2020-07-25T13:24:31.20Z</time>
+        <course>229.80</course>
+        <name>point 346</name>
+      </trkpt>
+      <trkpt lat="36.5519793333" lon="-79.2046915000">
+        <ele>150.500000</ele>
+        <time>2020-07-25T13:24:31.40Z</time>
+        <course>234.44</course>
+        <name>point 347</name>
+      </trkpt>
+      <trkpt lat="36.5519571667" lon="-79.2047388333">
+        <ele>150.600000</ele>
+        <time>2020-07-25T13:24:31.60Z</time>
+        <course>239.49</course>
+        <name>point 348</name>
+      </trkpt>
+      <trkpt lat="36.5519396667" lon="-79.2047866667">
+        <ele>150.700000</ele>
+        <time>2020-07-25T13:24:31.80Z</time>
+        <course>244.93</course>
+        <name>point 349</name>
+      </trkpt>
+      <trkpt lat="36.5519266667" lon="-79.2048351667">
+        <ele>150.800000</ele>
+        <time>2020-07-25T13:24:32.00Z</time>
+        <course>250.90</course>
+        <name>point 350</name>
+      </trkpt>
+      <trkpt lat="36.5519181667" lon="-79.2048838333">
+        <ele>150.900000</ele>
+        <time>2020-07-25T13:24:32.20Z</time>
+        <course>257.17</course>
+        <name>point 351</name>
+      </trkpt>
+      <trkpt lat="36.5519151667" lon="-79.2049326667">
+        <ele>150.900000</ele>
+        <time>2020-07-25T13:24:32.40Z</time>
+        <course>264.51</course>
+        <name>point 352</name>
+      </trkpt>
+      <trkpt lat="36.5519166667" lon="-79.2049808333">
+        <ele>151.000000</ele>
+        <time>2020-07-25T13:24:32.60Z</time>
+        <course>271.38</course>
+        <name>point 353</name>
+      </trkpt>
+      <trkpt lat="36.5519231667" lon="-79.2050283333">
+        <ele>151.000000</ele>
+        <time>2020-07-25T13:24:32.80Z</time>
+        <course>279.03</course>
+        <name>point 354</name>
+      </trkpt>
+      <trkpt lat="36.5519341667" lon="-79.2050745000">
+        <ele>151.000000</ele>
+        <time>2020-07-25T13:24:33.00Z</time>
+        <course>285.84</course>
+        <name>point 355</name>
+      </trkpt>
+      <trkpt lat="36.5519498333" lon="-79.2051190000">
+        <ele>151.000000</ele>
+        <time>2020-07-25T13:24:33.20Z</time>
+        <course>292.85</course>
+        <name>point 356</name>
+      </trkpt>
+      <trkpt lat="36.5519698333" lon="-79.2051618333">
+        <ele>151.000000</ele>
+        <time>2020-07-25T13:24:33.40Z</time>
+        <course>299.55</course>
+        <name>point 357</name>
+      </trkpt>
+      <trkpt lat="36.5519936667" lon="-79.2052023333">
+        <ele>150.900000</ele>
+        <time>2020-07-25T13:24:33.60Z</time>
+        <course>305.72</course>
+        <name>point 358</name>
+      </trkpt>
+      <trkpt lat="36.5520220000" lon="-79.2052403333">
+        <ele>150.800000</ele>
+        <time>2020-07-25T13:24:33.80Z</time>
+        <course>312.15</course>
+        <name>point 359</name>
+      </trkpt>
+      <trkpt lat="36.5520538333" lon="-79.2052761667">
+        <ele>150.600000</ele>
+        <time>2020-07-25T13:24:34.00Z</time>
+        <course>317.34</course>
+        <name>point 360</name>
+      </trkpt>
+      <trkpt lat="36.5520893333" lon="-79.2053105000">
+        <ele>150.400000</ele>
+        <time>2020-07-25T13:24:34.20Z</time>
+        <course>321.78</course>
+        <name>point 361</name>
+      </trkpt>
+      <trkpt lat="36.5521273333" lon="-79.2053430000">
+        <ele>150.100000</ele>
+        <time>2020-07-25T13:24:34.40Z</time>
+        <course>325.25</course>
+        <name>point 362</name>
+      </trkpt>
+      <trkpt lat="36.5521648333" lon="-79.2053741667">
+        <ele>149.900000</ele>
+        <time>2020-07-25T13:24:34.60Z</time>
+        <course>326.19</course>
+        <name>point 363</name>
+      </trkpt>
+      <trkpt lat="36.5522050000" lon="-79.2054051667">
+        <ele>149.600000</ele>
+        <time>2020-07-25T13:24:34.80Z</time>
+        <course>328.00</course>
+        <name>point 364</name>
+      </trkpt>
+      <trkpt lat="36.5522478333" lon="-79.2054356667">
+        <ele>149.300000</ele>
+        <time>2020-07-25T13:24:35.00Z</time>
+        <course>330.22</course>
+        <name>point 365</name>
+      </trkpt>
+      <trkpt lat="36.5522910000" lon="-79.2054656667">
+        <ele>149.000000</ele>
+        <time>2020-07-25T13:24:35.20Z</time>
+        <course>330.78</course>
+        <name>point 366</name>
+      </trkpt>
+      <trkpt lat="36.5523355000" lon="-79.2054973333">
+        <ele>148.700000</ele>
+        <time>2020-07-25T13:24:35.40Z</time>
+        <course>330.31</course>
+        <name>point 367</name>
+      </trkpt>
+      <trkpt lat="36.5523821667" lon="-79.2055303333">
+        <ele>148.400000</ele>
+        <time>2020-07-25T13:24:35.60Z</time>
+        <course>330.36</course>
+        <name>point 368</name>
+      </trkpt>
+      <trkpt lat="36.5524306667" lon="-79.2055658333">
+        <ele>148.000000</ele>
+        <time>2020-07-25T13:24:35.80Z</time>
+        <course>329.62</course>
+        <name>point 369</name>
+      </trkpt>
+      <trkpt lat="36.5524813333" lon="-79.2056036667">
+        <ele>147.700000</ele>
+        <time>2020-07-25T13:24:36.00Z</time>
+        <course>329.18</course>
+        <name>point 370</name>
+      </trkpt>
+      <trkpt lat="36.5525333333" lon="-79.2056423333">
+        <ele>147.400000</ele>
+        <time>2020-07-25T13:24:36.20Z</time>
+        <course>329.20</course>
+        <name>point 371</name>
+      </trkpt>
+      <trkpt lat="36.5525873333" lon="-79.2056823333">
+        <ele>147.100000</ele>
+        <time>2020-07-25T13:24:36.40Z</time>
+        <course>329.39</course>
+        <name>point 372</name>
+      </trkpt>
+      <trkpt lat="36.5526435000" lon="-79.2057228333">
+        <ele>146.900000</ele>
+        <time>2020-07-25T13:24:36.60Z</time>
+        <course>329.95</course>
+        <name>point 373</name>
+      </trkpt>
+      <trkpt lat="36.5527016667" lon="-79.2057641667">
+        <ele>146.600000</ele>
+        <time>2020-07-25T13:24:36.80Z</time>
+        <course>330.29</course>
+        <name>point 374</name>
+      </trkpt>
+      <trkpt lat="36.5527620000" lon="-79.2058066667">
+        <ele>146.400000</ele>
+        <time>2020-07-25T13:24:37.00Z</time>
+        <course>330.49</course>
+        <name>point 375</name>
+      </trkpt>
+      <trkpt lat="36.5528240000" lon="-79.2058500000">
+        <ele>146.200000</ele>
+        <time>2020-07-25T13:24:37.20Z</time>
+        <course>330.73</course>
+        <name>point 376</name>
+      </trkpt>
+      <trkpt lat="36.5528878333" lon="-79.2058945000">
+        <ele>146.000000</ele>
+        <time>2020-07-25T13:24:37.40Z</time>
+        <course>330.83</course>
+        <name>point 377</name>
+      </trkpt>
+      <trkpt lat="36.5529535000" lon="-79.2059401667">
+        <ele>145.800000</ele>
+        <time>2020-07-25T13:24:37.60Z</time>
+        <course>330.90</course>
+        <name>point 378</name>
+      </trkpt>
+      <trkpt lat="36.5530210000" lon="-79.2059868333">
+        <ele>145.600000</ele>
+        <time>2020-07-25T13:24:37.80Z</time>
+        <course>330.95</course>
+        <name>point 379</name>
+      </trkpt>
+      <trkpt lat="36.5530901667" lon="-79.2060348333">
+        <ele>145.300000</ele>
+        <time>2020-07-25T13:24:38.00Z</time>
+        <course>330.91</course>
+        <name>point 380</name>
+      </trkpt>
+      <trkpt lat="36.5531608333" lon="-79.2060838333">
+        <ele>145.100000</ele>
+        <time>2020-07-25T13:24:38.20Z</time>
+        <course>330.95</course>
+        <name>point 381</name>
+      </trkpt>
+      <trkpt lat="36.5532328333" lon="-79.2061338333">
+        <ele>144.800000</ele>
+        <time>2020-07-25T13:24:38.40Z</time>
+        <course>330.85</course>
+        <name>point 382</name>
+      </trkpt>
+      <trkpt lat="36.5533055000" lon="-79.2061846667">
+        <ele>144.600000</ele>
+        <time>2020-07-25T13:24:38.60Z</time>
+        <course>330.75</course>
+        <name>point 383</name>
+      </trkpt>
+      <trkpt lat="36.5533796667" lon="-79.2062366667">
+        <ele>144.400000</ele>
+        <time>2020-07-25T13:24:38.80Z</time>
+        <course>330.61</course>
+        <name>point 384</name>
+      </trkpt>
+      <trkpt lat="36.5534548333" lon="-79.2062898333">
+        <ele>144.300000</ele>
+        <time>2020-07-25T13:24:39.00Z</time>
+        <course>330.44</course>
+        <name>point 385</name>
+      </trkpt>
+      <trkpt lat="36.5535311667" lon="-79.2063440000">
+        <ele>144.200000</ele>
+        <time>2020-07-25T13:24:39.20Z</time>
+        <course>330.34</course>
+        <name>point 386</name>
+      </trkpt>
+      <trkpt lat="36.5536088333" lon="-79.2063991667">
+        <ele>144.000000</ele>
+        <time>2020-07-25T13:24:39.40Z</time>
+        <course>330.24</course>
+        <name>point 387</name>
+      </trkpt>
+      <trkpt lat="36.5536876667" lon="-79.2064555000">
+        <ele>144.000000</ele>
+        <time>2020-07-25T13:24:39.60Z</time>
+        <course>330.14</course>
+        <name>point 388</name>
+      </trkpt>
+      <trkpt lat="36.5537676667" lon="-79.2065130000">
+        <ele>143.900000</ele>
+        <time>2020-07-25T13:24:39.80Z</time>
+        <course>329.96</course>
+        <name>point 389</name>
+      </trkpt>
+      <trkpt lat="36.5538488333" lon="-79.2065716667">
+        <ele>143.700000</ele>
+        <time>2020-07-25T13:24:40.00Z</time>
+        <course>329.81</course>
+        <name>point 390</name>
+      </trkpt>
+      <trkpt lat="36.5539310000" lon="-79.2066315000">
+        <ele>143.600000</ele>
+        <time>2020-07-25T13:24:40.20Z</time>
+        <course>329.64</course>
+        <name>point 391</name>
+      </trkpt>
+      <trkpt lat="36.5540141667" lon="-79.2066925000">
+        <ele>143.400000</ele>
+        <time>2020-07-25T13:24:40.40Z</time>
+        <course>329.46</course>
+        <name>point 392</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

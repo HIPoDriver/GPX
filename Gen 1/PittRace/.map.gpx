@@ -1,0 +1,3970 @@
+<?xml version="1.0"?>
+<gpx version="1.0" creator="Marlin Track Mapper" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+  <bounds minlat="40.8425286667" minlon="-80.3540543333" maxlat="40.8525885000" maxlon="-80.3421028333"/>               
+  <trk>
+    <name>Marlin Track Map</name>
+    <cmt>marklatdegs="40.8507500000" marklondegs="-80.3477960000" markcourse="247.2100000000" numpoints="660"</cmt>         
+    <trkseg>
+      <trkpt lat="40.8507500000" lon="-80.3477960000">
+        <ele>361.600000</ele>
+        <time>2021-06-25T13:10:55.20Z</time>
+        <course>247.21</course>
+        <name>point 1</name>
+      </trkpt>
+      <trkpt lat="40.8507218333" lon="-80.3478836667">
+        <ele>361.400000</ele>
+        <time>2021-06-25T13:10:55.40Z</time>
+        <course>247.10</course>
+        <name>point 2</name>
+      </trkpt>
+      <trkpt lat="40.8506935000" lon="-80.3479713333">
+        <ele>361.100000</ele>
+        <time>2021-06-25T13:10:55.60Z</time>
+        <course>247.04</course>
+        <name>point 3</name>
+      </trkpt>
+      <trkpt lat="40.8506650000" lon="-80.3480588333">
+        <ele>360.900000</ele>
+        <time>2021-06-25T13:10:55.80Z</time>
+        <course>246.91</course>
+        <name>point 4</name>
+      </trkpt>
+      <trkpt lat="40.8506363333" lon="-80.3481465000">
+        <ele>360.800000</ele>
+        <time>2021-06-25T13:10:56.00Z</time>
+        <course>246.87</course>
+        <name>point 5</name>
+      </trkpt>
+      <trkpt lat="40.8506076667" lon="-80.3482343333">
+        <ele>360.700000</ele>
+        <time>2021-06-25T13:10:56.20Z</time>
+        <course>246.78</course>
+        <name>point 6</name>
+      </trkpt>
+      <trkpt lat="40.8505788333" lon="-80.3483223333">
+        <ele>360.600000</ele>
+        <time>2021-06-25T13:10:56.40Z</time>
+        <course>246.74</course>
+        <name>point 7</name>
+      </trkpt>
+      <trkpt lat="40.8505500000" lon="-80.3484111667">
+        <ele>360.500000</ele>
+        <time>2021-06-25T13:10:56.60Z</time>
+        <course>246.90</course>
+        <name>point 8</name>
+      </trkpt>
+      <trkpt lat="40.8505213333" lon="-80.3485006667">
+        <ele>360.400000</ele>
+        <time>2021-06-25T13:10:56.80Z</time>
+        <course>247.20</course>
+        <name>point 9</name>
+      </trkpt>
+      <trkpt lat="40.8504925000" lon="-80.3485908333">
+        <ele>360.500000</ele>
+        <time>2021-06-25T13:10:57.00Z</time>
+        <course>247.26</course>
+        <name>point 10</name>
+      </trkpt>
+      <trkpt lat="40.8504636667" lon="-80.3486818333">
+        <ele>360.500000</ele>
+        <time>2021-06-25T13:10:57.20Z</time>
+        <course>247.36</course>
+        <name>point 11</name>
+      </trkpt>
+      <trkpt lat="40.8504348333" lon="-80.3487735000">
+        <ele>360.600000</ele>
+        <time>2021-06-25T13:10:57.40Z</time>
+        <course>247.48</course>
+        <name>point 12</name>
+      </trkpt>
+      <trkpt lat="40.8504056667" lon="-80.3488661667">
+        <ele>360.700000</ele>
+        <time>2021-06-25T13:10:57.60Z</time>
+        <course>247.54</course>
+        <name>point 13</name>
+      </trkpt>
+      <trkpt lat="40.8503763333" lon="-80.3489598333">
+        <ele>360.800000</ele>
+        <time>2021-06-25T13:10:57.80Z</time>
+        <course>247.64</course>
+        <name>point 14</name>
+      </trkpt>
+      <trkpt lat="40.8503468333" lon="-80.3490546667">
+        <ele>361.000000</ele>
+        <time>2021-06-25T13:10:58.00Z</time>
+        <course>247.67</course>
+        <name>point 15</name>
+      </trkpt>
+      <trkpt lat="40.8503171667" lon="-80.3491500000">
+        <ele>361.200000</ele>
+        <time>2021-06-25T13:10:58.20Z</time>
+        <course>247.66</course>
+        <name>point 16</name>
+      </trkpt>
+      <trkpt lat="40.8502870000" lon="-80.3492461667">
+        <ele>361.500000</ele>
+        <time>2021-06-25T13:10:58.40Z</time>
+        <course>247.58</course>
+        <name>point 17</name>
+      </trkpt>
+      <trkpt lat="40.8502566667" lon="-80.3493423333">
+        <ele>361.800000</ele>
+        <time>2021-06-25T13:10:58.60Z</time>
+        <course>247.52</course>
+        <name>point 18</name>
+      </trkpt>
+      <trkpt lat="40.8502265000" lon="-80.3494381667">
+        <ele>362.100000</ele>
+        <time>2021-06-25T13:10:58.80Z</time>
+        <course>247.48</course>
+        <name>point 19</name>
+      </trkpt>
+      <trkpt lat="40.8501965000" lon="-80.3495328333">
+        <ele>362.400000</ele>
+        <time>2021-06-25T13:10:59.00Z</time>
+        <course>247.34</course>
+        <name>point 20</name>
+      </trkpt>
+      <trkpt lat="40.8501668333" lon="-80.3496253333">
+        <ele>362.700000</ele>
+        <time>2021-06-25T13:10:59.20Z</time>
+        <course>247.26</course>
+        <name>point 21</name>
+      </trkpt>
+      <trkpt lat="40.8501386667" lon="-80.3497141667">
+        <ele>362.900000</ele>
+        <time>2021-06-25T13:10:59.40Z</time>
+        <course>247.30</course>
+        <name>point 22</name>
+      </trkpt>
+      <trkpt lat="40.8501115000" lon="-80.3497996667">
+        <ele>363.100000</ele>
+        <time>2021-06-25T13:10:59.60Z</time>
+        <course>247.44</course>
+        <name>point 23</name>
+      </trkpt>
+      <trkpt lat="40.8500853333" lon="-80.3498826667">
+        <ele>363.300000</ele>
+        <time>2021-06-25T13:10:59.80Z</time>
+        <course>247.42</course>
+        <name>point 24</name>
+      </trkpt>
+      <trkpt lat="40.8500598333" lon="-80.3499621667">
+        <ele>363.500000</ele>
+        <time>2021-06-25T13:11:00.00Z</time>
+        <course>247.28</course>
+        <name>point 25</name>
+      </trkpt>
+      <trkpt lat="40.8500353333" lon="-80.3500380000">
+        <ele>363.500000</ele>
+        <time>2021-06-25T13:11:00.20Z</time>
+        <course>247.13</course>
+        <name>point 26</name>
+      </trkpt>
+      <trkpt lat="40.8500118333" lon="-80.3501115000">
+        <ele>363.600000</ele>
+        <time>2021-06-25T13:11:00.40Z</time>
+        <course>247.09</course>
+        <name>point 27</name>
+      </trkpt>
+      <trkpt lat="40.8499886667" lon="-80.3501830000">
+        <ele>363.600000</ele>
+        <time>2021-06-25T13:11:00.60Z</time>
+        <course>247.05</course>
+        <name>point 28</name>
+      </trkpt>
+      <trkpt lat="40.8499661667" lon="-80.3502521667">
+        <ele>363.500000</ele>
+        <time>2021-06-25T13:11:00.80Z</time>
+        <course>247.03</course>
+        <name>point 29</name>
+      </trkpt>
+      <trkpt lat="40.8499448333" lon="-80.3503178333">
+        <ele>363.500000</ele>
+        <time>2021-06-25T13:11:01.00Z</time>
+        <course>246.94</course>
+        <name>point 30</name>
+      </trkpt>
+      <trkpt lat="40.8499246667" lon="-80.3503808333">
+        <ele>363.400000</ele>
+        <time>2021-06-25T13:11:01.20Z</time>
+        <course>247.11</course>
+        <name>point 31</name>
+      </trkpt>
+      <trkpt lat="40.8499051667" lon="-80.3504418333">
+        <ele>363.300000</ele>
+        <time>2021-06-25T13:11:01.40Z</time>
+        <course>247.22</course>
+        <name>point 32</name>
+      </trkpt>
+      <trkpt lat="40.8498858333" lon="-80.3505003333">
+        <ele>363.200000</ele>
+        <time>2021-06-25T13:11:01.60Z</time>
+        <course>246.73</course>
+        <name>point 33</name>
+      </trkpt>
+      <trkpt lat="40.8498666667" lon="-80.3505565000">
+        <ele>363.000000</ele>
+        <time>2021-06-25T13:11:01.80Z</time>
+        <course>245.86</course>
+        <name>point 34</name>
+      </trkpt>
+      <trkpt lat="40.8498468333" lon="-80.3506106667">
+        <ele>362.900000</ele>
+        <time>2021-06-25T13:11:02.00Z</time>
+        <course>244.47</course>
+        <name>point 35</name>
+      </trkpt>
+      <trkpt lat="40.8498255000" lon="-80.3506631667">
+        <ele>362.700000</ele>
+        <time>2021-06-25T13:11:02.20Z</time>
+        <course>242.01</course>
+        <name>point 36</name>
+      </trkpt>
+      <trkpt lat="40.8498023333" lon="-80.3507131667">
+        <ele>362.500000</ele>
+        <time>2021-06-25T13:11:02.40Z</time>
+        <course>238.80</course>
+        <name>point 37</name>
+      </trkpt>
+      <trkpt lat="40.8497768333" lon="-80.3507611667">
+        <ele>362.300000</ele>
+        <time>2021-06-25T13:11:02.60Z</time>
+        <course>235.25</course>
+        <name>point 38</name>
+      </trkpt>
+      <trkpt lat="40.8497490000" lon="-80.3508066667">
+        <ele>362.100000</ele>
+        <time>2021-06-25T13:11:02.80Z</time>
+        <course>231.64</course>
+        <name>point 39</name>
+      </trkpt>
+      <trkpt lat="40.8497193333" lon="-80.3508500000">
+        <ele>361.900000</ele>
+        <time>2021-06-25T13:11:03.00Z</time>
+        <course>228.10</course>
+        <name>point 40</name>
+      </trkpt>
+      <trkpt lat="40.8496871667" lon="-80.3508906667">
+        <ele>361.600000</ele>
+        <time>2021-06-25T13:11:03.20Z</time>
+        <course>224.27</course>
+        <name>point 41</name>
+      </trkpt>
+      <trkpt lat="40.8496530000" lon="-80.3509288333">
+        <ele>361.400000</ele>
+        <time>2021-06-25T13:11:03.40Z</time>
+        <course>220.53</course>
+        <name>point 42</name>
+      </trkpt>
+      <trkpt lat="40.8496165000" lon="-80.3509643333">
+        <ele>361.100000</ele>
+        <time>2021-06-25T13:11:03.60Z</time>
+        <course>216.81</course>
+        <name>point 43</name>
+      </trkpt>
+      <trkpt lat="40.8495781667" lon="-80.3509968333">
+        <ele>360.900000</ele>
+        <time>2021-06-25T13:11:03.80Z</time>
+        <course>212.99</course>
+        <name>point 44</name>
+      </trkpt>
+      <trkpt lat="40.8495381667" lon="-80.3510255000">
+        <ele>360.700000</ele>
+        <time>2021-06-25T13:11:04.00Z</time>
+        <course>208.79</course>
+        <name>point 45</name>
+      </trkpt>
+      <trkpt lat="40.8494961667" lon="-80.3510505000">
+        <ele>360.500000</ele>
+        <time>2021-06-25T13:11:04.20Z</time>
+        <course>204.61</course>
+        <name>point 46</name>
+      </trkpt>
+      <trkpt lat="40.8494523333" lon="-80.3510718333">
+        <ele>360.400000</ele>
+        <time>2021-06-25T13:11:04.40Z</time>
+        <course>200.44</course>
+        <name>point 47</name>
+      </trkpt>
+      <trkpt lat="40.8494070000" lon="-80.3510893333">
+        <ele>360.300000</ele>
+        <time>2021-06-25T13:11:04.60Z</time>
+        <course>196.54</course>
+        <name>point 48</name>
+      </trkpt>
+      <trkpt lat="40.8493600000" lon="-80.3511031667">
+        <ele>360.200000</ele>
+        <time>2021-06-25T13:11:04.80Z</time>
+        <course>192.71</course>
+        <name>point 49</name>
+      </trkpt>
+      <trkpt lat="40.8493116667" lon="-80.3511133333">
+        <ele>360.100000</ele>
+        <time>2021-06-25T13:11:05.00Z</time>
+        <course>189.33</course>
+        <name>point 50</name>
+      </trkpt>
+      <trkpt lat="40.8492621667" lon="-80.3511203333">
+        <ele>360.000000</ele>
+        <time>2021-06-25T13:11:05.20Z</time>
+        <course>186.29</course>
+        <name>point 51</name>
+      </trkpt>
+      <trkpt lat="40.8492115000" lon="-80.3511245000">
+        <ele>359.900000</ele>
+        <time>2021-06-25T13:11:05.40Z</time>
+        <course>183.67</course>
+        <name>point 52</name>
+      </trkpt>
+      <trkpt lat="40.8491598333" lon="-80.3511261667">
+        <ele>359.900000</ele>
+        <time>2021-06-25T13:11:05.60Z</time>
+        <course>181.62</course>
+        <name>point 53</name>
+      </trkpt>
+      <trkpt lat="40.8491070000" lon="-80.3511255000">
+        <ele>359.900000</ele>
+        <time>2021-06-25T13:11:05.80Z</time>
+        <course>179.55</course>
+        <name>point 54</name>
+      </trkpt>
+      <trkpt lat="40.8490535000" lon="-80.3511223333">
+        <ele>359.900000</ele>
+        <time>2021-06-25T13:11:06.00Z</time>
+        <course>177.51</course>
+        <name>point 55</name>
+      </trkpt>
+      <trkpt lat="40.8489988333" lon="-80.3511161667">
+        <ele>359.900000</ele>
+        <time>2021-06-25T13:11:06.20Z</time>
+        <course>175.25</course>
+        <name>point 56</name>
+      </trkpt>
+      <trkpt lat="40.8489435000" lon="-80.3511073333">
+        <ele>359.900000</ele>
+        <time>2021-06-25T13:11:06.40Z</time>
+        <course>173.13</course>
+        <name>point 57</name>
+      </trkpt>
+      <trkpt lat="40.8488871667" lon="-80.3510961667">
+        <ele>360.000000</ele>
+        <time>2021-06-25T13:11:06.60Z</time>
+        <course>171.45</course>
+        <name>point 58</name>
+      </trkpt>
+      <trkpt lat="40.8488301667" lon="-80.3510831667">
+        <ele>360.100000</ele>
+        <time>2021-06-25T13:11:06.80Z</time>
+        <course>170.30</course>
+        <name>point 59</name>
+      </trkpt>
+      <trkpt lat="40.8487728333" lon="-80.3510690000">
+        <ele>360.200000</ele>
+        <time>2021-06-25T13:11:07.00Z</time>
+        <course>169.38</course>
+        <name>point 60</name>
+      </trkpt>
+      <trkpt lat="40.8487151667" lon="-80.3510533333">
+        <ele>360.300000</ele>
+        <time>2021-06-25T13:11:07.20Z</time>
+        <course>168.45</course>
+        <name>point 61</name>
+      </trkpt>
+      <trkpt lat="40.8486573333" lon="-80.3510361667">
+        <ele>360.500000</ele>
+        <time>2021-06-25T13:11:07.40Z</time>
+        <course>167.32</course>
+        <name>point 62</name>
+      </trkpt>
+      <trkpt lat="40.8485993333" lon="-80.3510173333">
+        <ele>360.700000</ele>
+        <time>2021-06-25T13:11:07.60Z</time>
+        <course>166.24</course>
+        <name>point 63</name>
+      </trkpt>
+      <trkpt lat="40.8485415000" lon="-80.3509971667">
+        <ele>360.800000</ele>
+        <time>2021-06-25T13:11:07.80Z</time>
+        <course>165.25</course>
+        <name>point 64</name>
+      </trkpt>
+      <trkpt lat="40.8484838333" lon="-80.3509760000">
+        <ele>361.000000</ele>
+        <time>2021-06-25T13:11:08.00Z</time>
+        <course>164.61</course>
+        <name>point 65</name>
+      </trkpt>
+      <trkpt lat="40.8484275000" lon="-80.3509546667">
+        <ele>361.200000</ele>
+        <time>2021-06-25T13:11:08.20Z</time>
+        <course>164.01</course>
+        <name>point 66</name>
+      </trkpt>
+      <trkpt lat="40.8483740000" lon="-80.3509331667">
+        <ele>361.400000</ele>
+        <time>2021-06-25T13:11:08.40Z</time>
+        <course>163.19</course>
+        <name>point 67</name>
+      </trkpt>
+      <trkpt lat="40.8483226667" lon="-80.3509116667">
+        <ele>361.600000</ele>
+        <time>2021-06-25T13:11:08.60Z</time>
+        <course>162.35</course>
+        <name>point 68</name>
+      </trkpt>
+      <trkpt lat="40.8482730000" lon="-80.3508886667">
+        <ele>361.900000</ele>
+        <time>2021-06-25T13:11:08.80Z</time>
+        <course>160.86</course>
+        <name>point 69</name>
+      </trkpt>
+      <trkpt lat="40.8482246667" lon="-80.3508636667">
+        <ele>362.200000</ele>
+        <time>2021-06-25T13:11:09.00Z</time>
+        <course>158.67</course>
+        <name>point 70</name>
+      </trkpt>
+      <trkpt lat="40.8481776667" lon="-80.3508363333">
+        <ele>362.500000</ele>
+        <time>2021-06-25T13:11:09.20Z</time>
+        <course>156.32</course>
+        <name>point 71</name>
+      </trkpt>
+      <trkpt lat="40.8481321667" lon="-80.3508066667">
+        <ele>362.800000</ele>
+        <time>2021-06-25T13:11:09.40Z</time>
+        <course>153.88</course>
+        <name>point 72</name>
+      </trkpt>
+      <trkpt lat="40.8480875000" lon="-80.3507748333">
+        <ele>363.100000</ele>
+        <time>2021-06-25T13:11:09.60Z</time>
+        <course>151.73</course>
+        <name>point 73</name>
+      </trkpt>
+      <trkpt lat="40.8480436667" lon="-80.3507410000">
+        <ele>363.400000</ele>
+        <time>2021-06-25T13:11:09.80Z</time>
+        <course>149.87</course>
+        <name>point 74</name>
+      </trkpt>
+      <trkpt lat="40.8480010000" lon="-80.3507053333">
+        <ele>363.600000</ele>
+        <time>2021-06-25T13:11:10.00Z</time>
+        <course>147.84</course>
+        <name>point 75</name>
+      </trkpt>
+      <trkpt lat="40.8479590000" lon="-80.3506680000">
+        <ele>363.800000</ele>
+        <time>2021-06-25T13:11:10.20Z</time>
+        <course>146.09</course>
+        <name>point 76</name>
+      </trkpt>
+      <trkpt lat="40.8479175000" lon="-80.3506290000">
+        <ele>364.000000</ele>
+        <time>2021-06-25T13:11:10.40Z</time>
+        <course>144.62</course>
+        <name>point 77</name>
+      </trkpt>
+      <trkpt lat="40.8478758333" lon="-80.3505883333">
+        <ele>364.100000</ele>
+        <time>2021-06-25T13:11:10.60Z</time>
+        <course>143.51</course>
+        <name>point 78</name>
+      </trkpt>
+      <trkpt lat="40.8478341667" lon="-80.3505460000">
+        <ele>364.200000</ele>
+        <time>2021-06-25T13:11:10.80Z</time>
+        <course>142.54</course>
+        <name>point 79</name>
+      </trkpt>
+      <trkpt lat="40.8477925000" lon="-80.3505018333">
+        <ele>364.200000</ele>
+        <time>2021-06-25T13:11:11.00Z</time>
+        <course>141.41</course>
+        <name>point 80</name>
+      </trkpt>
+      <trkpt lat="40.8477505000" lon="-80.3504556667">
+        <ele>364.200000</ele>
+        <time>2021-06-25T13:11:11.20Z</time>
+        <course>140.40</course>
+        <name>point 81</name>
+      </trkpt>
+      <trkpt lat="40.8477081667" lon="-80.3504080000">
+        <ele>364.300000</ele>
+        <time>2021-06-25T13:11:11.40Z</time>
+        <course>139.56</course>
+        <name>point 82</name>
+      </trkpt>
+      <trkpt lat="40.8476655000" lon="-80.3503588333">
+        <ele>364.300000</ele>
+        <time>2021-06-25T13:11:11.60Z</time>
+        <course>138.91</course>
+        <name>point 83</name>
+      </trkpt>
+      <trkpt lat="40.8476221667" lon="-80.3503080000">
+        <ele>364.200000</ele>
+        <time>2021-06-25T13:11:11.80Z</time>
+        <course>138.49</course>
+        <name>point 84</name>
+      </trkpt>
+      <trkpt lat="40.8475778333" lon="-80.3502555000">
+        <ele>364.000000</ele>
+        <time>2021-06-25T13:11:12.00Z</time>
+        <course>138.13</course>
+        <name>point 85</name>
+      </trkpt>
+      <trkpt lat="40.8475328333" lon="-80.3502011667">
+        <ele>363.700000</ele>
+        <time>2021-06-25T13:11:12.20Z</time>
+        <course>137.79</course>
+        <name>point 86</name>
+      </trkpt>
+      <trkpt lat="40.8474870000" lon="-80.3501460000">
+        <ele>363.500000</ele>
+        <time>2021-06-25T13:11:12.40Z</time>
+        <course>137.76</course>
+        <name>point 87</name>
+      </trkpt>
+      <trkpt lat="40.8474403333" lon="-80.3500901667">
+        <ele>363.100000</ele>
+        <time>2021-06-25T13:11:12.60Z</time>
+        <course>137.89</course>
+        <name>point 88</name>
+      </trkpt>
+      <trkpt lat="40.8473928333" lon="-80.3500336667">
+        <ele>362.800000</ele>
+        <time>2021-06-25T13:11:12.80Z</time>
+        <course>137.96</course>
+        <name>point 89</name>
+      </trkpt>
+      <trkpt lat="40.8473446667" lon="-80.3499761667">
+        <ele>362.500000</ele>
+        <time>2021-06-25T13:11:13.00Z</time>
+        <course>137.96</course>
+        <name>point 90</name>
+      </trkpt>
+      <trkpt lat="40.8472958333" lon="-80.3499176667">
+        <ele>362.200000</ele>
+        <time>2021-06-25T13:11:13.20Z</time>
+        <course>137.80</course>
+        <name>point 91</name>
+      </trkpt>
+      <trkpt lat="40.8472465000" lon="-80.3498581667">
+        <ele>361.800000</ele>
+        <time>2021-06-25T13:11:13.40Z</time>
+        <course>137.57</course>
+        <name>point 92</name>
+      </trkpt>
+      <trkpt lat="40.8471966667" lon="-80.3497973333">
+        <ele>361.500000</ele>
+        <time>2021-06-25T13:11:13.60Z</time>
+        <course>137.31</course>
+        <name>point 93</name>
+      </trkpt>
+      <trkpt lat="40.8471460000" lon="-80.3497351667">
+        <ele>361.200000</ele>
+        <time>2021-06-25T13:11:13.80Z</time>
+        <course>137.11</course>
+        <name>point 94</name>
+      </trkpt>
+      <trkpt lat="40.8470948333" lon="-80.3496718333">
+        <ele>360.800000</ele>
+        <time>2021-06-25T13:11:14.00Z</time>
+        <course>136.91</course>
+        <name>point 95</name>
+      </trkpt>
+      <trkpt lat="40.8470428333" lon="-80.3496075000">
+        <ele>360.400000</ele>
+        <time>2021-06-25T13:11:14.20Z</time>
+        <course>136.76</course>
+        <name>point 96</name>
+      </trkpt>
+      <trkpt lat="40.8469901667" lon="-80.3495423333">
+        <ele>360.100000</ele>
+        <time>2021-06-25T13:11:14.40Z</time>
+        <course>136.79</course>
+        <name>point 97</name>
+      </trkpt>
+      <trkpt lat="40.8469370000" lon="-80.3494766667">
+        <ele>359.800000</ele>
+        <time>2021-06-25T13:11:14.60Z</time>
+        <course>136.79</course>
+        <name>point 98</name>
+      </trkpt>
+      <trkpt lat="40.8468833333" lon="-80.3494106667">
+        <ele>359.500000</ele>
+        <time>2021-06-25T13:11:14.80Z</time>
+        <course>136.91</course>
+        <name>point 99</name>
+      </trkpt>
+      <trkpt lat="40.8468291667" lon="-80.3493441667">
+        <ele>359.300000</ele>
+        <time>2021-06-25T13:11:15.00Z</time>
+        <course>136.99</course>
+        <name>point 100</name>
+      </trkpt>
+      <trkpt lat="40.8467745000" lon="-80.3492773333">
+        <ele>359.200000</ele>
+        <time>2021-06-25T13:11:15.20Z</time>
+        <course>137.04</course>
+        <name>point 101</name>
+      </trkpt>
+      <trkpt lat="40.8467193333" lon="-80.3492100000">
+        <ele>359.100000</ele>
+        <time>2021-06-25T13:11:15.40Z</time>
+        <course>137.08</course>
+        <name>point 102</name>
+      </trkpt>
+      <trkpt lat="40.8466636667" lon="-80.3491425000">
+        <ele>358.900000</ele>
+        <time>2021-06-25T13:11:15.60Z</time>
+        <course>137.21</course>
+        <name>point 103</name>
+      </trkpt>
+      <trkpt lat="40.8466076667" lon="-80.3490745000">
+        <ele>358.800000</ele>
+        <time>2021-06-25T13:11:15.80Z</time>
+        <course>137.31</course>
+        <name>point 104</name>
+      </trkpt>
+      <trkpt lat="40.8465508333" lon="-80.3490066667">
+        <ele>358.800000</ele>
+        <time>2021-06-25T13:11:16.00Z</time>
+        <course>137.77</course>
+        <name>point 105</name>
+      </trkpt>
+      <trkpt lat="40.8464930000" lon="-80.3489395000">
+        <ele>358.800000</ele>
+        <time>2021-06-25T13:11:16.20Z</time>
+        <course>138.40</course>
+        <name>point 106</name>
+      </trkpt>
+      <trkpt lat="40.8464345000" lon="-80.3488728333">
+        <ele>359.000000</ele>
+        <time>2021-06-25T13:11:16.40Z</time>
+        <course>138.96</course>
+        <name>point 107</name>
+      </trkpt>
+      <trkpt lat="40.8463753333" lon="-80.3488063333">
+        <ele>359.100000</ele>
+        <time>2021-06-25T13:11:16.60Z</time>
+        <course>139.42</course>
+        <name>point 108</name>
+      </trkpt>
+      <trkpt lat="40.8463160000" lon="-80.3487405000">
+        <ele>359.300000</ele>
+        <time>2021-06-25T13:11:16.80Z</time>
+        <course>139.78</course>
+        <name>point 109</name>
+      </trkpt>
+      <trkpt lat="40.8462563333" lon="-80.3486750000">
+        <ele>359.400000</ele>
+        <time>2021-06-25T13:11:17.00Z</time>
+        <course>140.07</course>
+        <name>point 110</name>
+      </trkpt>
+      <trkpt lat="40.8461965000" lon="-80.3486098333">
+        <ele>359.600000</ele>
+        <time>2021-06-25T13:11:17.20Z</time>
+        <course>140.28</course>
+        <name>point 111</name>
+      </trkpt>
+      <trkpt lat="40.8461368333" lon="-80.3485450000">
+        <ele>359.900000</ele>
+        <time>2021-06-25T13:11:17.40Z</time>
+        <course>140.41</course>
+        <name>point 112</name>
+      </trkpt>
+      <trkpt lat="40.8460776667" lon="-80.3484808333">
+        <ele>360.200000</ele>
+        <time>2021-06-25T13:11:17.60Z</time>
+        <course>140.44</course>
+        <name>point 113</name>
+      </trkpt>
+      <trkpt lat="40.8460191667" lon="-80.3484170000">
+        <ele>360.500000</ele>
+        <time>2021-06-25T13:11:17.80Z</time>
+        <course>140.27</course>
+        <name>point 114</name>
+      </trkpt>
+      <trkpt lat="40.8459615000" lon="-80.3483535000">
+        <ele>360.800000</ele>
+        <time>2021-06-25T13:11:18.00Z</time>
+        <course>140.16</course>
+        <name>point 115</name>
+      </trkpt>
+      <trkpt lat="40.8459043333" lon="-80.3482906667">
+        <ele>361.000000</ele>
+        <time>2021-06-25T13:11:18.20Z</time>
+        <course>140.10</course>
+        <name>point 116</name>
+      </trkpt>
+      <trkpt lat="40.8458480000" lon="-80.3482281667">
+        <ele>361.300000</ele>
+        <time>2021-06-25T13:11:18.40Z</time>
+        <course>140.00</course>
+        <name>point 117</name>
+      </trkpt>
+      <trkpt lat="40.8457925000" lon="-80.3481666667">
+        <ele>361.600000</ele>
+        <time>2021-06-25T13:11:18.60Z</time>
+        <course>139.88</course>
+        <name>point 118</name>
+      </trkpt>
+      <trkpt lat="40.8457381667" lon="-80.3481058333">
+        <ele>361.800000</ele>
+        <time>2021-06-25T13:11:18.80Z</time>
+        <course>139.71</course>
+        <name>point 119</name>
+      </trkpt>
+      <trkpt lat="40.8456851667" lon="-80.3480463333">
+        <ele>362.100000</ele>
+        <time>2021-06-25T13:11:19.00Z</time>
+        <course>139.52</course>
+        <name>point 120</name>
+      </trkpt>
+      <trkpt lat="40.8456336667" lon="-80.3479880000">
+        <ele>362.400000</ele>
+        <time>2021-06-25T13:11:19.20Z</time>
+        <course>139.41</course>
+        <name>point 121</name>
+      </trkpt>
+      <trkpt lat="40.8455833333" lon="-80.3479308333">
+        <ele>362.600000</ele>
+        <time>2021-06-25T13:11:19.40Z</time>
+        <course>139.29</course>
+        <name>point 122</name>
+      </trkpt>
+      <trkpt lat="40.8455341667" lon="-80.3478746667">
+        <ele>362.900000</ele>
+        <time>2021-06-25T13:11:19.60Z</time>
+        <course>139.04</course>
+        <name>point 123</name>
+      </trkpt>
+      <trkpt lat="40.8454866667" lon="-80.3478198333">
+        <ele>363.100000</ele>
+        <time>2021-06-25T13:11:19.80Z</time>
+        <course>138.83</course>
+        <name>point 124</name>
+      </trkpt>
+      <trkpt lat="40.8454408333" lon="-80.3477663333">
+        <ele>363.400000</ele>
+        <time>2021-06-25T13:11:20.00Z</time>
+        <course>138.66</course>
+        <name>point 125</name>
+      </trkpt>
+      <trkpt lat="40.8453960000" lon="-80.3477141667">
+        <ele>363.600000</ele>
+        <time>2021-06-25T13:11:20.20Z</time>
+        <course>138.50</course>
+        <name>point 126</name>
+      </trkpt>
+      <trkpt lat="40.8453523333" lon="-80.3476630000">
+        <ele>363.800000</ele>
+        <time>2021-06-25T13:11:20.40Z</time>
+        <course>138.41</course>
+        <name>point 127</name>
+      </trkpt>
+      <trkpt lat="40.8453095000" lon="-80.3476126667">
+        <ele>364.100000</ele>
+        <time>2021-06-25T13:11:20.60Z</time>
+        <course>138.24</course>
+        <name>point 128</name>
+      </trkpt>
+      <trkpt lat="40.8452680000" lon="-80.3475633333">
+        <ele>364.300000</ele>
+        <time>2021-06-25T13:11:20.80Z</time>
+        <course>138.06</course>
+        <name>point 129</name>
+      </trkpt>
+      <trkpt lat="40.8452285000" lon="-80.3475158333">
+        <ele>364.400000</ele>
+        <time>2021-06-25T13:11:21.00Z</time>
+        <course>137.82</course>
+        <name>point 130</name>
+      </trkpt>
+      <trkpt lat="40.8451903333" lon="-80.3474700000">
+        <ele>364.600000</ele>
+        <time>2021-06-25T13:11:21.20Z</time>
+        <course>137.66</course>
+        <name>point 131</name>
+      </trkpt>
+      <trkpt lat="40.8451533333" lon="-80.3474253333">
+        <ele>364.700000</ele>
+        <time>2021-06-25T13:11:21.40Z</time>
+        <course>137.61</course>
+        <name>point 132</name>
+      </trkpt>
+      <trkpt lat="40.8451175000" lon="-80.3473821667">
+        <ele>364.900000</ele>
+        <time>2021-06-25T13:11:21.60Z</time>
+        <course>137.64</course>
+        <name>point 133</name>
+      </trkpt>
+      <trkpt lat="40.8450830000" lon="-80.3473401667">
+        <ele>365.000000</ele>
+        <time>2021-06-25T13:11:21.80Z</time>
+        <course>137.36</course>
+        <name>point 134</name>
+      </trkpt>
+      <trkpt lat="40.8450501667" lon="-80.3472993333">
+        <ele>365.100000</ele>
+        <time>2021-06-25T13:11:22.00Z</time>
+        <course>136.74</course>
+        <name>point 135</name>
+      </trkpt>
+      <trkpt lat="40.8450185000" lon="-80.3472593333">
+        <ele>365.100000</ele>
+        <time>2021-06-25T13:11:22.20Z</time>
+        <course>136.36</course>
+        <name>point 136</name>
+      </trkpt>
+      <trkpt lat="40.8449873333" lon="-80.3472201667">
+        <ele>365.200000</ele>
+        <time>2021-06-25T13:11:22.40Z</time>
+        <course>136.31</course>
+        <name>point 137</name>
+      </trkpt>
+      <trkpt lat="40.8449568333" lon="-80.3471815000">
+        <ele>365.200000</ele>
+        <time>2021-06-25T13:11:22.60Z</time>
+        <course>136.18</course>
+        <name>point 138</name>
+      </trkpt>
+      <trkpt lat="40.8449270000" lon="-80.3471428333">
+        <ele>365.200000</ele>
+        <time>2021-06-25T13:11:22.80Z</time>
+        <course>135.63</course>
+        <name>point 139</name>
+      </trkpt>
+      <trkpt lat="40.8448981667" lon="-80.3471040000">
+        <ele>365.200000</ele>
+        <time>2021-06-25T13:11:23.00Z</time>
+        <course>134.64</course>
+        <name>point 140</name>
+      </trkpt>
+      <trkpt lat="40.8448706667" lon="-80.3470643333">
+        <ele>365.100000</ele>
+        <time>2021-06-25T13:11:23.20Z</time>
+        <course>132.61</course>
+        <name>point 141</name>
+      </trkpt>
+      <trkpt lat="40.8448446667" lon="-80.3470233333">
+        <ele>365.100000</ele>
+        <time>2021-06-25T13:11:23.40Z</time>
+        <course>129.95</course>
+        <name>point 142</name>
+      </trkpt>
+      <trkpt lat="40.8448210000" lon="-80.3469808333">
+        <ele>365.000000</ele>
+        <time>2021-06-25T13:11:23.60Z</time>
+        <course>126.75</course>
+        <name>point 143</name>
+      </trkpt>
+      <trkpt lat="40.8447996667" lon="-80.3469370000">
+        <ele>364.900000</ele>
+        <time>2021-06-25T13:11:23.80Z</time>
+        <course>123.07</course>
+        <name>point 144</name>
+      </trkpt>
+      <trkpt lat="40.8447806667" lon="-80.3468918333">
+        <ele>364.800000</ele>
+        <time>2021-06-25T13:11:24.00Z</time>
+        <course>119.48</course>
+        <name>point 145</name>
+      </trkpt>
+      <trkpt lat="40.8447640000" lon="-80.3468456667">
+        <ele>364.700000</ele>
+        <time>2021-06-25T13:11:24.20Z</time>
+        <course>115.94</course>
+        <name>point 146</name>
+      </trkpt>
+      <trkpt lat="40.8447500000" lon="-80.3467986667">
+        <ele>364.600000</ele>
+        <time>2021-06-25T13:11:24.40Z</time>
+        <course>111.78</course>
+        <name>point 147</name>
+      </trkpt>
+      <trkpt lat="40.8447391667" lon="-80.3467510000">
+        <ele>364.400000</ele>
+        <time>2021-06-25T13:11:24.60Z</time>
+        <course>107.11</course>
+        <name>point 148</name>
+      </trkpt>
+      <trkpt lat="40.8447316667" lon="-80.3467028333">
+        <ele>364.300000</ele>
+        <time>2021-06-25T13:11:24.80Z</time>
+        <course>102.06</course>
+        <name>point 149</name>
+      </trkpt>
+      <trkpt lat="40.8447278333" lon="-80.3466541667">
+        <ele>364.100000</ele>
+        <time>2021-06-25T13:11:25.00Z</time>
+        <course>96.59</course>
+        <name>point 150</name>
+      </trkpt>
+      <trkpt lat="40.8447275000" lon="-80.3466058333">
+        <ele>363.900000</ele>
+        <time>2021-06-25T13:11:25.20Z</time>
+        <course>91.07</course>
+        <name>point 151</name>
+      </trkpt>
+      <trkpt lat="40.8447305000" lon="-80.3465580000">
+        <ele>363.800000</ele>
+        <time>2021-06-25T13:11:25.40Z</time>
+        <course>85.63</course>
+        <name>point 152</name>
+      </trkpt>
+      <trkpt lat="40.8447370000" lon="-80.3465111667">
+        <ele>363.600000</ele>
+        <time>2021-06-25T13:11:25.60Z</time>
+        <course>80.14</course>
+        <name>point 153</name>
+      </trkpt>
+      <trkpt lat="40.8447468333" lon="-80.3464658333">
+        <ele>363.400000</ele>
+        <time>2021-06-25T13:11:25.80Z</time>
+        <course>74.63</course>
+        <name>point 154</name>
+      </trkpt>
+      <trkpt lat="40.8447595000" lon="-80.3464220000">
+        <ele>363.200000</ele>
+        <time>2021-06-25T13:11:26.00Z</time>
+        <course>69.58</course>
+        <name>point 155</name>
+      </trkpt>
+      <trkpt lat="40.8447743333" lon="-80.3463795000">
+        <ele>363.000000</ele>
+        <time>2021-06-25T13:11:26.20Z</time>
+        <course>65.53</course>
+        <name>point 156</name>
+      </trkpt>
+      <trkpt lat="40.8447906667" lon="-80.3463380000">
+        <ele>362.800000</ele>
+        <time>2021-06-25T13:11:26.40Z</time>
+        <course>63.00</course>
+        <name>point 157</name>
+      </trkpt>
+      <trkpt lat="40.8448076667" lon="-80.3462971667">
+        <ele>362.600000</ele>
+        <time>2021-06-25T13:11:26.60Z</time>
+        <course>61.43</course>
+        <name>point 158</name>
+      </trkpt>
+      <trkpt lat="40.8448246667" lon="-80.3462561667">
+        <ele>362.400000</ele>
+        <time>2021-06-25T13:11:26.80Z</time>
+        <course>61.51</course>
+        <name>point 159</name>
+      </trkpt>
+      <trkpt lat="40.8448410000" lon="-80.3462150000">
+        <ele>362.200000</ele>
+        <time>2021-06-25T13:11:27.00Z</time>
+        <course>62.58</course>
+        <name>point 160</name>
+      </trkpt>
+      <trkpt lat="40.8448563333" lon="-80.3461736667">
+        <ele>362.000000</ele>
+        <time>2021-06-25T13:11:27.20Z</time>
+        <course>64.25</course>
+        <name>point 161</name>
+      </trkpt>
+      <trkpt lat="40.8448703333" lon="-80.3461320000">
+        <ele>361.700000</ele>
+        <time>2021-06-25T13:11:27.40Z</time>
+        <course>66.04</course>
+        <name>point 162</name>
+      </trkpt>
+      <trkpt lat="40.8448825000" lon="-80.3460903333">
+        <ele>361.500000</ele>
+        <time>2021-06-25T13:11:27.60Z</time>
+        <course>69.15</course>
+        <name>point 163</name>
+      </trkpt>
+      <trkpt lat="40.8448923333" lon="-80.3460486667">
+        <ele>361.300000</ele>
+        <time>2021-06-25T13:11:27.80Z</time>
+        <course>72.55</course>
+        <name>point 164</name>
+      </trkpt>
+      <trkpt lat="40.8449003333" lon="-80.3460070000">
+        <ele>361.100000</ele>
+        <time>2021-06-25T13:11:28.00Z</time>
+        <course>75.60</course>
+        <name>point 165</name>
+      </trkpt>
+      <trkpt lat="40.8449063333" lon="-80.3459650000">
+        <ele>360.800000</ele>
+        <time>2021-06-25T13:11:28.20Z</time>
+        <course>79.34</course>
+        <name>point 166</name>
+      </trkpt>
+      <trkpt lat="40.8449098333" lon="-80.3459230000">
+        <ele>360.600000</ele>
+        <time>2021-06-25T13:11:28.40Z</time>
+        <course>83.27</course>
+        <name>point 167</name>
+      </trkpt>
+      <trkpt lat="40.8449111667" lon="-80.3458816667">
+        <ele>360.400000</ele>
+        <time>2021-06-25T13:11:28.60Z</time>
+        <course>87.31</course>
+        <name>point 168</name>
+      </trkpt>
+      <trkpt lat="40.8449105000" lon="-80.3458408333">
+        <ele>360.100000</ele>
+        <time>2021-06-25T13:11:28.80Z</time>
+        <course>90.96</course>
+        <name>point 169</name>
+      </trkpt>
+      <trkpt lat="40.8449078333" lon="-80.3458003333">
+        <ele>359.900000</ele>
+        <time>2021-06-25T13:11:29.00Z</time>
+        <course>94.67</course>
+        <name>point 170</name>
+      </trkpt>
+      <trkpt lat="40.8449031667" lon="-80.3457605000">
+        <ele>359.600000</ele>
+        <time>2021-06-25T13:11:29.20Z</time>
+        <course>98.50</course>
+        <name>point 171</name>
+      </trkpt>
+      <trkpt lat="40.8448963333" lon="-80.3457215000">
+        <ele>359.400000</ele>
+        <time>2021-06-25T13:11:29.40Z</time>
+        <course>102.75</course>
+        <name>point 172</name>
+      </trkpt>
+      <trkpt lat="40.8448868333" lon="-80.3456838333">
+        <ele>359.200000</ele>
+        <time>2021-06-25T13:11:29.60Z</time>
+        <course>107.76</course>
+        <name>point 173</name>
+      </trkpt>
+      <trkpt lat="40.8448741667" lon="-80.3456476667">
+        <ele>358.900000</ele>
+        <time>2021-06-25T13:11:29.80Z</time>
+        <course>114.05</course>
+        <name>point 174</name>
+      </trkpt>
+      <trkpt lat="40.8448586667" lon="-80.3456136667">
+        <ele>358.700000</ele>
+        <time>2021-06-25T13:11:30.00Z</time>
+        <course>120.44</course>
+        <name>point 175</name>
+      </trkpt>
+      <trkpt lat="40.8448403333" lon="-80.3455813333">
+        <ele>358.400000</ele>
+        <time>2021-06-25T13:11:30.20Z</time>
+        <course>126.27</course>
+        <name>point 176</name>
+      </trkpt>
+      <trkpt lat="40.8448196667" lon="-80.3455510000">
+        <ele>358.100000</ele>
+        <time>2021-06-25T13:11:30.40Z</time>
+        <course>131.48</course>
+        <name>point 177</name>
+      </trkpt>
+      <trkpt lat="40.8447965000" lon="-80.3455223333">
+        <ele>357.800000</ele>
+        <time>2021-06-25T13:11:30.60Z</time>
+        <course>136.53</course>
+        <name>point 178</name>
+      </trkpt>
+      <trkpt lat="40.8447708333" lon="-80.3454956667">
+        <ele>357.500000</ele>
+        <time>2021-06-25T13:11:30.80Z</time>
+        <course>141.36</course>
+        <name>point 179</name>
+      </trkpt>
+      <trkpt lat="40.8447426667" lon="-80.3454703333">
+        <ele>357.200000</ele>
+        <time>2021-06-25T13:11:31.00Z</time>
+        <course>145.55</course>
+        <name>point 180</name>
+      </trkpt>
+      <trkpt lat="40.8447120000" lon="-80.3454461667">
+        <ele>356.800000</ele>
+        <time>2021-06-25T13:11:31.20Z</time>
+        <course>148.86</course>
+        <name>point 181</name>
+      </trkpt>
+      <trkpt lat="40.8446793333" lon="-80.3454230000">
+        <ele>356.500000</ele>
+        <time>2021-06-25T13:11:31.40Z</time>
+        <course>151.66</course>
+        <name>point 182</name>
+      </trkpt>
+      <trkpt lat="40.8446445000" lon="-80.3454003333">
+        <ele>356.100000</ele>
+        <time>2021-06-25T13:11:31.60Z</time>
+        <course>153.82</course>
+        <name>point 183</name>
+      </trkpt>
+      <trkpt lat="40.8446076667" lon="-80.3453780000">
+        <ele>355.700000</ele>
+        <time>2021-06-25T13:11:31.80Z</time>
+        <course>155.30</course>
+        <name>point 184</name>
+      </trkpt>
+      <trkpt lat="40.8445691667" lon="-80.3453550000">
+        <ele>355.200000</ele>
+        <time>2021-06-25T13:11:32.00Z</time>
+        <course>155.90</course>
+        <name>point 185</name>
+      </trkpt>
+      <trkpt lat="40.8445290000" lon="-80.3453311667">
+        <ele>354.800000</ele>
+        <time>2021-06-25T13:11:32.20Z</time>
+        <course>156.00</course>
+        <name>point 186</name>
+      </trkpt>
+      <trkpt lat="40.8444870000" lon="-80.3453060000">
+        <ele>354.300000</ele>
+        <time>2021-06-25T13:11:32.40Z</time>
+        <course>155.63</course>
+        <name>point 187</name>
+      </trkpt>
+      <trkpt lat="40.8444436667" lon="-80.3452785000">
+        <ele>353.800000</ele>
+        <time>2021-06-25T13:11:32.60Z</time>
+        <course>154.61</course>
+        <name>point 188</name>
+      </trkpt>
+      <trkpt lat="40.8443986667" lon="-80.3452488333">
+        <ele>353.300000</ele>
+        <time>2021-06-25T13:11:32.80Z</time>
+        <course>153.62</course>
+        <name>point 189</name>
+      </trkpt>
+      <trkpt lat="40.8443523333" lon="-80.3452168333">
+        <ele>352.800000</ele>
+        <time>2021-06-25T13:11:33.00Z</time>
+        <course>152.54</course>
+        <name>point 190</name>
+      </trkpt>
+      <trkpt lat="40.8443058333" lon="-80.3451825000">
+        <ele>352.300000</ele>
+        <time>2021-06-25T13:11:33.20Z</time>
+        <course>151.00</course>
+        <name>point 191</name>
+      </trkpt>
+      <trkpt lat="40.8442590000" lon="-80.3451456667">
+        <ele>351.800000</ele>
+        <time>2021-06-25T13:11:33.40Z</time>
+        <course>149.36</course>
+        <name>point 192</name>
+      </trkpt>
+      <trkpt lat="40.8442125000" lon="-80.3451063333">
+        <ele>351.300000</ele>
+        <time>2021-06-25T13:11:33.60Z</time>
+        <course>147.66</course>
+        <name>point 193</name>
+      </trkpt>
+      <trkpt lat="40.8441660000" lon="-80.3450648333">
+        <ele>350.800000</ele>
+        <time>2021-06-25T13:11:33.80Z</time>
+        <course>146.01</course>
+        <name>point 194</name>
+      </trkpt>
+      <trkpt lat="40.8441196667" lon="-80.3450213333">
+        <ele>350.200000</ele>
+        <time>2021-06-25T13:11:34.00Z</time>
+        <course>144.68</course>
+        <name>point 195</name>
+      </trkpt>
+      <trkpt lat="40.8440730000" lon="-80.3449758333">
+        <ele>349.700000</ele>
+        <time>2021-06-25T13:11:34.20Z</time>
+        <course>143.52</course>
+        <name>point 196</name>
+      </trkpt>
+      <trkpt lat="40.8440260000" lon="-80.3449283333">
+        <ele>349.200000</ele>
+        <time>2021-06-25T13:11:34.40Z</time>
+        <course>142.55</course>
+        <name>point 197</name>
+      </trkpt>
+      <trkpt lat="40.8439790000" lon="-80.3448788333">
+        <ele>348.700000</ele>
+        <time>2021-06-25T13:11:34.60Z</time>
+        <course>141.54</course>
+        <name>point 198</name>
+      </trkpt>
+      <trkpt lat="40.8439318333" lon="-80.3448273333">
+        <ele>348.100000</ele>
+        <time>2021-06-25T13:11:34.80Z</time>
+        <course>140.42</course>
+        <name>point 199</name>
+      </trkpt>
+      <trkpt lat="40.8438851667" lon="-80.3447735000">
+        <ele>347.500000</ele>
+        <time>2021-06-25T13:11:35.00Z</time>
+        <course>139.05</course>
+        <name>point 200</name>
+      </trkpt>
+      <trkpt lat="40.8438391667" lon="-80.3447181667">
+        <ele>346.900000</ele>
+        <time>2021-06-25T13:11:35.20Z</time>
+        <course>137.77</course>
+        <name>point 201</name>
+      </trkpt>
+      <trkpt lat="40.8437945000" lon="-80.3446615000">
+        <ele>346.300000</ele>
+        <time>2021-06-25T13:11:35.40Z</time>
+        <course>136.22</course>
+        <name>point 202</name>
+      </trkpt>
+      <trkpt lat="40.8437513333" lon="-80.3446033333">
+        <ele>345.700000</ele>
+        <time>2021-06-25T13:11:35.60Z</time>
+        <course>134.54</course>
+        <name>point 203</name>
+      </trkpt>
+      <trkpt lat="40.8437098333" lon="-80.3445440000">
+        <ele>345.100000</ele>
+        <time>2021-06-25T13:11:35.80Z</time>
+        <course>132.88</course>
+        <name>point 204</name>
+      </trkpt>
+      <trkpt lat="40.8436698333" lon="-80.3444835000">
+        <ele>344.500000</ele>
+        <time>2021-06-25T13:11:36.00Z</time>
+        <course>131.29</course>
+        <name>point 205</name>
+      </trkpt>
+      <trkpt lat="40.8436313333" lon="-80.3444220000">
+        <ele>344.000000</ele>
+        <time>2021-06-25T13:11:36.20Z</time>
+        <course>129.67</course>
+        <name>point 206</name>
+      </trkpt>
+      <trkpt lat="40.8435945000" lon="-80.3443593333">
+        <ele>343.400000</ele>
+        <time>2021-06-25T13:11:36.40Z</time>
+        <course>127.95</course>
+        <name>point 207</name>
+      </trkpt>
+      <trkpt lat="40.8435596667" lon="-80.3442958333">
+        <ele>342.900000</ele>
+        <time>2021-06-25T13:11:36.60Z</time>
+        <course>126.07</course>
+        <name>point 208</name>
+      </trkpt>
+      <trkpt lat="40.8435270000" lon="-80.3442325000">
+        <ele>342.400000</ele>
+        <time>2021-06-25T13:11:36.80Z</time>
+        <course>124.51</course>
+        <name>point 209</name>
+      </trkpt>
+      <trkpt lat="40.8434960000" lon="-80.3441708333">
+        <ele>342.000000</ele>
+        <time>2021-06-25T13:11:37.00Z</time>
+        <course>123.66</course>
+        <name>point 210</name>
+      </trkpt>
+      <trkpt lat="40.8434663333" lon="-80.3441120000">
+        <ele>341.700000</ele>
+        <time>2021-06-25T13:11:37.20Z</time>
+        <course>123.65</course>
+        <name>point 211</name>
+      </trkpt>
+      <trkpt lat="40.8434378333" lon="-80.3440568333">
+        <ele>341.500000</ele>
+        <time>2021-06-25T13:11:37.40Z</time>
+        <course>124.30</course>
+        <name>point 212</name>
+      </trkpt>
+      <trkpt lat="40.8434101667" lon="-80.3440050000">
+        <ele>341.300000</ele>
+        <time>2021-06-25T13:11:37.60Z</time>
+        <course>125.01</course>
+        <name>point 213</name>
+      </trkpt>
+      <trkpt lat="40.8433828333" lon="-80.3439561667">
+        <ele>341.200000</ele>
+        <time>2021-06-25T13:11:37.80Z</time>
+        <course>126.31</course>
+        <name>point 214</name>
+      </trkpt>
+      <trkpt lat="40.8433550000" lon="-80.3439103333">
+        <ele>341.100000</ele>
+        <time>2021-06-25T13:11:38.00Z</time>
+        <course>128.64</course>
+        <name>point 215</name>
+      </trkpt>
+      <trkpt lat="40.8433258333" lon="-80.3438686667">
+        <ele>341.000000</ele>
+        <time>2021-06-25T13:11:38.20Z</time>
+        <course>132.42</course>
+        <name>point 216</name>
+      </trkpt>
+      <trkpt lat="40.8432951667" lon="-80.3438315000">
+        <ele>340.900000</ele>
+        <time>2021-06-25T13:11:38.40Z</time>
+        <course>137.14</course>
+        <name>point 217</name>
+      </trkpt>
+      <trkpt lat="40.8432625000" lon="-80.3437988333">
+        <ele>340.900000</ele>
+        <time>2021-06-25T13:11:38.60Z</time>
+        <course>142.34</course>
+        <name>point 218</name>
+      </trkpt>
+      <trkpt lat="40.8432281667" lon="-80.3437705000">
+        <ele>340.900000</ele>
+        <time>2021-06-25T13:11:38.80Z</time>
+        <course>147.54</course>
+        <name>point 219</name>
+      </trkpt>
+      <trkpt lat="40.8431920000" lon="-80.3437466667">
+        <ele>340.900000</ele>
+        <time>2021-06-25T13:11:39.00Z</time>
+        <course>153.04</course>
+        <name>point 220</name>
+      </trkpt>
+      <trkpt lat="40.8431543333" lon="-80.3437283333">
+        <ele>341.000000</ele>
+        <time>2021-06-25T13:11:39.20Z</time>
+        <course>159.22</course>
+        <name>point 221</name>
+      </trkpt>
+      <trkpt lat="40.8431155000" lon="-80.3437156667">
+        <ele>341.100000</ele>
+        <time>2021-06-25T13:11:39.40Z</time>
+        <course>165.76</course>
+        <name>point 222</name>
+      </trkpt>
+      <trkpt lat="40.8430761667" lon="-80.3437090000">
+        <ele>341.300000</ele>
+        <time>2021-06-25T13:11:39.60Z</time>
+        <course>172.14</course>
+        <name>point 223</name>
+      </trkpt>
+      <trkpt lat="40.8430365000" lon="-80.3437076667">
+        <ele>341.500000</ele>
+        <time>2021-06-25T13:11:39.80Z</time>
+        <course>178.33</course>
+        <name>point 224</name>
+      </trkpt>
+      <trkpt lat="40.8429968333" lon="-80.3437116667">
+        <ele>341.800000</ele>
+        <time>2021-06-25T13:11:40.00Z</time>
+        <course>184.01</course>
+        <name>point 225</name>
+      </trkpt>
+      <trkpt lat="40.8429570000" lon="-80.3437205000">
+        <ele>342.200000</ele>
+        <time>2021-06-25T13:11:40.20Z</time>
+        <course>189.26</course>
+        <name>point 226</name>
+      </trkpt>
+      <trkpt lat="40.8429178333" lon="-80.3437341667">
+        <ele>342.500000</ele>
+        <time>2021-06-25T13:11:40.40Z</time>
+        <course>194.70</course>
+        <name>point 227</name>
+      </trkpt>
+      <trkpt lat="40.8428800000" lon="-80.3437530000">
+        <ele>343.000000</ele>
+        <time>2021-06-25T13:11:40.60Z</time>
+        <course>200.44</course>
+        <name>point 228</name>
+      </trkpt>
+      <trkpt lat="40.8428438333" lon="-80.3437766667">
+        <ele>343.500000</ele>
+        <time>2021-06-25T13:11:40.80Z</time>
+        <course>206.10</course>
+        <name>point 229</name>
+      </trkpt>
+      <trkpt lat="40.8428093333" lon="-80.3438050000">
+        <ele>344.000000</ele>
+        <time>2021-06-25T13:11:41.00Z</time>
+        <course>211.61</course>
+        <name>point 230</name>
+      </trkpt>
+      <trkpt lat="40.8427768333" lon="-80.3438375000">
+        <ele>344.500000</ele>
+        <time>2021-06-25T13:11:41.20Z</time>
+        <course>217.03</course>
+        <name>point 231</name>
+      </trkpt>
+      <trkpt lat="40.8427466667" lon="-80.3438735000">
+        <ele>345.100000</ele>
+        <time>2021-06-25T13:11:41.40Z</time>
+        <course>221.79</course>
+        <name>point 232</name>
+      </trkpt>
+      <trkpt lat="40.8427181667" lon="-80.3439125000">
+        <ele>345.700000</ele>
+        <time>2021-06-25T13:11:41.60Z</time>
+        <course>226.00</course>
+        <name>point 233</name>
+      </trkpt>
+      <trkpt lat="40.8426911667" lon="-80.3439545000">
+        <ele>346.200000</ele>
+        <time>2021-06-25T13:11:41.80Z</time>
+        <course>229.66</course>
+        <name>point 234</name>
+      </trkpt>
+      <trkpt lat="40.8426656667" lon="-80.3439996667">
+        <ele>346.800000</ele>
+        <time>2021-06-25T13:11:42.00Z</time>
+        <course>233.27</course>
+        <name>point 235</name>
+      </trkpt>
+      <trkpt lat="40.8426418333" lon="-80.3440480000">
+        <ele>347.400000</ele>
+        <time>2021-06-25T13:11:42.20Z</time>
+        <course>236.77</course>
+        <name>point 236</name>
+      </trkpt>
+      <trkpt lat="40.8426200000" lon="-80.3440988333">
+        <ele>347.900000</ele>
+        <time>2021-06-25T13:11:42.40Z</time>
+        <course>240.46</course>
+        <name>point 237</name>
+      </trkpt>
+      <trkpt lat="40.8426005000" lon="-80.3441518333">
+        <ele>348.500000</ele>
+        <time>2021-06-25T13:11:42.60Z</time>
+        <course>243.88</course>
+        <name>point 238</name>
+      </trkpt>
+      <trkpt lat="40.8425828333" lon="-80.3442071667">
+        <ele>349.100000</ele>
+        <time>2021-06-25T13:11:42.80Z</time>
+        <course>247.13</course>
+        <name>point 239</name>
+      </trkpt>
+      <trkpt lat="40.8425675000" lon="-80.3442646667">
+        <ele>349.600000</ele>
+        <time>2021-06-25T13:11:43.00Z</time>
+        <course>250.45</course>
+        <name>point 240</name>
+      </trkpt>
+      <trkpt lat="40.8425543333" lon="-80.3443245000">
+        <ele>350.300000</ele>
+        <time>2021-06-25T13:11:43.20Z</time>
+        <course>253.84</course>
+        <name>point 241</name>
+      </trkpt>
+      <trkpt lat="40.8425438333" lon="-80.3443865000">
+        <ele>350.900000</ele>
+        <time>2021-06-25T13:11:43.40Z</time>
+        <course>257.15</course>
+        <name>point 242</name>
+      </trkpt>
+      <trkpt lat="40.8425358333" lon="-80.3444505000">
+        <ele>351.500000</ele>
+        <time>2021-06-25T13:11:43.60Z</time>
+        <course>260.59</course>
+        <name>point 243</name>
+      </trkpt>
+      <trkpt lat="40.8425308333" lon="-80.3445163333">
+        <ele>352.100000</ele>
+        <time>2021-06-25T13:11:43.80Z</time>
+        <course>264.11</course>
+        <name>point 244</name>
+      </trkpt>
+      <trkpt lat="40.8425286667" lon="-80.3445836667">
+        <ele>352.800000</ele>
+        <time>2021-06-25T13:11:44.00Z</time>
+        <course>267.58</course>
+        <name>point 245</name>
+      </trkpt>
+      <trkpt lat="40.8425296667" lon="-80.3446520000">
+        <ele>353.500000</ele>
+        <time>2021-06-25T13:11:44.20Z</time>
+        <course>270.95</course>
+        <name>point 246</name>
+      </trkpt>
+      <trkpt lat="40.8425335000" lon="-80.3447210000">
+        <ele>354.100000</ele>
+        <time>2021-06-25T13:11:44.40Z</time>
+        <course>274.05</course>
+        <name>point 247</name>
+      </trkpt>
+      <trkpt lat="40.8425400000" lon="-80.3447905000">
+        <ele>354.800000</ele>
+        <time>2021-06-25T13:11:44.60Z</time>
+        <course>277.01</course>
+        <name>point 248</name>
+      </trkpt>
+      <trkpt lat="40.8425491667" lon="-80.3448601667">
+        <ele>355.500000</ele>
+        <time>2021-06-25T13:11:44.80Z</time>
+        <course>279.72</course>
+        <name>point 249</name>
+      </trkpt>
+      <trkpt lat="40.8425610000" lon="-80.3449300000">
+        <ele>356.300000</ele>
+        <time>2021-06-25T13:11:45.00Z</time>
+        <course>282.56</course>
+        <name>point 250</name>
+      </trkpt>
+      <trkpt lat="40.8425758333" lon="-80.3449996667">
+        <ele>357.000000</ele>
+        <time>2021-06-25T13:11:45.20Z</time>
+        <course>285.65</course>
+        <name>point 251</name>
+      </trkpt>
+      <trkpt lat="40.8425938333" lon="-80.3450688333">
+        <ele>357.700000</ele>
+        <time>2021-06-25T13:11:45.40Z</time>
+        <course>288.81</course>
+        <name>point 252</name>
+      </trkpt>
+      <trkpt lat="40.8426150000" lon="-80.3451373333">
+        <ele>358.400000</ele>
+        <time>2021-06-25T13:11:45.60Z</time>
+        <course>291.94</course>
+        <name>point 253</name>
+      </trkpt>
+      <trkpt lat="40.8426388333" lon="-80.3452050000">
+        <ele>359.200000</ele>
+        <time>2021-06-25T13:11:45.80Z</time>
+        <course>294.86</course>
+        <name>point 254</name>
+      </trkpt>
+      <trkpt lat="40.8426653333" lon="-80.3452721667">
+        <ele>359.900000</ele>
+        <time>2021-06-25T13:11:46.00Z</time>
+        <course>297.33</course>
+        <name>point 255</name>
+      </trkpt>
+      <trkpt lat="40.8426936667" lon="-80.3453386667">
+        <ele>360.600000</ele>
+        <time>2021-06-25T13:11:46.20Z</time>
+        <course>299.40</course>
+        <name>point 256</name>
+      </trkpt>
+      <trkpt lat="40.8427238333" lon="-80.3454050000">
+        <ele>361.300000</ele>
+        <time>2021-06-25T13:11:46.40Z</time>
+        <course>300.93</course>
+        <name>point 257</name>
+      </trkpt>
+      <trkpt lat="40.8427551667" lon="-80.3454715000">
+        <ele>361.900000</ele>
+        <time>2021-06-25T13:11:46.60Z</time>
+        <course>301.77</course>
+        <name>point 258</name>
+      </trkpt>
+      <trkpt lat="40.8427870000" lon="-80.3455385000">
+        <ele>362.600000</ele>
+        <time>2021-06-25T13:11:46.80Z</time>
+        <course>302.24</course>
+        <name>point 259</name>
+      </trkpt>
+      <trkpt lat="40.8428198333" lon="-80.3456061667">
+        <ele>363.200000</ele>
+        <time>2021-06-25T13:11:47.00Z</time>
+        <course>302.66</course>
+        <name>point 260</name>
+      </trkpt>
+      <trkpt lat="40.8428533333" lon="-80.3456743333">
+        <ele>363.700000</ele>
+        <time>2021-06-25T13:11:47.20Z</time>
+        <course>303.01</course>
+        <name>point 261</name>
+      </trkpt>
+      <trkpt lat="40.8428875000" lon="-80.3457433333">
+        <ele>364.200000</ele>
+        <time>2021-06-25T13:11:47.40Z</time>
+        <course>303.31</course>
+        <name>point 262</name>
+      </trkpt>
+      <trkpt lat="40.8429221667" lon="-80.3458130000">
+        <ele>364.700000</ele>
+        <time>2021-06-25T13:11:47.60Z</time>
+        <course>303.37</course>
+        <name>point 263</name>
+      </trkpt>
+      <trkpt lat="40.8429571667" lon="-80.3458835000">
+        <ele>365.100000</ele>
+        <time>2021-06-25T13:11:47.80Z</time>
+        <course>303.22</course>
+        <name>point 264</name>
+      </trkpt>
+      <trkpt lat="40.8429920000" lon="-80.3459548333">
+        <ele>365.500000</ele>
+        <time>2021-06-25T13:11:48.00Z</time>
+        <course>302.95</course>
+        <name>point 265</name>
+      </trkpt>
+      <trkpt lat="40.8430270000" lon="-80.3460266667">
+        <ele>365.900000</ele>
+        <time>2021-06-25T13:11:48.20Z</time>
+        <course>302.79</course>
+        <name>point 266</name>
+      </trkpt>
+      <trkpt lat="40.8430621667" lon="-80.3460991667">
+        <ele>366.200000</ele>
+        <time>2021-06-25T13:11:48.40Z</time>
+        <course>302.74</course>
+        <name>point 267</name>
+      </trkpt>
+      <trkpt lat="40.8430976667" lon="-80.3461720000">
+        <ele>366.500000</ele>
+        <time>2021-06-25T13:11:48.60Z</time>
+        <course>302.75</course>
+        <name>point 268</name>
+      </trkpt>
+      <trkpt lat="40.8431335000" lon="-80.3462456667">
+        <ele>366.700000</ele>
+        <time>2021-06-25T13:11:48.80Z</time>
+        <course>302.74</course>
+        <name>point 269</name>
+      </trkpt>
+      <trkpt lat="40.8431698333" lon="-80.3463200000">
+        <ele>366.900000</ele>
+        <time>2021-06-25T13:11:49.00Z</time>
+        <course>302.78</course>
+        <name>point 270</name>
+      </trkpt>
+      <trkpt lat="40.8432063333" lon="-80.3463950000">
+        <ele>367.000000</ele>
+        <time>2021-06-25T13:11:49.20Z</time>
+        <course>302.88</course>
+        <name>point 271</name>
+      </trkpt>
+      <trkpt lat="40.8432431667" lon="-80.3464700000">
+        <ele>367.200000</ele>
+        <time>2021-06-25T13:11:49.40Z</time>
+        <course>302.96</course>
+        <name>point 272</name>
+      </trkpt>
+      <trkpt lat="40.8432801667" lon="-80.3465453333">
+        <ele>367.200000</ele>
+        <time>2021-06-25T13:11:49.60Z</time>
+        <course>302.97</course>
+        <name>point 273</name>
+      </trkpt>
+      <trkpt lat="40.8433171667" lon="-80.3466210000">
+        <ele>367.300000</ele>
+        <time>2021-06-25T13:11:49.80Z</time>
+        <course>302.90</course>
+        <name>point 274</name>
+      </trkpt>
+      <trkpt lat="40.8433545000" lon="-80.3466975000">
+        <ele>367.200000</ele>
+        <time>2021-06-25T13:11:50.00Z</time>
+        <course>302.81</course>
+        <name>point 275</name>
+      </trkpt>
+      <trkpt lat="40.8433920000" lon="-80.3467751667">
+        <ele>367.100000</ele>
+        <time>2021-06-25T13:11:50.20Z</time>
+        <course>302.60</course>
+        <name>point 276</name>
+      </trkpt>
+      <trkpt lat="40.8434298333" lon="-80.3468538333">
+        <ele>367.000000</ele>
+        <time>2021-06-25T13:11:50.40Z</time>
+        <course>302.47</course>
+        <name>point 277</name>
+      </trkpt>
+      <trkpt lat="40.8434683333" lon="-80.3469341667">
+        <ele>366.800000</ele>
+        <time>2021-06-25T13:11:50.60Z</time>
+        <course>302.41</course>
+        <name>point 278</name>
+      </trkpt>
+      <trkpt lat="40.8435075000" lon="-80.3470158333">
+        <ele>366.500000</ele>
+        <time>2021-06-25T13:11:50.80Z</time>
+        <course>302.33</course>
+        <name>point 279</name>
+      </trkpt>
+      <trkpt lat="40.8435473333" lon="-80.3470988333">
+        <ele>366.200000</ele>
+        <time>2021-06-25T13:11:51.00Z</time>
+        <course>302.33</course>
+        <name>point 280</name>
+      </trkpt>
+      <trkpt lat="40.8435878333" lon="-80.3471830000">
+        <ele>365.800000</ele>
+        <time>2021-06-25T13:11:51.20Z</time>
+        <course>302.41</course>
+        <name>point 281</name>
+      </trkpt>
+      <trkpt lat="40.8436288333" lon="-80.3472686667">
+        <ele>365.300000</ele>
+        <time>2021-06-25T13:11:51.40Z</time>
+        <course>302.36</course>
+        <name>point 282</name>
+      </trkpt>
+      <trkpt lat="40.8436703333" lon="-80.3473553333">
+        <ele>364.800000</ele>
+        <time>2021-06-25T13:11:51.60Z</time>
+        <course>302.36</course>
+        <name>point 283</name>
+      </trkpt>
+      <trkpt lat="40.8437123333" lon="-80.3474428333">
+        <ele>364.300000</ele>
+        <time>2021-06-25T13:11:51.80Z</time>
+        <course>302.39</course>
+        <name>point 284</name>
+      </trkpt>
+      <trkpt lat="40.8437546667" lon="-80.3475313333">
+        <ele>363.800000</ele>
+        <time>2021-06-25T13:11:52.00Z</time>
+        <course>302.40</course>
+        <name>point 285</name>
+      </trkpt>
+      <trkpt lat="40.8437973333" lon="-80.3476203333">
+        <ele>363.300000</ele>
+        <time>2021-06-25T13:11:52.20Z</time>
+        <course>302.37</course>
+        <name>point 286</name>
+      </trkpt>
+      <trkpt lat="40.8438398333" lon="-80.3477093333">
+        <ele>362.800000</ele>
+        <time>2021-06-25T13:11:52.40Z</time>
+        <course>302.33</course>
+        <name>point 287</name>
+      </trkpt>
+      <trkpt lat="40.8438821667" lon="-80.3477978333">
+        <ele>362.300000</ele>
+        <time>2021-06-25T13:11:52.60Z</time>
+        <course>302.25</course>
+        <name>point 288</name>
+      </trkpt>
+      <trkpt lat="40.8439241667" lon="-80.3478860000">
+        <ele>361.800000</ele>
+        <time>2021-06-25T13:11:52.80Z</time>
+        <course>302.25</course>
+        <name>point 289</name>
+      </trkpt>
+      <trkpt lat="40.8439660000" lon="-80.3479730000">
+        <ele>361.300000</ele>
+        <time>2021-06-25T13:11:53.00Z</time>
+        <course>302.49</course>
+        <name>point 290</name>
+      </trkpt>
+      <trkpt lat="40.8440071667" lon="-80.3480581667">
+        <ele>360.900000</ele>
+        <time>2021-06-25T13:11:53.20Z</time>
+        <course>302.62</course>
+        <name>point 291</name>
+      </trkpt>
+      <trkpt lat="40.8440471667" lon="-80.3481405000">
+        <ele>360.500000</ele>
+        <time>2021-06-25T13:11:53.40Z</time>
+        <course>302.69</course>
+        <name>point 292</name>
+      </trkpt>
+      <trkpt lat="40.8440856667" lon="-80.3482198333">
+        <ele>360.200000</ele>
+        <time>2021-06-25T13:11:53.60Z</time>
+        <course>302.74</course>
+        <name>point 293</name>
+      </trkpt>
+      <trkpt lat="40.8441230000" lon="-80.3482963333">
+        <ele>359.900000</ele>
+        <time>2021-06-25T13:11:53.80Z</time>
+        <course>302.83</course>
+        <name>point 294</name>
+      </trkpt>
+      <trkpt lat="40.8441588333" lon="-80.3483701667">
+        <ele>359.700000</ele>
+        <time>2021-06-25T13:11:54.00Z</time>
+        <course>302.67</course>
+        <name>point 295</name>
+      </trkpt>
+      <trkpt lat="40.8441931667" lon="-80.3484415000">
+        <ele>359.600000</ele>
+        <time>2021-06-25T13:11:54.20Z</time>
+        <course>302.55</course>
+        <name>point 296</name>
+      </trkpt>
+      <trkpt lat="40.8442263333" lon="-80.3485103333">
+        <ele>359.500000</ele>
+        <time>2021-06-25T13:11:54.40Z</time>
+        <course>302.63</course>
+        <name>point 297</name>
+      </trkpt>
+      <trkpt lat="40.8442586667" lon="-80.3485766667">
+        <ele>359.500000</ele>
+        <time>2021-06-25T13:11:54.60Z</time>
+        <course>302.71</course>
+        <name>point 298</name>
+      </trkpt>
+      <trkpt lat="40.8442896667" lon="-80.3486403333">
+        <ele>359.500000</ele>
+        <time>2021-06-25T13:11:54.80Z</time>
+        <course>302.82</course>
+        <name>point 299</name>
+      </trkpt>
+      <trkpt lat="40.8443193333" lon="-80.3487011667">
+        <ele>359.500000</ele>
+        <time>2021-06-25T13:11:55.00Z</time>
+        <course>302.95</course>
+        <name>point 300</name>
+      </trkpt>
+      <trkpt lat="40.8443480000" lon="-80.3487593333">
+        <ele>359.600000</ele>
+        <time>2021-06-25T13:11:55.20Z</time>
+        <course>303.15</course>
+        <name>point 301</name>
+      </trkpt>
+      <trkpt lat="40.8443766667" lon="-80.3488160000">
+        <ele>359.700000</ele>
+        <time>2021-06-25T13:11:55.40Z</time>
+        <course>303.74</course>
+        <name>point 302</name>
+      </trkpt>
+      <trkpt lat="40.8444053333" lon="-80.3488705000">
+        <ele>359.800000</ele>
+        <time>2021-06-25T13:11:55.60Z</time>
+        <course>304.88</course>
+        <name>point 303</name>
+      </trkpt>
+      <trkpt lat="40.8444348333" lon="-80.3489225000">
+        <ele>360.000000</ele>
+        <time>2021-06-25T13:11:55.80Z</time>
+        <course>306.65</course>
+        <name>point 304</name>
+      </trkpt>
+      <trkpt lat="40.8444651667" lon="-80.3489711667">
+        <ele>360.100000</ele>
+        <time>2021-06-25T13:11:56.00Z</time>
+        <course>309.50</course>
+        <name>point 305</name>
+      </trkpt>
+      <trkpt lat="40.8444968333" lon="-80.3490168333">
+        <ele>360.300000</ele>
+        <time>2021-06-25T13:11:56.20Z</time>
+        <course>312.49</course>
+        <name>point 306</name>
+      </trkpt>
+      <trkpt lat="40.8445303333" lon="-80.3490591667">
+        <ele>360.400000</ele>
+        <time>2021-06-25T13:11:56.40Z</time>
+        <course>316.07</course>
+        <name>point 307</name>
+      </trkpt>
+      <trkpt lat="40.8445655000" lon="-80.3490980000">
+        <ele>360.400000</ele>
+        <time>2021-06-25T13:11:56.60Z</time>
+        <course>320.13</course>
+        <name>point 308</name>
+      </trkpt>
+      <trkpt lat="40.8446025000" lon="-80.3491330000">
+        <ele>360.500000</ele>
+        <time>2021-06-25T13:11:56.80Z</time>
+        <course>324.19</course>
+        <name>point 309</name>
+      </trkpt>
+      <trkpt lat="40.8446410000" lon="-80.3491643333">
+        <ele>360.600000</ele>
+        <time>2021-06-25T13:11:57.00Z</time>
+        <course>328.31</course>
+        <name>point 310</name>
+      </trkpt>
+      <trkpt lat="40.8446813333" lon="-80.3491921667">
+        <ele>360.600000</ele>
+        <time>2021-06-25T13:11:57.20Z</time>
+        <course>332.24</course>
+        <name>point 311</name>
+      </trkpt>
+      <trkpt lat="40.8447231667" lon="-80.3492161667">
+        <ele>360.600000</ele>
+        <time>2021-06-25T13:11:57.40Z</time>
+        <course>336.44</course>
+        <name>point 312</name>
+      </trkpt>
+      <trkpt lat="40.8447665000" lon="-80.3492365000">
+        <ele>360.600000</ele>
+        <time>2021-06-25T13:11:57.60Z</time>
+        <course>340.28</course>
+        <name>point 313</name>
+      </trkpt>
+      <trkpt lat="40.8448111667" lon="-80.3492533333">
+        <ele>360.600000</ele>
+        <time>2021-06-25T13:11:57.80Z</time>
+        <course>343.96</course>
+        <name>point 314</name>
+      </trkpt>
+      <trkpt lat="40.8448565000" lon="-80.3492661667">
+        <ele>360.500000</ele>
+        <time>2021-06-25T13:11:58.00Z</time>
+        <course>347.82</course>
+        <name>point 315</name>
+      </trkpt>
+      <trkpt lat="40.8449025000" lon="-80.3492750000">
+        <ele>360.400000</ele>
+        <time>2021-06-25T13:11:58.20Z</time>
+        <course>351.51</course>
+        <name>point 316</name>
+      </trkpt>
+      <trkpt lat="40.8449488333" lon="-80.3492798333">
+        <ele>360.300000</ele>
+        <time>2021-06-25T13:11:58.40Z</time>
+        <course>355.33</course>
+        <name>point 317</name>
+      </trkpt>
+      <trkpt lat="40.8449958333" lon="-80.3492810000">
+        <ele>360.200000</ele>
+        <time>2021-06-25T13:11:58.60Z</time>
+        <course>358.71</course>
+        <name>point 318</name>
+      </trkpt>
+      <trkpt lat="40.8450433333" lon="-80.3492785000">
+        <ele>360.000000</ele>
+        <time>2021-06-25T13:11:58.80Z</time>
+        <course>2.11</course>
+        <name>point 319</name>
+      </trkpt>
+      <trkpt lat="40.8450911667" lon="-80.3492713333">
+        <ele>359.800000</ele>
+        <time>2021-06-25T13:11:59.00Z</time>
+        <course>6.31</course>
+        <name>point 320</name>
+      </trkpt>
+      <trkpt lat="40.8451385000" lon="-80.3492598333">
+        <ele>359.700000</ele>
+        <time>2021-06-25T13:11:59.20Z</time>
+        <course>10.30</course>
+        <name>point 321</name>
+      </trkpt>
+      <trkpt lat="40.8451848333" lon="-80.3492448333">
+        <ele>359.500000</ele>
+        <time>2021-06-25T13:11:59.40Z</time>
+        <course>13.74</course>
+        <name>point 322</name>
+      </trkpt>
+      <trkpt lat="40.8452305000" lon="-80.3492281667">
+        <ele>359.400000</ele>
+        <time>2021-06-25T13:11:59.60Z</time>
+        <course>15.50</course>
+        <name>point 323</name>
+      </trkpt>
+      <trkpt lat="40.8452758333" lon="-80.3492130000">
+        <ele>359.300000</ele>
+        <time>2021-06-25T13:11:59.80Z</time>
+        <course>14.47</course>
+        <name>point 324</name>
+      </trkpt>
+      <trkpt lat="40.8453218333" lon="-80.3492006667">
+        <ele>359.100000</ele>
+        <time>2021-06-25T13:12:00.00Z</time>
+        <course>11.81</course>
+        <name>point 325</name>
+      </trkpt>
+      <trkpt lat="40.8453685000" lon="-80.3491915000">
+        <ele>359.000000</ele>
+        <time>2021-06-25T13:12:00.20Z</time>
+        <course>8.70</course>
+        <name>point 326</name>
+      </trkpt>
+      <trkpt lat="40.8454163333" lon="-80.3491860000">
+        <ele>358.800000</ele>
+        <time>2021-06-25T13:12:00.40Z</time>
+        <course>5.21</course>
+        <name>point 327</name>
+      </trkpt>
+      <trkpt lat="40.8454646667" lon="-80.3491843333">
+        <ele>358.600000</ele>
+        <time>2021-06-25T13:12:00.60Z</time>
+        <course>1.72</course>
+        <name>point 328</name>
+      </trkpt>
+      <trkpt lat="40.8455131667" lon="-80.3491870000">
+        <ele>358.400000</ele>
+        <time>2021-06-25T13:12:00.80Z</time>
+        <course>357.83</course>
+        <name>point 329</name>
+      </trkpt>
+      <trkpt lat="40.8455615000" lon="-80.3491943333">
+        <ele>358.100000</ele>
+        <time>2021-06-25T13:12:01.00Z</time>
+        <course>353.57</course>
+        <name>point 330</name>
+      </trkpt>
+      <trkpt lat="40.8456096667" lon="-80.3492066667">
+        <ele>357.900000</ele>
+        <time>2021-06-25T13:12:01.20Z</time>
+        <course>349.17</course>
+        <name>point 331</name>
+      </trkpt>
+      <trkpt lat="40.8456575000" lon="-80.3492238333">
+        <ele>357.600000</ele>
+        <time>2021-06-25T13:12:01.40Z</time>
+        <course>344.90</course>
+        <name>point 332</name>
+      </trkpt>
+      <trkpt lat="40.8457040000" lon="-80.3492458333">
+        <ele>357.300000</ele>
+        <time>2021-06-25T13:12:01.60Z</time>
+        <course>340.55</course>
+        <name>point 333</name>
+      </trkpt>
+      <trkpt lat="40.8457493333" lon="-80.3492725000">
+        <ele>357.100000</ele>
+        <time>2021-06-25T13:12:01.80Z</time>
+        <course>336.10</course>
+        <name>point 334</name>
+      </trkpt>
+      <trkpt lat="40.8457931667" lon="-80.3493041667">
+        <ele>356.900000</ele>
+        <time>2021-06-25T13:12:02.00Z</time>
+        <course>331.56</course>
+        <name>point 335</name>
+      </trkpt>
+      <trkpt lat="40.8458351667" lon="-80.3493406667">
+        <ele>356.700000</ele>
+        <time>2021-06-25T13:12:02.20Z</time>
+        <course>326.89</course>
+        <name>point 336</name>
+      </trkpt>
+      <trkpt lat="40.8458751667" lon="-80.3493818333">
+        <ele>356.600000</ele>
+        <time>2021-06-25T13:12:02.40Z</time>
+        <course>322.23</course>
+        <name>point 337</name>
+      </trkpt>
+      <trkpt lat="40.8459125000" lon="-80.3494276667">
+        <ele>356.500000</ele>
+        <time>2021-06-25T13:12:02.60Z</time>
+        <course>317.42</course>
+        <name>point 338</name>
+      </trkpt>
+      <trkpt lat="40.8459473333" lon="-80.3494776667">
+        <ele>356.400000</ele>
+        <time>2021-06-25T13:12:02.80Z</time>
+        <course>312.90</course>
+        <name>point 339</name>
+      </trkpt>
+      <trkpt lat="40.8459793333" lon="-80.3495318333">
+        <ele>356.400000</ele>
+        <time>2021-06-25T13:12:03.00Z</time>
+        <course>308.09</course>
+        <name>point 340</name>
+      </trkpt>
+      <trkpt lat="40.8460083333" lon="-80.3495898333">
+        <ele>356.400000</ele>
+        <time>2021-06-25T13:12:03.20Z</time>
+        <course>303.77</course>
+        <name>point 341</name>
+      </trkpt>
+      <trkpt lat="40.8460348333" lon="-80.3496516667">
+        <ele>356.400000</ele>
+        <time>2021-06-25T13:12:03.40Z</time>
+        <course>299.82</course>
+        <name>point 342</name>
+      </trkpt>
+      <trkpt lat="40.8460588333" lon="-80.3497166667">
+        <ele>356.500000</ele>
+        <time>2021-06-25T13:12:03.60Z</time>
+        <course>296.17</course>
+        <name>point 343</name>
+      </trkpt>
+      <trkpt lat="40.8460800000" lon="-80.3497845000">
+        <ele>356.500000</ele>
+        <time>2021-06-25T13:12:03.80Z</time>
+        <course>292.69</course>
+        <name>point 344</name>
+      </trkpt>
+      <trkpt lat="40.8460983333" lon="-80.3498546667">
+        <ele>356.600000</ele>
+        <time>2021-06-25T13:12:04.00Z</time>
+        <course>289.40</course>
+        <name>point 345</name>
+      </trkpt>
+      <trkpt lat="40.8461138333" lon="-80.3499276667">
+        <ele>356.700000</ele>
+        <time>2021-06-25T13:12:04.20Z</time>
+        <course>285.88</course>
+        <name>point 346</name>
+      </trkpt>
+      <trkpt lat="40.8461258333" lon="-80.3500023333">
+        <ele>356.800000</ele>
+        <time>2021-06-25T13:12:04.40Z</time>
+        <course>282.23</course>
+        <name>point 347</name>
+      </trkpt>
+      <trkpt lat="40.8461341667" lon="-80.3500776667">
+        <ele>356.900000</ele>
+        <time>2021-06-25T13:12:04.60Z</time>
+        <course>278.63</course>
+        <name>point 348</name>
+      </trkpt>
+      <trkpt lat="40.8461398333" lon="-80.3501528333">
+        <ele>357.000000</ele>
+        <time>2021-06-25T13:12:04.80Z</time>
+        <course>275.76</course>
+        <name>point 349</name>
+      </trkpt>
+      <trkpt lat="40.8461435000" lon="-80.3502273333">
+        <ele>357.200000</ele>
+        <time>2021-06-25T13:12:05.00Z</time>
+        <course>273.87</course>
+        <name>point 350</name>
+      </trkpt>
+      <trkpt lat="40.8461465000" lon="-80.3503015000">
+        <ele>357.400000</ele>
+        <time>2021-06-25T13:12:05.20Z</time>
+        <course>273.12</course>
+        <name>point 351</name>
+      </trkpt>
+      <trkpt lat="40.8461505000" lon="-80.3503746667">
+        <ele>357.600000</ele>
+        <time>2021-06-25T13:12:05.40Z</time>
+        <course>274.10</course>
+        <name>point 352</name>
+      </trkpt>
+      <trkpt lat="40.8461563333" lon="-80.3504448333">
+        <ele>357.900000</ele>
+        <time>2021-06-25T13:12:05.60Z</time>
+        <course>276.30</course>
+        <name>point 353</name>
+      </trkpt>
+      <trkpt lat="40.8461653333" lon="-80.3505123333">
+        <ele>358.100000</ele>
+        <time>2021-06-25T13:12:05.80Z</time>
+        <course>279.77</course>
+        <name>point 354</name>
+      </trkpt>
+      <trkpt lat="40.8461780000" lon="-80.3505778333">
+        <ele>358.300000</ele>
+        <time>2021-06-25T13:12:06.00Z</time>
+        <course>283.99</course>
+        <name>point 355</name>
+      </trkpt>
+      <trkpt lat="40.8461941667" lon="-80.3506410000">
+        <ele>358.500000</ele>
+        <time>2021-06-25T13:12:06.20Z</time>
+        <course>288.48</course>
+        <name>point 356</name>
+      </trkpt>
+      <trkpt lat="40.8462143333" lon="-80.3507018333">
+        <ele>358.700000</ele>
+        <time>2021-06-25T13:12:06.40Z</time>
+        <course>293.19</course>
+        <name>point 357</name>
+      </trkpt>
+      <trkpt lat="40.8462383333" lon="-80.3507603333">
+        <ele>358.900000</ele>
+        <time>2021-06-25T13:12:06.60Z</time>
+        <course>298.23</course>
+        <name>point 358</name>
+      </trkpt>
+      <trkpt lat="40.8462661667" lon="-80.3508155000">
+        <ele>359.100000</ele>
+        <time>2021-06-25T13:12:06.80Z</time>
+        <course>303.37</course>
+        <name>point 359</name>
+      </trkpt>
+      <trkpt lat="40.8462973333" lon="-80.3508670000">
+        <ele>359.200000</ele>
+        <time>2021-06-25T13:12:07.00Z</time>
+        <course>308.32</course>
+        <name>point 360</name>
+      </trkpt>
+      <trkpt lat="40.8463321667" lon="-80.3509153333">
+        <ele>359.400000</ele>
+        <time>2021-06-25T13:12:07.20Z</time>
+        <course>313.27</course>
+        <name>point 361</name>
+      </trkpt>
+      <trkpt lat="40.8463703333" lon="-80.3509600000">
+        <ele>359.600000</ele>
+        <time>2021-06-25T13:12:07.40Z</time>
+        <course>318.12</course>
+        <name>point 362</name>
+      </trkpt>
+      <trkpt lat="40.8464115000" lon="-80.3510006667">
+        <ele>359.800000</ele>
+        <time>2021-06-25T13:12:07.60Z</time>
+        <course>322.96</course>
+        <name>point 363</name>
+      </trkpt>
+      <trkpt lat="40.8464551667" lon="-80.3510370000">
+        <ele>360.100000</ele>
+        <time>2021-06-25T13:12:07.80Z</time>
+        <course>327.61</course>
+        <name>point 364</name>
+      </trkpt>
+      <trkpt lat="40.8465011667" lon="-80.3510691667">
+        <ele>360.300000</ele>
+        <time>2021-06-25T13:12:08.00Z</time>
+        <course>331.99</course>
+        <name>point 365</name>
+      </trkpt>
+      <trkpt lat="40.8465493333" lon="-80.3510968333">
+        <ele>360.500000</ele>
+        <time>2021-06-25T13:12:08.20Z</time>
+        <course>336.32</course>
+        <name>point 366</name>
+      </trkpt>
+      <trkpt lat="40.8465996667" lon="-80.3511206667">
+        <ele>360.800000</ele>
+        <time>2021-06-25T13:12:08.40Z</time>
+        <course>340.22</course>
+        <name>point 367</name>
+      </trkpt>
+      <trkpt lat="40.8466518333" lon="-80.3511406667">
+        <ele>361.000000</ele>
+        <time>2021-06-25T13:12:08.60Z</time>
+        <course>343.73</course>
+        <name>point 368</name>
+      </trkpt>
+      <trkpt lat="40.8467056667" lon="-80.3511578333">
+        <ele>361.300000</ele>
+        <time>2021-06-25T13:12:08.80Z</time>
+        <course>346.46</course>
+        <name>point 369</name>
+      </trkpt>
+      <trkpt lat="40.8467610000" lon="-80.3511728333">
+        <ele>361.500000</ele>
+        <time>2021-06-25T13:12:09.00Z</time>
+        <course>348.41</course>
+        <name>point 370</name>
+      </trkpt>
+      <trkpt lat="40.8468171667" lon="-80.3511861667">
+        <ele>361.800000</ele>
+        <time>2021-06-25T13:12:09.20Z</time>
+        <course>349.78</course>
+        <name>point 371</name>
+      </trkpt>
+      <trkpt lat="40.8468736667" lon="-80.3511990000">
+        <ele>362.000000</ele>
+        <time>2021-06-25T13:12:09.40Z</time>
+        <course>350.42</course>
+        <name>point 372</name>
+      </trkpt>
+      <trkpt lat="40.8469300000" lon="-80.3512113333">
+        <ele>362.300000</ele>
+        <time>2021-06-25T13:12:09.60Z</time>
+        <course>350.63</course>
+        <name>point 373</name>
+      </trkpt>
+      <trkpt lat="40.8469856667" lon="-80.3512236667">
+        <ele>362.600000</ele>
+        <time>2021-06-25T13:12:09.80Z</time>
+        <course>350.60</course>
+        <name>point 374</name>
+      </trkpt>
+      <trkpt lat="40.8470406667" lon="-80.3512365000">
+        <ele>362.800000</ele>
+        <time>2021-06-25T13:12:10.00Z</time>
+        <course>350.12</course>
+        <name>point 375</name>
+      </trkpt>
+      <trkpt lat="40.8470943333" lon="-80.3512501667">
+        <ele>363.000000</ele>
+        <time>2021-06-25T13:12:10.20Z</time>
+        <course>349.10</course>
+        <name>point 376</name>
+      </trkpt>
+      <trkpt lat="40.8471455000" lon="-80.3512660000">
+        <ele>363.100000</ele>
+        <time>2021-06-25T13:12:10.40Z</time>
+        <course>346.95</course>
+        <name>point 377</name>
+      </trkpt>
+      <trkpt lat="40.8471940000" lon="-80.3512846667">
+        <ele>363.200000</ele>
+        <time>2021-06-25T13:12:10.60Z</time>
+        <course>343.83</course>
+        <name>point 378</name>
+      </trkpt>
+      <trkpt lat="40.8472410000" lon="-80.3513068333">
+        <ele>363.400000</ele>
+        <time>2021-06-25T13:12:10.80Z</time>
+        <course>340.47</course>
+        <name>point 379</name>
+      </trkpt>
+      <trkpt lat="40.8472866667" lon="-80.3513320000">
+        <ele>363.500000</ele>
+        <time>2021-06-25T13:12:11.00Z</time>
+        <course>337.50</course>
+        <name>point 380</name>
+      </trkpt>
+      <trkpt lat="40.8473308333" lon="-80.3513596667">
+        <ele>363.600000</ele>
+        <time>2021-06-25T13:12:11.20Z</time>
+        <course>334.64</course>
+        <name>point 381</name>
+      </trkpt>
+      <trkpt lat="40.8473738333" lon="-80.3513908333">
+        <ele>363.600000</ele>
+        <time>2021-06-25T13:12:11.40Z</time>
+        <course>331.40</course>
+        <name>point 382</name>
+      </trkpt>
+      <trkpt lat="40.8474150000" lon="-80.3514251667">
+        <ele>363.600000</ele>
+        <time>2021-06-25T13:12:11.60Z</time>
+        <course>327.78</course>
+        <name>point 383</name>
+      </trkpt>
+      <trkpt lat="40.8474543333" lon="-80.3514635000">
+        <ele>363.500000</ele>
+        <time>2021-06-25T13:12:11.80Z</time>
+        <course>323.76</course>
+        <name>point 384</name>
+      </trkpt>
+      <trkpt lat="40.8474916667" lon="-80.3515055000">
+        <ele>363.400000</ele>
+        <time>2021-06-25T13:12:12.00Z</time>
+        <course>319.54</course>
+        <name>point 385</name>
+      </trkpt>
+      <trkpt lat="40.8475271667" lon="-80.3515513333">
+        <ele>363.400000</ele>
+        <time>2021-06-25T13:12:12.20Z</time>
+        <course>315.82</course>
+        <name>point 386</name>
+      </trkpt>
+      <trkpt lat="40.8475611667" lon="-80.3516010000">
+        <ele>363.200000</ele>
+        <time>2021-06-25T13:12:12.40Z</time>
+        <course>312.25</course>
+        <name>point 387</name>
+      </trkpt>
+      <trkpt lat="40.8475933333" lon="-80.3516536667">
+        <ele>363.000000</ele>
+        <time>2021-06-25T13:12:12.60Z</time>
+        <course>309.11</course>
+        <name>point 388</name>
+      </trkpt>
+      <trkpt lat="40.8476238333" lon="-80.3517095000">
+        <ele>362.800000</ele>
+        <time>2021-06-25T13:12:12.80Z</time>
+        <course>305.95</course>
+        <name>point 389</name>
+      </trkpt>
+      <trkpt lat="40.8476525000" lon="-80.3517678333">
+        <ele>362.600000</ele>
+        <time>2021-06-25T13:12:13.00Z</time>
+        <course>303.17</course>
+        <name>point 390</name>
+      </trkpt>
+      <trkpt lat="40.8476796667" lon="-80.3518288333">
+        <ele>362.300000</ele>
+        <time>2021-06-25T13:12:13.20Z</time>
+        <course>300.63</course>
+        <name>point 391</name>
+      </trkpt>
+      <trkpt lat="40.8477045000" lon="-80.3518920000">
+        <ele>361.900000</ele>
+        <time>2021-06-25T13:12:13.40Z</time>
+        <course>297.66</course>
+        <name>point 392</name>
+      </trkpt>
+      <trkpt lat="40.8477268333" lon="-80.3519576667">
+        <ele>361.600000</ele>
+        <time>2021-06-25T13:12:13.60Z</time>
+        <course>294.49</course>
+        <name>point 393</name>
+      </trkpt>
+      <trkpt lat="40.8477465000" lon="-80.3520253333">
+        <ele>361.200000</ele>
+        <time>2021-06-25T13:12:13.80Z</time>
+        <course>291.23</course>
+        <name>point 394</name>
+      </trkpt>
+      <trkpt lat="40.8477635000" lon="-80.3520953333">
+        <ele>360.800000</ele>
+        <time>2021-06-25T13:12:14.00Z</time>
+        <course>288.09</course>
+        <name>point 395</name>
+      </trkpt>
+      <trkpt lat="40.8477780000" lon="-80.3521673333">
+        <ele>360.400000</ele>
+        <time>2021-06-25T13:12:14.20Z</time>
+        <course>285.13</course>
+        <name>point 396</name>
+      </trkpt>
+      <trkpt lat="40.8477901667" lon="-80.3522415000">
+        <ele>360.100000</ele>
+        <time>2021-06-25T13:12:14.40Z</time>
+        <course>282.54</course>
+        <name>point 397</name>
+      </trkpt>
+      <trkpt lat="40.8478010000" lon="-80.3523173333">
+        <ele>359.800000</ele>
+        <time>2021-06-25T13:12:14.60Z</time>
+        <course>280.87</course>
+        <name>point 398</name>
+      </trkpt>
+      <trkpt lat="40.8478118333" lon="-80.3523943333">
+        <ele>359.500000</ele>
+        <time>2021-06-25T13:12:14.80Z</time>
+        <course>280.43</course>
+        <name>point 399</name>
+      </trkpt>
+      <trkpt lat="40.8478228333" lon="-80.3524720000">
+        <ele>359.300000</ele>
+        <time>2021-06-25T13:12:15.00Z</time>
+        <course>280.57</course>
+        <name>point 400</name>
+      </trkpt>
+      <trkpt lat="40.8478346667" lon="-80.3525493333">
+        <ele>359.100000</ele>
+        <time>2021-06-25T13:12:15.20Z</time>
+        <course>281.35</course>
+        <name>point 401</name>
+      </trkpt>
+      <trkpt lat="40.8478481667" lon="-80.3526260000">
+        <ele>359.000000</ele>
+        <time>2021-06-25T13:12:15.40Z</time>
+        <course>283.02</course>
+        <name>point 402</name>
+      </trkpt>
+      <trkpt lat="40.8478641667" lon="-80.3527015000">
+        <ele>358.900000</ele>
+        <time>2021-06-25T13:12:15.60Z</time>
+        <course>285.48</course>
+        <name>point 403</name>
+      </trkpt>
+      <trkpt lat="40.8478833333" lon="-80.3527761667">
+        <ele>358.900000</ele>
+        <time>2021-06-25T13:12:15.80Z</time>
+        <course>288.35</course>
+        <name>point 404</name>
+      </trkpt>
+      <trkpt lat="40.8479050000" lon="-80.3528503333">
+        <ele>358.900000</ele>
+        <time>2021-06-25T13:12:16.00Z</time>
+        <course>290.90</course>
+        <name>point 405</name>
+      </trkpt>
+      <trkpt lat="40.8479295000" lon="-80.3529238333">
+        <ele>358.800000</ele>
+        <time>2021-06-25T13:12:16.20Z</time>
+        <course>293.63</course>
+        <name>point 406</name>
+      </trkpt>
+      <trkpt lat="40.8479575000" lon="-80.3529958333">
+        <ele>358.900000</ele>
+        <time>2021-06-25T13:12:16.40Z</time>
+        <course>296.90</course>
+        <name>point 407</name>
+      </trkpt>
+      <trkpt lat="40.8479888333" lon="-80.3530661667">
+        <ele>358.900000</ele>
+        <time>2021-06-25T13:12:16.60Z</time>
+        <course>300.25</course>
+        <name>point 408</name>
+      </trkpt>
+      <trkpt lat="40.8480235000" lon="-80.3531346667">
+        <ele>358.900000</ele>
+        <time>2021-06-25T13:12:16.80Z</time>
+        <course>303.51</course>
+        <name>point 409</name>
+      </trkpt>
+      <trkpt lat="40.8480615000" lon="-80.3532008333">
+        <ele>359.000000</ele>
+        <time>2021-06-25T13:12:17.00Z</time>
+        <course>306.89</course>
+        <name>point 410</name>
+      </trkpt>
+      <trkpt lat="40.8481023333" lon="-80.3532640000">
+        <ele>359.100000</ele>
+        <time>2021-06-25T13:12:17.20Z</time>
+        <course>310.25</course>
+        <name>point 411</name>
+      </trkpt>
+      <trkpt lat="40.8481460000" lon="-80.3533241667">
+        <ele>359.200000</ele>
+        <time>2021-06-25T13:12:17.40Z</time>
+        <course>313.58</course>
+        <name>point 412</name>
+      </trkpt>
+      <trkpt lat="40.8481923333" lon="-80.3533813333">
+        <ele>359.400000</ele>
+        <time>2021-06-25T13:12:17.60Z</time>
+        <course>316.80</course>
+        <name>point 413</name>
+      </trkpt>
+      <trkpt lat="40.8482410000" lon="-80.3534348333">
+        <ele>359.700000</ele>
+        <time>2021-06-25T13:12:17.80Z</time>
+        <course>320.09</course>
+        <name>point 414</name>
+      </trkpt>
+      <trkpt lat="40.8482918333" lon="-80.3534850000">
+        <ele>359.900000</ele>
+        <time>2021-06-25T13:12:18.00Z</time>
+        <course>323.10</course>
+        <name>point 415</name>
+      </trkpt>
+      <trkpt lat="40.8483450000" lon="-80.3535318333">
+        <ele>360.100000</ele>
+        <time>2021-06-25T13:12:18.20Z</time>
+        <course>326.14</course>
+        <name>point 416</name>
+      </trkpt>
+      <trkpt lat="40.8483998333" lon="-80.3535746667">
+        <ele>360.400000</ele>
+        <time>2021-06-25T13:12:18.40Z</time>
+        <course>329.38</course>
+        <name>point 417</name>
+      </trkpt>
+      <trkpt lat="40.8484565000" lon="-80.3536138333">
+        <ele>360.600000</ele>
+        <time>2021-06-25T13:12:18.60Z</time>
+        <course>332.31</course>
+        <name>point 418</name>
+      </trkpt>
+      <trkpt lat="40.8485148333" lon="-80.3536501667">
+        <ele>360.900000</ele>
+        <time>2021-06-25T13:12:18.80Z</time>
+        <course>334.66</course>
+        <name>point 419</name>
+      </trkpt>
+      <trkpt lat="40.8485743333" lon="-80.3536845000">
+        <ele>361.100000</ele>
+        <time>2021-06-25T13:12:19.00Z</time>
+        <course>336.29</course>
+        <name>point 420</name>
+      </trkpt>
+      <trkpt lat="40.8486351667" lon="-80.3537173333">
+        <ele>361.200000</ele>
+        <time>2021-06-25T13:12:19.20Z</time>
+        <course>337.76</course>
+        <name>point 421</name>
+      </trkpt>
+      <trkpt lat="40.8486973333" lon="-80.3537483333">
+        <ele>361.400000</ele>
+        <time>2021-06-25T13:12:19.40Z</time>
+        <course>339.27</course>
+        <name>point 422</name>
+      </trkpt>
+      <trkpt lat="40.8487601667" lon="-80.3537783333">
+        <ele>361.600000</ele>
+        <time>2021-06-25T13:12:19.60Z</time>
+        <course>340.10</course>
+        <name>point 423</name>
+      </trkpt>
+      <trkpt lat="40.8488238333" lon="-80.3538076667">
+        <ele>361.700000</ele>
+        <time>2021-06-25T13:12:19.80Z</time>
+        <course>340.75</course>
+        <name>point 424</name>
+      </trkpt>
+      <trkpt lat="40.8488870000" lon="-80.3538361667">
+        <ele>361.800000</ele>
+        <time>2021-06-25T13:12:20.00Z</time>
+        <course>341.20</course>
+        <name>point 425</name>
+      </trkpt>
+      <trkpt lat="40.8489496667" lon="-80.3538640000">
+        <ele>361.900000</ele>
+        <time>2021-06-25T13:12:20.20Z</time>
+        <course>341.40</course>
+        <name>point 426</name>
+      </trkpt>
+      <trkpt lat="40.8490106667" lon="-80.3538913333">
+        <ele>362.000000</ele>
+        <time>2021-06-25T13:12:20.40Z</time>
+        <course>341.31</course>
+        <name>point 427</name>
+      </trkpt>
+      <trkpt lat="40.8490696667" lon="-80.3539175000">
+        <ele>362.100000</ele>
+        <time>2021-06-25T13:12:20.60Z</time>
+        <course>341.46</course>
+        <name>point 428</name>
+      </trkpt>
+      <trkpt lat="40.8491266667" lon="-80.3539426667">
+        <ele>362.200000</ele>
+        <time>2021-06-25T13:12:20.80Z</time>
+        <course>341.52</course>
+        <name>point 429</name>
+      </trkpt>
+      <trkpt lat="40.8491815000" lon="-80.3539666667">
+        <ele>362.300000</ele>
+        <time>2021-06-25T13:12:21.00Z</time>
+        <course>341.66</course>
+        <name>point 430</name>
+      </trkpt>
+      <trkpt lat="40.8492343333" lon="-80.3539891667">
+        <ele>362.400000</ele>
+        <time>2021-06-25T13:12:21.20Z</time>
+        <course>342.14</course>
+        <name>point 431</name>
+      </trkpt>
+      <trkpt lat="40.8492850000" lon="-80.3540090000">
+        <ele>362.500000</ele>
+        <time>2021-06-25T13:12:21.40Z</time>
+        <course>343.37</course>
+        <name>point 432</name>
+      </trkpt>
+      <trkpt lat="40.8493338333" lon="-80.3540258333">
+        <ele>362.500000</ele>
+        <time>2021-06-25T13:12:21.60Z</time>
+        <course>345.34</course>
+        <name>point 433</name>
+      </trkpt>
+      <trkpt lat="40.8493813333" lon="-80.3540390000">
+        <ele>362.600000</ele>
+        <time>2021-06-25T13:12:21.80Z</time>
+        <course>347.91</course>
+        <name>point 434</name>
+      </trkpt>
+      <trkpt lat="40.8494280000" lon="-80.3540486667">
+        <ele>362.700000</ele>
+        <time>2021-06-25T13:12:22.00Z</time>
+        <course>350.92</course>
+        <name>point 435</name>
+      </trkpt>
+      <trkpt lat="40.8494738333" lon="-80.3540540000">
+        <ele>362.700000</ele>
+        <time>2021-06-25T13:12:22.20Z</time>
+        <course>354.86</course>
+        <name>point 436</name>
+      </trkpt>
+      <trkpt lat="40.8495188333" lon="-80.3540543333">
+        <ele>362.900000</ele>
+        <time>2021-06-25T13:12:22.40Z</time>
+        <course>359.57</course>
+        <name>point 437</name>
+      </trkpt>
+      <trkpt lat="40.8495631667" lon="-80.3540491667">
+        <ele>363.000000</ele>
+        <time>2021-06-25T13:12:22.60Z</time>
+        <course>5.01</course>
+        <name>point 438</name>
+      </trkpt>
+      <trkpt lat="40.8496061667" lon="-80.3540383333">
+        <ele>363.200000</ele>
+        <time>2021-06-25T13:12:22.80Z</time>
+        <course>10.82</course>
+        <name>point 439</name>
+      </trkpt>
+      <trkpt lat="40.8496475000" lon="-80.3540220000">
+        <ele>363.400000</ele>
+        <time>2021-06-25T13:12:23.00Z</time>
+        <course>16.73</course>
+        <name>point 440</name>
+      </trkpt>
+      <trkpt lat="40.8496868333" lon="-80.3540001667">
+        <ele>363.700000</ele>
+        <time>2021-06-25T13:12:23.20Z</time>
+        <course>22.73</course>
+        <name>point 441</name>
+      </trkpt>
+      <trkpt lat="40.8497246667" lon="-80.3539730000">
+        <ele>363.900000</ele>
+        <time>2021-06-25T13:12:23.40Z</time>
+        <course>28.65</course>
+        <name>point 442</name>
+      </trkpt>
+      <trkpt lat="40.8497603333" lon="-80.3539406667">
+        <ele>364.200000</ele>
+        <time>2021-06-25T13:12:23.60Z</time>
+        <course>34.62</course>
+        <name>point 443</name>
+      </trkpt>
+      <trkpt lat="40.8497936667" lon="-80.3539036667">
+        <ele>364.600000</ele>
+        <time>2021-06-25T13:12:23.80Z</time>
+        <course>40.30</course>
+        <name>point 444</name>
+      </trkpt>
+      <trkpt lat="40.8498243333" lon="-80.3538618333">
+        <ele>365.000000</ele>
+        <time>2021-06-25T13:12:24.00Z</time>
+        <course>46.16</course>
+        <name>point 445</name>
+      </trkpt>
+      <trkpt lat="40.8498518333" lon="-80.3538156667">
+        <ele>365.500000</ele>
+        <time>2021-06-25T13:12:24.20Z</time>
+        <course>52.00</course>
+        <name>point 446</name>
+      </trkpt>
+      <trkpt lat="40.8498766667" lon="-80.3537665000">
+        <ele>366.000000</ele>
+        <time>2021-06-25T13:12:24.40Z</time>
+        <course>56.72</course>
+        <name>point 447</name>
+      </trkpt>
+      <trkpt lat="40.8498990000" lon="-80.3537140000">
+        <ele>366.600000</ele>
+        <time>2021-06-25T13:12:24.60Z</time>
+        <course>60.94</course>
+        <name>point 448</name>
+      </trkpt>
+      <trkpt lat="40.8499186667" lon="-80.3536588333">
+        <ele>367.100000</ele>
+        <time>2021-06-25T13:12:24.80Z</time>
+        <course>64.82</course>
+        <name>point 449</name>
+      </trkpt>
+      <trkpt lat="40.8499366667" lon="-80.3536018333">
+        <ele>367.600000</ele>
+        <time>2021-06-25T13:12:25.00Z</time>
+        <course>67.52</course>
+        <name>point 450</name>
+      </trkpt>
+      <trkpt lat="40.8499536667" lon="-80.3535430000">
+        <ele>368.100000</ele>
+        <time>2021-06-25T13:12:25.20Z</time>
+        <course>69.39</course>
+        <name>point 451</name>
+      </trkpt>
+      <trkpt lat="40.8499698333" lon="-80.3534828333">
+        <ele>368.600000</ele>
+        <time>2021-06-25T13:12:25.40Z</time>
+        <course>70.67</course>
+        <name>point 452</name>
+      </trkpt>
+      <trkpt lat="40.8499858333" lon="-80.3534216667">
+        <ele>369.000000</ele>
+        <time>2021-06-25T13:12:25.60Z</time>
+        <course>71.18</course>
+        <name>point 453</name>
+      </trkpt>
+      <trkpt lat="40.8500030000" lon="-80.3533606667">
+        <ele>369.500000</ele>
+        <time>2021-06-25T13:12:25.80Z</time>
+        <course>70.05</course>
+        <name>point 454</name>
+      </trkpt>
+      <trkpt lat="40.8500220000" lon="-80.3533005000">
+        <ele>369.900000</ele>
+        <time>2021-06-25T13:12:26.00Z</time>
+        <course>67.61</course>
+        <name>point 455</name>
+      </trkpt>
+      <trkpt lat="40.8500436667" lon="-80.3532416667">
+        <ele>370.200000</ele>
+        <time>2021-06-25T13:12:26.20Z</time>
+        <course>64.49</course>
+        <name>point 456</name>
+      </trkpt>
+      <trkpt lat="40.8500681667" lon="-80.3531845000">
+        <ele>370.500000</ele>
+        <time>2021-06-25T13:12:26.40Z</time>
+        <course>60.97</course>
+        <name>point 457</name>
+      </trkpt>
+      <trkpt lat="40.8500956667" lon="-80.3531295000">
+        <ele>370.800000</ele>
+        <time>2021-06-25T13:12:26.60Z</time>
+        <course>57.06</course>
+        <name>point 458</name>
+      </trkpt>
+      <trkpt lat="40.8501260000" lon="-80.3530770000">
+        <ele>371.000000</ele>
+        <time>2021-06-25T13:12:26.80Z</time>
+        <course>53.07</course>
+        <name>point 459</name>
+      </trkpt>
+      <trkpt lat="40.8501596667" lon="-80.3530268333">
+        <ele>371.200000</ele>
+        <time>2021-06-25T13:12:27.00Z</time>
+        <course>48.87</course>
+        <name>point 460</name>
+      </trkpt>
+      <trkpt lat="40.8501966667" lon="-80.3529791667">
+        <ele>371.500000</ele>
+        <time>2021-06-25T13:12:27.20Z</time>
+        <course>44.78</course>
+        <name>point 461</name>
+      </trkpt>
+      <trkpt lat="40.8502366667" lon="-80.3529336667">
+        <ele>371.600000</ele>
+        <time>2021-06-25T13:12:27.40Z</time>
+        <course>41.17</course>
+        <name>point 462</name>
+      </trkpt>
+      <trkpt lat="40.8502795000" lon="-80.3528901667">
+        <ele>371.800000</ele>
+        <time>2021-06-25T13:12:27.60Z</time>
+        <course>38.03</course>
+        <name>point 463</name>
+      </trkpt>
+      <trkpt lat="40.8503246667" lon="-80.3528481667">
+        <ele>371.900000</ele>
+        <time>2021-06-25T13:12:27.80Z</time>
+        <course>35.44</course>
+        <name>point 464</name>
+      </trkpt>
+      <trkpt lat="40.8503718333" lon="-80.3528071667">
+        <ele>372.000000</ele>
+        <time>2021-06-25T13:12:28.00Z</time>
+        <course>33.64</course>
+        <name>point 465</name>
+      </trkpt>
+      <trkpt lat="40.8504205000" lon="-80.3527660000">
+        <ele>372.100000</ele>
+        <time>2021-06-25T13:12:28.20Z</time>
+        <course>32.74</course>
+        <name>point 466</name>
+      </trkpt>
+      <trkpt lat="40.8504708333" lon="-80.3527248333">
+        <ele>372.300000</ele>
+        <time>2021-06-25T13:12:28.40Z</time>
+        <course>32.11</course>
+        <name>point 467</name>
+      </trkpt>
+      <trkpt lat="40.8505223333" lon="-80.3526828333">
+        <ele>372.400000</ele>
+        <time>2021-06-25T13:12:28.60Z</time>
+        <course>31.80</course>
+        <name>point 468</name>
+      </trkpt>
+      <trkpt lat="40.8505746667" lon="-80.3526406667">
+        <ele>372.500000</ele>
+        <time>2021-06-25T13:12:28.80Z</time>
+        <course>31.59</course>
+        <name>point 469</name>
+      </trkpt>
+      <trkpt lat="40.8506266667" lon="-80.3525981667">
+        <ele>372.600000</ele>
+        <time>2021-06-25T13:12:29.00Z</time>
+        <course>31.77</course>
+        <name>point 470</name>
+      </trkpt>
+      <trkpt lat="40.8506780000" lon="-80.3525551667">
+        <ele>372.700000</ele>
+        <time>2021-06-25T13:12:29.20Z</time>
+        <course>32.50</course>
+        <name>point 471</name>
+      </trkpt>
+      <trkpt lat="40.8507280000" lon="-80.3525106667">
+        <ele>372.800000</ele>
+        <time>2021-06-25T13:12:29.40Z</time>
+        <course>33.98</course>
+        <name>point 472</name>
+      </trkpt>
+      <trkpt lat="40.8507763333" lon="-80.3524638333">
+        <ele>372.800000</ele>
+        <time>2021-06-25T13:12:29.60Z</time>
+        <course>36.35</course>
+        <name>point 473</name>
+      </trkpt>
+      <trkpt lat="40.8508221667" lon="-80.3524141667">
+        <ele>372.800000</ele>
+        <time>2021-06-25T13:12:29.80Z</time>
+        <course>39.25</course>
+        <name>point 474</name>
+      </trkpt>
+      <trkpt lat="40.8508656667" lon="-80.3523616667">
+        <ele>372.700000</ele>
+        <time>2021-06-25T13:12:30.00Z</time>
+        <course>42.29</course>
+        <name>point 475</name>
+      </trkpt>
+      <trkpt lat="40.8509071667" lon="-80.3523061667">
+        <ele>372.500000</ele>
+        <time>2021-06-25T13:12:30.20Z</time>
+        <course>45.26</course>
+        <name>point 476</name>
+      </trkpt>
+      <trkpt lat="40.8509465000" lon="-80.3522475000">
+        <ele>372.300000</ele>
+        <time>2021-06-25T13:12:30.40Z</time>
+        <course>48.50</course>
+        <name>point 477</name>
+      </trkpt>
+      <trkpt lat="40.8509831667" lon="-80.3521856667">
+        <ele>371.800000</ele>
+        <time>2021-06-25T13:12:30.60Z</time>
+        <course>51.67</course>
+        <name>point 478</name>
+      </trkpt>
+      <trkpt lat="40.8510173333" lon="-80.3521213333">
+        <ele>371.400000</ele>
+        <time>2021-06-25T13:12:30.80Z</time>
+        <course>54.88</course>
+        <name>point 479</name>
+      </trkpt>
+      <trkpt lat="40.8510488333" lon="-80.3520536667">
+        <ele>370.800000</ele>
+        <time>2021-06-25T13:12:31.00Z</time>
+        <course>58.27</course>
+        <name>point 480</name>
+      </trkpt>
+      <trkpt lat="40.8510776667" lon="-80.3519828333">
+        <ele>370.200000</ele>
+        <time>2021-06-25T13:12:31.20Z</time>
+        <course>61.73</course>
+        <name>point 481</name>
+      </trkpt>
+      <trkpt lat="40.8511040000" lon="-80.3519093333">
+        <ele>369.600000</ele>
+        <time>2021-06-25T13:12:31.40Z</time>
+        <course>64.75</course>
+        <name>point 482</name>
+      </trkpt>
+      <trkpt lat="40.8511276667" lon="-80.3518330000">
+        <ele>369.000000</ele>
+        <time>2021-06-25T13:12:31.60Z</time>
+        <course>67.58</course>
+        <name>point 483</name>
+      </trkpt>
+      <trkpt lat="40.8511488333" lon="-80.3517541667">
+        <ele>368.400000</ele>
+        <time>2021-06-25T13:12:31.80Z</time>
+        <course>70.49</course>
+        <name>point 484</name>
+      </trkpt>
+      <trkpt lat="40.8511671667" lon="-80.3516726667">
+        <ele>367.800000</ele>
+        <time>2021-06-25T13:12:32.00Z</time>
+        <course>73.47</course>
+        <name>point 485</name>
+      </trkpt>
+      <trkpt lat="40.8511823333" lon="-80.3515883333">
+        <ele>367.300000</ele>
+        <time>2021-06-25T13:12:32.20Z</time>
+        <course>76.53</course>
+        <name>point 486</name>
+      </trkpt>
+      <trkpt lat="40.8511943333" lon="-80.3515018333">
+        <ele>366.800000</ele>
+        <time>2021-06-25T13:12:32.40Z</time>
+        <course>79.52</course>
+        <name>point 487</name>
+      </trkpt>
+      <trkpt lat="40.8512036667" lon="-80.3514130000">
+        <ele>366.300000</ele>
+        <time>2021-06-25T13:12:32.60Z</time>
+        <course>82.12</course>
+        <name>point 488</name>
+      </trkpt>
+      <trkpt lat="40.8512095000" lon="-80.3513220000">
+        <ele>365.900000</ele>
+        <time>2021-06-25T13:12:32.80Z</time>
+        <course>85.07</course>
+        <name>point 489</name>
+      </trkpt>
+      <trkpt lat="40.8512120000" lon="-80.3512288333">
+        <ele>365.500000</ele>
+        <time>2021-06-25T13:12:33.00Z</time>
+        <course>87.83</course>
+        <name>point 490</name>
+      </trkpt>
+      <trkpt lat="40.8512111667" lon="-80.3511338333">
+        <ele>365.200000</ele>
+        <time>2021-06-25T13:12:33.20Z</time>
+        <course>90.57</course>
+        <name>point 491</name>
+      </trkpt>
+      <trkpt lat="40.8512075000" lon="-80.3510376667">
+        <ele>364.900000</ele>
+        <time>2021-06-25T13:12:33.40Z</time>
+        <course>92.81</course>
+        <name>point 492</name>
+      </trkpt>
+      <trkpt lat="40.8512011667" lon="-80.3509406667">
+        <ele>364.600000</ele>
+        <time>2021-06-25T13:12:33.60Z</time>
+        <course>94.83</course>
+        <name>point 493</name>
+      </trkpt>
+      <trkpt lat="40.8511926667" lon="-80.3508431667">
+        <ele>364.500000</ele>
+        <time>2021-06-25T13:12:33.80Z</time>
+        <course>96.43</course>
+        <name>point 494</name>
+      </trkpt>
+      <trkpt lat="40.8511828333" lon="-80.3507448333">
+        <ele>364.300000</ele>
+        <time>2021-06-25T13:12:34.00Z</time>
+        <course>97.55</course>
+        <name>point 495</name>
+      </trkpt>
+      <trkpt lat="40.8511718333" lon="-80.3506458333">
+        <ele>364.200000</ele>
+        <time>2021-06-25T13:12:34.20Z</time>
+        <course>98.33</course>
+        <name>point 496</name>
+      </trkpt>
+      <trkpt lat="40.8511606667" lon="-80.3505458333">
+        <ele>364.000000</ele>
+        <time>2021-06-25T13:12:34.40Z</time>
+        <course>98.49</course>
+        <name>point 497</name>
+      </trkpt>
+      <trkpt lat="40.8511496667" lon="-80.3504450000">
+        <ele>363.800000</ele>
+        <time>2021-06-25T13:12:34.60Z</time>
+        <course>98.35</course>
+        <name>point 498</name>
+      </trkpt>
+      <trkpt lat="40.8511391667" lon="-80.3503436667">
+        <ele>363.600000</ele>
+        <time>2021-06-25T13:12:34.80Z</time>
+        <course>97.90</course>
+        <name>point 499</name>
+      </trkpt>
+      <trkpt lat="40.8511295000" lon="-80.3502415000">
+        <ele>363.400000</ele>
+        <time>2021-06-25T13:12:35.00Z</time>
+        <course>97.34</course>
+        <name>point 500</name>
+      </trkpt>
+      <trkpt lat="40.8511206667" lon="-80.3501388333">
+        <ele>363.200000</ele>
+        <time>2021-06-25T13:12:35.20Z</time>
+        <course>96.64</course>
+        <name>point 501</name>
+      </trkpt>
+      <trkpt lat="40.8511130000" lon="-80.3500356667">
+        <ele>363.000000</ele>
+        <time>2021-06-25T13:12:35.40Z</time>
+        <course>95.80</course>
+        <name>point 502</name>
+      </trkpt>
+      <trkpt lat="40.8511070000" lon="-80.3499320000">
+        <ele>362.900000</ele>
+        <time>2021-06-25T13:12:35.60Z</time>
+        <course>94.60</course>
+        <name>point 503</name>
+      </trkpt>
+      <trkpt lat="40.8511031667" lon="-80.3498281667">
+        <ele>362.600000</ele>
+        <time>2021-06-25T13:12:35.80Z</time>
+        <course>93.01</course>
+        <name>point 504</name>
+      </trkpt>
+      <trkpt lat="40.8511018333" lon="-80.3497240000">
+        <ele>362.400000</ele>
+        <time>2021-06-25T13:12:36.00Z</time>
+        <course>91.13</course>
+        <name>point 505</name>
+      </trkpt>
+      <trkpt lat="40.8511030000" lon="-80.3496200000">
+        <ele>362.200000</ele>
+        <time>2021-06-25T13:12:36.20Z</time>
+        <course>89.35</course>
+        <name>point 506</name>
+      </trkpt>
+      <trkpt lat="40.8511068333" lon="-80.3495158333">
+        <ele>362.000000</ele>
+        <time>2021-06-25T13:12:36.40Z</time>
+        <course>87.42</course>
+        <name>point 507</name>
+      </trkpt>
+      <trkpt lat="40.8511135000" lon="-80.3494116667">
+        <ele>361.800000</ele>
+        <time>2021-06-25T13:12:36.60Z</time>
+        <course>85.46</course>
+        <name>point 508</name>
+      </trkpt>
+      <trkpt lat="40.8511226667" lon="-80.3493075000">
+        <ele>361.600000</ele>
+        <time>2021-06-25T13:12:36.80Z</time>
+        <course>83.52</course>
+        <name>point 509</name>
+      </trkpt>
+      <trkpt lat="40.8511351667" lon="-80.3492028333">
+        <ele>361.300000</ele>
+        <time>2021-06-25T13:12:37.00Z</time>
+        <course>81.38</course>
+        <name>point 510</name>
+      </trkpt>
+      <trkpt lat="40.8511505000" lon="-80.3490983333">
+        <ele>361.000000</ele>
+        <time>2021-06-25T13:12:37.20Z</time>
+        <course>79.27</course>
+        <name>point 511</name>
+      </trkpt>
+      <trkpt lat="40.8511690000" lon="-80.3489936667">
+        <ele>360.900000</ele>
+        <time>2021-06-25T13:12:37.40Z</time>
+        <course>77.09</course>
+        <name>point 512</name>
+      </trkpt>
+      <trkpt lat="40.8511903333" lon="-80.3488886667">
+        <ele>360.700000</ele>
+        <time>2021-06-25T13:12:37.60Z</time>
+        <course>75.25</course>
+        <name>point 513</name>
+      </trkpt>
+      <trkpt lat="40.8512145000" lon="-80.3487831667">
+        <ele>360.600000</ele>
+        <time>2021-06-25T13:12:37.80Z</time>
+        <course>73.51</course>
+        <name>point 514</name>
+      </trkpt>
+      <trkpt lat="40.8512411667" lon="-80.3486770000">
+        <ele>360.400000</ele>
+        <time>2021-06-25T13:12:38.00Z</time>
+        <course>71.87</course>
+        <name>point 515</name>
+      </trkpt>
+      <trkpt lat="40.8512698333" lon="-80.3485703333">
+        <ele>360.300000</ele>
+        <time>2021-06-25T13:12:38.20Z</time>
+        <course>70.69</course>
+        <name>point 516</name>
+      </trkpt>
+      <trkpt lat="40.8513005000" lon="-80.3484630000">
+        <ele>360.100000</ele>
+        <time>2021-06-25T13:12:38.40Z</time>
+        <course>69.47</course>
+        <name>point 517</name>
+      </trkpt>
+      <trkpt lat="40.8513335000" lon="-80.3483551667">
+        <ele>359.900000</ele>
+        <time>2021-06-25T13:12:38.60Z</time>
+        <course>68.19</course>
+        <name>point 518</name>
+      </trkpt>
+      <trkpt lat="40.8513690000" lon="-80.3482471667">
+        <ele>359.700000</ele>
+        <time>2021-06-25T13:12:38.80Z</time>
+        <course>66.79</course>
+        <name>point 519</name>
+      </trkpt>
+      <trkpt lat="40.8514068333" lon="-80.3481386667">
+        <ele>359.600000</ele>
+        <time>2021-06-25T13:12:39.00Z</time>
+        <course>65.56</course>
+        <name>point 520</name>
+      </trkpt>
+      <trkpt lat="40.8514465000" lon="-80.3480296667">
+        <ele>359.500000</ele>
+        <time>2021-06-25T13:12:39.20Z</time>
+        <course>64.55</course>
+        <name>point 521</name>
+      </trkpt>
+      <trkpt lat="40.8514875000" lon="-80.3479208333">
+        <ele>359.500000</ele>
+        <time>2021-06-25T13:12:39.40Z</time>
+        <course>63.72</course>
+        <name>point 522</name>
+      </trkpt>
+      <trkpt lat="40.8515298333" lon="-80.3478121667">
+        <ele>359.400000</ele>
+        <time>2021-06-25T13:12:39.60Z</time>
+        <course>63.01</course>
+        <name>point 523</name>
+      </trkpt>
+      <trkpt lat="40.8515728333" lon="-80.3477040000">
+        <ele>359.300000</ele>
+        <time>2021-06-25T13:12:39.80Z</time>
+        <course>62.49</course>
+        <name>point 524</name>
+      </trkpt>
+      <trkpt lat="40.8516165000" lon="-80.3475958333">
+        <ele>359.300000</ele>
+        <time>2021-06-25T13:12:40.00Z</time>
+        <course>62.12</course>
+        <name>point 525</name>
+      </trkpt>
+      <trkpt lat="40.8516605000" lon="-80.3474875000">
+        <ele>359.200000</ele>
+        <time>2021-06-25T13:12:40.20Z</time>
+        <course>61.93</course>
+        <name>point 526</name>
+      </trkpt>
+      <trkpt lat="40.8517046667" lon="-80.3473785000">
+        <ele>359.300000</ele>
+        <time>2021-06-25T13:12:40.40Z</time>
+        <course>61.95</course>
+        <name>point 527</name>
+      </trkpt>
+      <trkpt lat="40.8517490000" lon="-80.3472686667">
+        <ele>359.300000</ele>
+        <time>2021-06-25T13:12:40.60Z</time>
+        <course>62.12</course>
+        <name>point 528</name>
+      </trkpt>
+      <trkpt lat="40.8517930000" lon="-80.3471581667">
+        <ele>359.200000</ele>
+        <time>2021-06-25T13:12:40.80Z</time>
+        <course>62.37</course>
+        <name>point 529</name>
+      </trkpt>
+      <trkpt lat="40.8518363333" lon="-80.3470471667">
+        <ele>359.300000</ele>
+        <time>2021-06-25T13:12:41.00Z</time>
+        <course>62.76</course>
+        <name>point 530</name>
+      </trkpt>
+      <trkpt lat="40.8518795000" lon="-80.3469360000">
+        <ele>359.300000</ele>
+        <time>2021-06-25T13:12:41.20Z</time>
+        <course>62.93</course>
+        <name>point 531</name>
+      </trkpt>
+      <trkpt lat="40.8519221667" lon="-80.3468246667">
+        <ele>359.300000</ele>
+        <time>2021-06-25T13:12:41.40Z</time>
+        <course>63.35</course>
+        <name>point 532</name>
+      </trkpt>
+      <trkpt lat="40.8519643333" lon="-80.3467128333">
+        <ele>359.200000</ele>
+        <time>2021-06-25T13:12:41.60Z</time>
+        <course>63.56</course>
+        <name>point 533</name>
+      </trkpt>
+      <trkpt lat="40.8520063333" lon="-80.3466005000">
+        <ele>359.100000</ele>
+        <time>2021-06-25T13:12:41.80Z</time>
+        <course>63.83</course>
+        <name>point 534</name>
+      </trkpt>
+      <trkpt lat="40.8520478333" lon="-80.3464878333">
+        <ele>359.000000</ele>
+        <time>2021-06-25T13:12:42.00Z</time>
+        <course>64.15</course>
+        <name>point 535</name>
+      </trkpt>
+      <trkpt lat="40.8520890000" lon="-80.3463751667">
+        <ele>358.900000</ele>
+        <time>2021-06-25T13:12:42.20Z</time>
+        <course>64.35</course>
+        <name>point 536</name>
+      </trkpt>
+      <trkpt lat="40.8521301667" lon="-80.3462623333">
+        <ele>358.600000</ele>
+        <time>2021-06-25T13:12:42.40Z</time>
+        <course>64.34</course>
+        <name>point 537</name>
+      </trkpt>
+      <trkpt lat="40.8521711667" lon="-80.3461496667">
+        <ele>358.400000</ele>
+        <time>2021-06-25T13:12:42.60Z</time>
+        <course>64.46</course>
+        <name>point 538</name>
+      </trkpt>
+      <trkpt lat="40.8522115000" lon="-80.3460375000">
+        <ele>358.200000</ele>
+        <time>2021-06-25T13:12:42.80Z</time>
+        <course>64.63</course>
+        <name>point 539</name>
+      </trkpt>
+      <trkpt lat="40.8522513333" lon="-80.3459260000">
+        <ele>357.900000</ele>
+        <time>2021-06-25T13:12:43.00Z</time>
+        <course>64.80</course>
+        <name>point 540</name>
+      </trkpt>
+      <trkpt lat="40.8522905000" lon="-80.3458145000">
+        <ele>357.700000</ele>
+        <time>2021-06-25T13:12:43.20Z</time>
+        <course>65.17</course>
+        <name>point 541</name>
+      </trkpt>
+      <trkpt lat="40.8523286667" lon="-80.3457033333">
+        <ele>357.400000</ele>
+        <time>2021-06-25T13:12:43.40Z</time>
+        <course>65.65</course>
+        <name>point 542</name>
+      </trkpt>
+      <trkpt lat="40.8523653333" lon="-80.3455920000">
+        <ele>357.100000</ele>
+        <time>2021-06-25T13:12:43.60Z</time>
+        <course>66.49</course>
+        <name>point 543</name>
+      </trkpt>
+      <trkpt lat="40.8524000000" lon="-80.3454803333">
+        <ele>356.800000</ele>
+        <time>2021-06-25T13:12:43.80Z</time>
+        <course>67.65</course>
+        <name>point 544</name>
+      </trkpt>
+      <trkpt lat="40.8524325000" lon="-80.3453678333">
+        <ele>356.600000</ele>
+        <time>2021-06-25T13:12:44.00Z</time>
+        <course>69.15</course>
+        <name>point 545</name>
+      </trkpt>
+      <trkpt lat="40.8524621667" lon="-80.3452548333">
+        <ele>356.400000</ele>
+        <time>2021-06-25T13:12:44.20Z</time>
+        <course>70.84</course>
+        <name>point 546</name>
+      </trkpt>
+      <trkpt lat="40.8524886667" lon="-80.3451411667">
+        <ele>356.200000</ele>
+        <time>2021-06-25T13:12:44.40Z</time>
+        <course>72.84</course>
+        <name>point 547</name>
+      </trkpt>
+      <trkpt lat="40.8525121667" lon="-80.3450270000">
+        <ele>355.900000</ele>
+        <time>2021-06-25T13:12:44.60Z</time>
+        <course>74.74</course>
+        <name>point 548</name>
+      </trkpt>
+      <trkpt lat="40.8525325000" lon="-80.3449125000">
+        <ele>355.700000</ele>
+        <time>2021-06-25T13:12:44.80Z</time>
+        <course>76.81</course>
+        <name>point 549</name>
+      </trkpt>
+      <trkpt lat="40.8525496667" lon="-80.3447978333">
+        <ele>355.500000</ele>
+        <time>2021-06-25T13:12:45.00Z</time>
+        <course>78.77</course>
+        <name>point 550</name>
+      </trkpt>
+      <trkpt lat="40.8525636667" lon="-80.3446826667">
+        <ele>355.300000</ele>
+        <time>2021-06-25T13:12:45.20Z</time>
+        <course>80.83</course>
+        <name>point 551</name>
+      </trkpt>
+      <trkpt lat="40.8525741667" lon="-80.3445676667">
+        <ele>355.200000</ele>
+        <time>2021-06-25T13:12:45.40Z</time>
+        <course>83.09</course>
+        <name>point 552</name>
+      </trkpt>
+      <trkpt lat="40.8525815000" lon="-80.3444528333">
+        <ele>355.100000</ele>
+        <time>2021-06-25T13:12:45.60Z</time>
+        <course>85.05</course>
+        <name>point 553</name>
+      </trkpt>
+      <trkpt lat="40.8525861667" lon="-80.3443383333">
+        <ele>355.100000</ele>
+        <time>2021-06-25T13:12:45.80Z</time>
+        <course>86.86</course>
+        <name>point 554</name>
+      </trkpt>
+      <trkpt lat="40.8525885000" lon="-80.3442243333">
+        <ele>355.000000</ele>
+        <time>2021-06-25T13:12:46.00Z</time>
+        <course>88.49</course>
+        <name>point 555</name>
+      </trkpt>
+      <trkpt lat="40.8525883333" lon="-80.3441111667">
+        <ele>354.800000</ele>
+        <time>2021-06-25T13:12:46.20Z</time>
+        <course>90.04</course>
+        <name>point 556</name>
+      </trkpt>
+      <trkpt lat="40.8525860000" lon="-80.3439986667">
+        <ele>354.700000</ele>
+        <time>2021-06-25T13:12:46.40Z</time>
+        <course>91.46</course>
+        <name>point 557</name>
+      </trkpt>
+      <trkpt lat="40.8525823333" lon="-80.3438873333">
+        <ele>354.600000</ele>
+        <time>2021-06-25T13:12:46.60Z</time>
+        <course>92.51</course>
+        <name>point 558</name>
+      </trkpt>
+      <trkpt lat="40.8525773333" lon="-80.3437768333">
+        <ele>354.500000</ele>
+        <time>2021-06-25T13:12:46.80Z</time>
+        <course>93.39</course>
+        <name>point 559</name>
+      </trkpt>
+      <trkpt lat="40.8525718333" lon="-80.3436681667">
+        <ele>354.400000</ele>
+        <time>2021-06-25T13:12:47.00Z</time>
+        <course>93.82</course>
+        <name>point 560</name>
+      </trkpt>
+      <trkpt lat="40.8525660000" lon="-80.3435625000">
+        <ele>354.300000</ele>
+        <time>2021-06-25T13:12:47.20Z</time>
+        <course>94.17</course>
+        <name>point 561</name>
+      </trkpt>
+      <trkpt lat="40.8525600000" lon="-80.3434611667">
+        <ele>354.100000</ele>
+        <time>2021-06-25T13:12:47.40Z</time>
+        <course>94.54</course>
+        <name>point 562</name>
+      </trkpt>
+      <trkpt lat="40.8525538333" lon="-80.3433646667">
+        <ele>354.100000</ele>
+        <time>2021-06-25T13:12:47.60Z</time>
+        <course>94.82</course>
+        <name>point 563</name>
+      </trkpt>
+      <trkpt lat="40.8525480000" lon="-80.3432716667">
+        <ele>354.000000</ele>
+        <time>2021-06-25T13:12:47.80Z</time>
+        <course>94.81</course>
+        <name>point 564</name>
+      </trkpt>
+      <trkpt lat="40.8525420000" lon="-80.3431825000">
+        <ele>353.900000</ele>
+        <time>2021-06-25T13:12:48.00Z</time>
+        <course>95.12</course>
+        <name>point 565</name>
+      </trkpt>
+      <trkpt lat="40.8525355000" lon="-80.3430980000">
+        <ele>353.800000</ele>
+        <time>2021-06-25T13:12:48.20Z</time>
+        <course>95.73</course>
+        <name>point 566</name>
+      </trkpt>
+      <trkpt lat="40.8525288333" lon="-80.3430176667">
+        <ele>353.800000</ele>
+        <time>2021-06-25T13:12:48.40Z</time>
+        <course>96.36</course>
+        <name>point 567</name>
+      </trkpt>
+      <trkpt lat="40.8525225000" lon="-80.3429408333">
+        <ele>353.800000</ele>
+        <time>2021-06-25T13:12:48.60Z</time>
+        <course>96.34</course>
+        <name>point 568</name>
+      </trkpt>
+      <trkpt lat="40.8525165000" lon="-80.3428673333">
+        <ele>353.900000</ele>
+        <time>2021-06-25T13:12:48.80Z</time>
+        <course>96.19</course>
+        <name>point 569</name>
+      </trkpt>
+      <trkpt lat="40.8525108333" lon="-80.3427971667">
+        <ele>353.900000</ele>
+        <time>2021-06-25T13:12:49.00Z</time>
+        <course>96.20</course>
+        <name>point 570</name>
+      </trkpt>
+      <trkpt lat="40.8525055000" lon="-80.3427305000">
+        <ele>354.000000</ele>
+        <time>2021-06-25T13:12:49.20Z</time>
+        <course>96.21</course>
+        <name>point 571</name>
+      </trkpt>
+      <trkpt lat="40.8525001667" lon="-80.3426670000">
+        <ele>354.200000</ele>
+        <time>2021-06-25T13:12:49.40Z</time>
+        <course>96.31</course>
+        <name>point 572</name>
+      </trkpt>
+      <trkpt lat="40.8524948333" lon="-80.3426068333">
+        <ele>354.300000</ele>
+        <time>2021-06-25T13:12:49.60Z</time>
+        <course>96.80</course>
+        <name>point 573</name>
+      </trkpt>
+      <trkpt lat="40.8524890000" lon="-80.3425496667">
+        <ele>354.500000</ele>
+        <time>2021-06-25T13:12:49.80Z</time>
+        <course>97.63</course>
+        <name>point 574</name>
+      </trkpt>
+      <trkpt lat="40.8524821667" lon="-80.3424946667">
+        <ele>354.600000</ele>
+        <time>2021-06-25T13:12:50.00Z</time>
+        <course>99.49</course>
+        <name>point 575</name>
+      </trkpt>
+      <trkpt lat="40.8524731667" lon="-80.3424416667">
+        <ele>354.800000</ele>
+        <time>2021-06-25T13:12:50.20Z</time>
+        <course>102.47</course>
+        <name>point 576</name>
+      </trkpt>
+      <trkpt lat="40.8524611667" lon="-80.3423910000">
+        <ele>354.900000</ele>
+        <time>2021-06-25T13:12:50.40Z</time>
+        <course>107.27</course>
+        <name>point 577</name>
+      </trkpt>
+      <trkpt lat="40.8524453333" lon="-80.3423438333">
+        <ele>355.100000</ele>
+        <time>2021-06-25T13:12:50.60Z</time>
+        <course>113.37</course>
+        <name>point 578</name>
+      </trkpt>
+      <trkpt lat="40.8524265000" lon="-80.3423001667">
+        <ele>355.300000</ele>
+        <time>2021-06-25T13:12:50.80Z</time>
+        <course>119.46</course>
+        <name>point 579</name>
+      </trkpt>
+      <trkpt lat="40.8524048333" lon="-80.3422601667">
+        <ele>355.500000</ele>
+        <time>2021-06-25T13:12:51.00Z</time>
+        <course>125.37</course>
+        <name>point 580</name>
+      </trkpt>
+      <trkpt lat="40.8523801667" lon="-80.3422241667">
+        <ele>355.700000</ele>
+        <time>2021-06-25T13:12:51.20Z</time>
+        <course>131.66</course>
+        <name>point 581</name>
+      </trkpt>
+      <trkpt lat="40.8523530000" lon="-80.3421930000">
+        <ele>355.900000</ele>
+        <time>2021-06-25T13:12:51.40Z</time>
+        <course>138.40</course>
+        <name>point 582</name>
+      </trkpt>
+      <trkpt lat="40.8523238333" lon="-80.3421665000">
+        <ele>356.100000</ele>
+        <time>2021-06-25T13:12:51.60Z</time>
+        <course>145.38</course>
+        <name>point 583</name>
+      </trkpt>
+      <trkpt lat="40.8522923333" lon="-80.3421446667">
+        <ele>356.300000</ele>
+        <time>2021-06-25T13:12:51.80Z</time>
+        <course>151.84</course>
+        <name>point 584</name>
+      </trkpt>
+      <trkpt lat="40.8522591667" lon="-80.3421273333">
+        <ele>356.600000</ele>
+        <time>2021-06-25T13:12:52.00Z</time>
+        <course>158.12</course>
+        <name>point 585</name>
+      </trkpt>
+      <trkpt lat="40.8522243333" lon="-80.3421143333">
+        <ele>356.800000</ele>
+        <time>2021-06-25T13:12:52.20Z</time>
+        <course>164.08</course>
+        <name>point 586</name>
+      </trkpt>
+      <trkpt lat="40.8521881667" lon="-80.3421058333">
+        <ele>357.000000</ele>
+        <time>2021-06-25T13:12:52.40Z</time>
+        <course>169.89</course>
+        <name>point 587</name>
+      </trkpt>
+      <trkpt lat="40.8521513333" lon="-80.3421028333">
+        <ele>357.300000</ele>
+        <time>2021-06-25T13:12:52.60Z</time>
+        <course>176.42</course>
+        <name>point 588</name>
+      </trkpt>
+      <trkpt lat="40.8521145000" lon="-80.3421051667">
+        <ele>357.600000</ele>
+        <time>2021-06-25T13:12:52.80Z</time>
+        <course>182.60</course>
+        <name>point 589</name>
+      </trkpt>
+      <trkpt lat="40.8520773333" lon="-80.3421121667">
+        <ele>357.900000</ele>
+        <time>2021-06-25T13:12:53.00Z</time>
+        <course>188.08</course>
+        <name>point 590</name>
+      </trkpt>
+      <trkpt lat="40.8520401667" lon="-80.3421233333">
+        <ele>358.200000</ele>
+        <time>2021-06-25T13:12:53.20Z</time>
+        <course>192.84</course>
+        <name>point 591</name>
+      </trkpt>
+      <trkpt lat="40.8520030000" lon="-80.3421381667">
+        <ele>358.500000</ele>
+        <time>2021-06-25T13:12:53.40Z</time>
+        <course>196.91</course>
+        <name>point 592</name>
+      </trkpt>
+      <trkpt lat="40.8519660000" lon="-80.3421568333">
+        <ele>358.800000</ele>
+        <time>2021-06-25T13:12:53.60Z</time>
+        <course>201.03</course>
+        <name>point 593</name>
+      </trkpt>
+      <trkpt lat="40.8519296667" lon="-80.3421791667">
+        <ele>359.100000</ele>
+        <time>2021-06-25T13:12:53.80Z</time>
+        <course>205.13</course>
+        <name>point 594</name>
+      </trkpt>
+      <trkpt lat="40.8518938333" lon="-80.3422053333">
+        <ele>359.400000</ele>
+        <time>2021-06-25T13:12:54.00Z</time>
+        <course>209.25</course>
+        <name>point 595</name>
+      </trkpt>
+      <trkpt lat="40.8518583333" lon="-80.3422356667">
+        <ele>359.700000</ele>
+        <time>2021-06-25T13:12:54.20Z</time>
+        <course>213.03</course>
+        <name>point 596</name>
+      </trkpt>
+      <trkpt lat="40.8518236667" lon="-80.3422700000">
+        <ele>360.000000</ele>
+        <time>2021-06-25T13:12:54.40Z</time>
+        <course>217.09</course>
+        <name>point 597</name>
+      </trkpt>
+      <trkpt lat="40.8517908333" lon="-80.3423081667">
+        <ele>360.300000</ele>
+        <time>2021-06-25T13:12:54.60Z</time>
+        <course>221.52</course>
+        <name>point 598</name>
+      </trkpt>
+      <trkpt lat="40.8517600000" lon="-80.3423503333">
+        <ele>360.500000</ele>
+        <time>2021-06-25T13:12:54.80Z</time>
+        <course>225.99</course>
+        <name>point 599</name>
+      </trkpt>
+      <trkpt lat="40.8517308333" lon="-80.3423965000">
+        <ele>360.800000</ele>
+        <time>2021-06-25T13:12:55.00Z</time>
+        <course>230.21</course>
+        <name>point 600</name>
+      </trkpt>
+      <trkpt lat="40.8517036667" lon="-80.3424466667">
+        <ele>361.000000</ele>
+        <time>2021-06-25T13:12:55.20Z</time>
+        <course>234.45</course>
+        <name>point 601</name>
+      </trkpt>
+      <trkpt lat="40.8516785000" lon="-80.3425005000">
+        <ele>361.200000</ele>
+        <time>2021-06-25T13:12:55.40Z</time>
+        <course>238.32</course>
+        <name>point 602</name>
+      </trkpt>
+      <trkpt lat="40.8516555000" lon="-80.3425575000">
+        <ele>361.500000</ele>
+        <time>2021-06-25T13:12:55.60Z</time>
+        <course>242.00</course>
+        <name>point 603</name>
+      </trkpt>
+      <trkpt lat="40.8516345000" lon="-80.3426176667">
+        <ele>361.700000</ele>
+        <time>2021-06-25T13:12:55.80Z</time>
+        <course>245.36</course>
+        <name>point 604</name>
+      </trkpt>
+      <trkpt lat="40.8516165000" lon="-80.3426806667">
+        <ele>361.800000</ele>
+        <time>2021-06-25T13:12:56.00Z</time>
+        <course>249.24</course>
+        <name>point 605</name>
+      </trkpt>
+      <trkpt lat="40.8516013333" lon="-80.3427460000">
+        <ele>362.100000</ele>
+        <time>2021-06-25T13:12:56.20Z</time>
+        <course>252.88</course>
+        <name>point 606</name>
+      </trkpt>
+      <trkpt lat="40.8515888333" lon="-80.3428136667">
+        <ele>362.300000</ele>
+        <time>2021-06-25T13:12:56.40Z</time>
+        <course>256.38</course>
+        <name>point 607</name>
+      </trkpt>
+      <trkpt lat="40.8515793333" lon="-80.3428835000">
+        <ele>362.500000</ele>
+        <time>2021-06-25T13:12:56.60Z</time>
+        <course>259.67</course>
+        <name>point 608</name>
+      </trkpt>
+      <trkpt lat="40.8515726667" lon="-80.3429555000">
+        <ele>362.800000</ele>
+        <time>2021-06-25T13:12:56.80Z</time>
+        <course>262.78</course>
+        <name>point 609</name>
+      </trkpt>
+      <trkpt lat="40.8515683333" lon="-80.3430295000">
+        <ele>363.000000</ele>
+        <time>2021-06-25T13:12:57.00Z</time>
+        <course>265.42</course>
+        <name>point 610</name>
+      </trkpt>
+      <trkpt lat="40.8515663333" lon="-80.3431048333">
+        <ele>363.200000</ele>
+        <time>2021-06-25T13:12:57.20Z</time>
+        <course>267.79</course>
+        <name>point 611</name>
+      </trkpt>
+      <trkpt lat="40.8515658333" lon="-80.3431813333">
+        <ele>363.300000</ele>
+        <time>2021-06-25T13:12:57.40Z</time>
+        <course>269.59</course>
+        <name>point 612</name>
+      </trkpt>
+      <trkpt lat="40.8515665000" lon="-80.3432590000">
+        <ele>363.500000</ele>
+        <time>2021-06-25T13:12:57.60Z</time>
+        <course>270.75</course>
+        <name>point 613</name>
+      </trkpt>
+      <trkpt lat="40.8515680000" lon="-80.3433380000">
+        <ele>363.600000</ele>
+        <time>2021-06-25T13:12:57.80Z</time>
+        <course>271.62</course>
+        <name>point 614</name>
+      </trkpt>
+      <trkpt lat="40.8515703333" lon="-80.3434180000">
+        <ele>363.700000</ele>
+        <time>2021-06-25T13:12:58.00Z</time>
+        <course>272.21</course>
+        <name>point 615</name>
+      </trkpt>
+      <trkpt lat="40.8515728333" lon="-80.3434990000">
+        <ele>363.800000</ele>
+        <time>2021-06-25T13:12:58.20Z</time>
+        <course>272.56</course>
+        <name>point 616</name>
+      </trkpt>
+      <trkpt lat="40.8515756667" lon="-80.3435808333">
+        <ele>363.900000</ele>
+        <time>2021-06-25T13:12:58.40Z</time>
+        <course>272.76</course>
+        <name>point 617</name>
+      </trkpt>
+      <trkpt lat="40.8515786667" lon="-80.3436633333">
+        <ele>364.100000</ele>
+        <time>2021-06-25T13:12:58.60Z</time>
+        <course>272.86</course>
+        <name>point 618</name>
+      </trkpt>
+      <trkpt lat="40.8515815000" lon="-80.3437470000">
+        <ele>364.200000</ele>
+        <time>2021-06-25T13:12:58.80Z</time>
+        <course>272.82</course>
+        <name>point 619</name>
+      </trkpt>
+      <trkpt lat="40.8515845000" lon="-80.3438316667">
+        <ele>364.300000</ele>
+        <time>2021-06-25T13:12:59.00Z</time>
+        <course>272.84</course>
+        <name>point 620</name>
+      </trkpt>
+      <trkpt lat="40.8515873333" lon="-80.3439171667">
+        <ele>364.400000</ele>
+        <time>2021-06-25T13:12:59.20Z</time>
+        <course>272.72</course>
+        <name>point 621</name>
+      </trkpt>
+      <trkpt lat="40.8515900000" lon="-80.3440036667">
+        <ele>364.500000</ele>
+        <time>2021-06-25T13:12:59.40Z</time>
+        <course>272.42</course>
+        <name>point 622</name>
+      </trkpt>
+      <trkpt lat="40.8515916667" lon="-80.3440911667">
+        <ele>364.600000</ele>
+        <time>2021-06-25T13:12:59.60Z</time>
+        <course>271.77</course>
+        <name>point 623</name>
+      </trkpt>
+      <trkpt lat="40.8515923333" lon="-80.3441793333">
+        <ele>364.800000</ele>
+        <time>2021-06-25T13:12:59.80Z</time>
+        <course>270.76</course>
+        <name>point 624</name>
+      </trkpt>
+      <trkpt lat="40.8515915000" lon="-80.3442686667">
+        <ele>364.900000</ele>
+        <time>2021-06-25T13:13:00.00Z</time>
+        <course>269.66</course>
+        <name>point 625</name>
+      </trkpt>
+      <trkpt lat="40.8515895000" lon="-80.3443586667">
+        <ele>365.000000</ele>
+        <time>2021-06-25T13:13:00.20Z</time>
+        <course>268.62</course>
+        <name>point 626</name>
+      </trkpt>
+      <trkpt lat="40.8515865000" lon="-80.3444493333">
+        <ele>365.100000</ele>
+        <time>2021-06-25T13:13:00.40Z</time>
+        <course>267.76</course>
+        <name>point 627</name>
+      </trkpt>
+      <trkpt lat="40.8515826667" lon="-80.3445403333">
+        <ele>365.300000</ele>
+        <time>2021-06-25T13:13:00.60Z</time>
+        <course>266.97</course>
+        <name>point 628</name>
+      </trkpt>
+      <trkpt lat="40.8515775000" lon="-80.3446318333">
+        <ele>365.400000</ele>
+        <time>2021-06-25T13:13:00.80Z</time>
+        <course>266.05</course>
+        <name>point 629</name>
+      </trkpt>
+      <trkpt lat="40.8515711667" lon="-80.3447238333">
+        <ele>365.500000</ele>
+        <time>2021-06-25T13:13:01.00Z</time>
+        <course>264.99</course>
+        <name>point 630</name>
+      </trkpt>
+      <trkpt lat="40.8515635000" lon="-80.3448165000">
+        <ele>365.600000</ele>
+        <time>2021-06-25T13:13:01.20Z</time>
+        <course>263.94</course>
+        <name>point 631</name>
+      </trkpt>
+      <trkpt lat="40.8515543333" lon="-80.3449095000">
+        <ele>365.800000</ele>
+        <time>2021-06-25T13:13:01.40Z</time>
+        <course>262.81</course>
+        <name>point 632</name>
+      </trkpt>
+      <trkpt lat="40.8515436667" lon="-80.3450026667">
+        <ele>365.900000</ele>
+        <time>2021-06-25T13:13:01.60Z</time>
+        <course>261.57</course>
+        <name>point 633</name>
+      </trkpt>
+      <trkpt lat="40.8515313333" lon="-80.3450961667">
+        <ele>366.000000</ele>
+        <time>2021-06-25T13:13:01.80Z</time>
+        <course>260.34</course>
+        <name>point 634</name>
+      </trkpt>
+      <trkpt lat="40.8515173333" lon="-80.3451898333">
+        <ele>366.100000</ele>
+        <time>2021-06-25T13:13:02.00Z</time>
+        <course>259.09</course>
+        <name>point 635</name>
+      </trkpt>
+      <trkpt lat="40.8515015000" lon="-80.3452836667">
+        <ele>366.200000</ele>
+        <time>2021-06-25T13:13:02.20Z</time>
+        <course>257.70</course>
+        <name>point 636</name>
+      </trkpt>
+      <trkpt lat="40.8514836667" lon="-80.3453773333">
+        <ele>366.300000</ele>
+        <time>2021-06-25T13:13:02.40Z</time>
+        <course>256.17</course>
+        <name>point 637</name>
+      </trkpt>
+      <trkpt lat="40.8514640000" lon="-80.3454708333">
+        <ele>366.400000</ele>
+        <time>2021-06-25T13:13:02.60Z</time>
+        <course>254.76</course>
+        <name>point 638</name>
+      </trkpt>
+      <trkpt lat="40.8514426667" lon="-80.3455645000">
+        <ele>366.500000</ele>
+        <time>2021-06-25T13:13:02.80Z</time>
+        <course>253.47</course>
+        <name>point 639</name>
+      </trkpt>
+      <trkpt lat="40.8514196667" lon="-80.3456583333">
+        <ele>366.500000</ele>
+        <time>2021-06-25T13:13:03.00Z</time>
+        <course>252.36</course>
+        <name>point 640</name>
+      </trkpt>
+      <trkpt lat="40.8513953333" lon="-80.3457525000">
+        <ele>366.500000</ele>
+        <time>2021-06-25T13:13:03.20Z</time>
+        <course>251.38</course>
+        <name>point 641</name>
+      </trkpt>
+      <trkpt lat="40.8513696667" lon="-80.3458471667">
+        <ele>366.500000</ele>
+        <time>2021-06-25T13:13:03.40Z</time>
+        <course>250.60</course>
+        <name>point 642</name>
+      </trkpt>
+      <trkpt lat="40.8513430000" lon="-80.3459423333">
+        <ele>366.400000</ele>
+        <time>2021-06-25T13:13:03.60Z</time>
+        <course>249.93</course>
+        <name>point 643</name>
+      </trkpt>
+      <trkpt lat="40.8513150000" lon="-80.3460381667">
+        <ele>366.400000</ele>
+        <time>2021-06-25T13:13:03.80Z</time>
+        <course>249.20</course>
+        <name>point 644</name>
+      </trkpt>
+      <trkpt lat="40.8512860000" lon="-80.3461350000">
+        <ele>366.300000</ele>
+        <time>2021-06-25T13:13:04.00Z</time>
+        <course>248.66</course>
+        <name>point 645</name>
+      </trkpt>
+      <trkpt lat="40.8512565000" lon="-80.3462325000">
+        <ele>366.100000</ele>
+        <time>2021-06-25T13:13:04.20Z</time>
+        <course>248.39</course>
+        <name>point 646</name>
+      </trkpt>
+      <trkpt lat="40.8512265000" lon="-80.3463311667">
+        <ele>366.000000</ele>
+        <time>2021-06-25T13:13:04.40Z</time>
+        <course>248.27</course>
+        <name>point 647</name>
+      </trkpt>
+      <trkpt lat="40.8511956667" lon="-80.3464305000">
+        <ele>365.800000</ele>
+        <time>2021-06-25T13:13:04.60Z</time>
+        <course>248.00</course>
+        <name>point 648</name>
+      </trkpt>
+      <trkpt lat="40.8511645000" lon="-80.3465308333">
+        <ele>365.600000</ele>
+        <time>2021-06-25T13:13:04.80Z</time>
+        <course>247.81</course>
+        <name>point 649</name>
+      </trkpt>
+      <trkpt lat="40.8511326667" lon="-80.3466323333">
+        <ele>365.300000</ele>
+        <time>2021-06-25T13:13:05.00Z</time>
+        <course>247.70</course>
+        <name>point 650</name>
+      </trkpt>
+      <trkpt lat="40.8511000000" lon="-80.3467348333">
+        <ele>365.000000</ele>
+        <time>2021-06-25T13:13:05.20Z</time>
+        <course>247.43</course>
+        <name>point 651</name>
+      </trkpt>
+      <trkpt lat="40.8510668333" lon="-80.3468383333">
+        <ele>364.700000</ele>
+        <time>2021-06-25T13:13:05.40Z</time>
+        <course>247.27</course>
+        <name>point 652</name>
+      </trkpt>
+      <trkpt lat="40.8510333333" lon="-80.3469425000">
+        <ele>364.400000</ele>
+        <time>2021-06-25T13:13:05.60Z</time>
+        <course>247.07</course>
+        <name>point 653</name>
+      </trkpt>
+      <trkpt lat="40.8509993333" lon="-80.3470471667">
+        <ele>364.200000</ele>
+        <time>2021-06-25T13:13:05.80Z</time>
+        <course>246.99</course>
+        <name>point 654</name>
+      </trkpt>
+      <trkpt lat="40.8509651667" lon="-80.3471528333">
+        <ele>363.900000</ele>
+        <time>2021-06-25T13:13:06.00Z</time>
+        <course>246.99</course>
+        <name>point 655</name>
+      </trkpt>
+      <trkpt lat="40.8509306667" lon="-80.3472595000">
+        <ele>363.500000</ele>
+        <time>2021-06-25T13:13:06.20Z</time>
+        <course>247.05</course>
+        <name>point 656</name>
+      </trkpt>
+      <trkpt lat="40.8508960000" lon="-80.3473668333">
+        <ele>363.200000</ele>
+        <time>2021-06-25T13:13:06.40Z</time>
+        <course>247.10</course>
+        <name>point 657</name>
+      </trkpt>
+      <trkpt lat="40.8508611667" lon="-80.3474748333">
+        <ele>362.900000</ele>
+        <time>2021-06-25T13:13:06.60Z</time>
+        <course>247.11</course>
+        <name>point 658</name>
+      </trkpt>
+      <trkpt lat="40.8508263333" lon="-80.3475836667">
+        <ele>362.600000</ele>
+        <time>2021-06-25T13:13:06.80Z</time>
+        <course>247.18</course>
+        <name>point 659</name>
+      </trkpt>
+      <trkpt lat="40.8507911667" lon="-80.3476933333">
+        <ele>362.200000</ele>
+        <time>2021-06-25T13:13:07.00Z</time>
+        <course>247.27</course>
+        <name>point 660</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
